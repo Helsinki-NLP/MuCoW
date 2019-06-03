@@ -1,0 +1,231 @@
+aika	period months hour era time	in	6	4
+aika	season	out	0	10
+ala	business	out	1	6
+ala	field	in	5	5
+alennus	rebate discount	out	4	6
+alennus	reduction	in	7	1
+alue	area regions regional district domain place region territory	in	5	5
+alue	field	in	5	5
+asiakirja	act	in	5	2
+asiakirja	documents document	in	6	4
+asiantuntija	authority	out	1	9
+asiantuntija	expert experts	out	3	7
+aukio	clearing	out	0	5
+aukio	plaza square	out	1	7
+ero	breakup break-up	out	0	10
+ero	difference	in	6	4
+esitys	performance	out	1	9
+esitys	presentation	out	4	6
+esitys	representation	in	2	2
+etiketti	etiquette	out	0	4
+etiketti	label	out	4	6
+harjoitus	practice exercise training drill	out	3	7
+harjoitus	rehearsal	out	0	8
+harppu	hag	out	0	4
+harppu	harp	out	0	10
+henki	life	out	4	6
+henki	soul	out	1	4
+huijari	con conman	out	0	10
+huijari	imposter charlatan impostor fraud faker swindler fake	out	0	10
+ilmoitus	ad	out	0	10
+ilmoitus	notice	in	5	5
+jakso	episode	out	0	10
+jakso	period	in	5	5
+jakso	section	in	10	0
+joukko	lot	out	0	6
+joukko	mob gang crowd bunch crew	out	1	9
+joukko	set collection	out	2	7
+jousi	bow	out	0	10
+jousi	spring	out	0	10
+jälkeläinen	descendent descendant	out	0	10
+jälkeläinen	offspring	out	0	10
+jännitys	suspense	out	0	5
+jännitys	tension	in	5	5
+kanava	canal	out	1	9
+kanava	channel	in	5	4
+kantaja	bearer porter	out	0	5
+kantaja	plaintiff claimant	in	5	5
+kappale	body object	out	4	6
+kappale	section	out	3	4
+kauppa	store	out	1	9
+kauppa	trading trade business buy sell purchase commerce transaction	out	4	6
+kausi	period era year	in	5	5
+kausi	season	out	3	7
+kello	bell	out	0	10
+kello	timer watch clock	in	6	4
+kerros	layer	out	1	9
+kerros	level floor	out	4	6
+kestävyys	durability	in	4	1
+kestävyys	stamina endurance	out	0	10
+kiekko	disk disc	out	0	9
+kiekko	puck	out	0	10
+kieli	languages tongue language	in	7	3
+kieli	string	out	0	4
+kieltäminen	denial	out	0	5
+kieltäminen	prohibition	in	9	1
+kiristys	blackmail	out	3	6
+kiristys	extortion	out	1	9
+koppi	box	out	0	4
+koppi	catch	out	0	6
+kruunu	crown	in	5	5
+kruunu	krona krone	in	3	1
+kulta	gold	out	2	4
+kulta	love lover	out	0	9
+kuu	months month	out	4	6
+kuu	moon	in	5	5
+käsikirjoitus	manuscript	out	3	7
+käsikirjoitus	scenario screenplay script	out	3	7
+käyttö	operation	in	10	0
+käyttö	usage	out	3	6
+käännös	translation translated	in	6	4
+käännös	turn	out	0	10
+kääpiö	dwarf	out	2	8
+kääpiö	midget	out	0	10
+laitos	department	out	4	6
+laitos	plant installation facility	in	5	5
+lauma	flock	out	0	10
+lauma	herd	out	0	10
+lauma	mob bunch	out	0	10
+lippu	flag flags	out	3	7
+lippu	ticket	out	2	8
+luku	chapter section	in	5	4
+luku	number	in	5	5
+luokka	category	in	7	3
+luokka	grade classroom class	out	3	7
+lähde	source informant	out	4	6
+lähde	spring fountain	out	0	10
+lähetti	bishop	out	0	10
+lähetti	messenger courier	out	0	10
+maali	goal	out	0	10
+maali	paint	out	1	9
+maali	target	out	0	10
+mahdollisuus	chance probability odds	in	5	5
+mahdollisuus	shot	out	0	10
+matto	carpeting rug carpet	out	1	9
+matto	mat	out	0	5
+mieli	mind	out	1	9
+mieli	mood	out	0	9
+moraali	morale	out	2	8
+moraali	morality	out	2	8
+muutos	change alteration transformation modification variation	out	4	6
+muutos	transition	out	3	7
+määrä	count	out	1	9
+määrä	volume amount total sum	in	5	5
+näyttö	display screen monitor	out	3	7
+näyttö	evidence	in	5	5
+odotus	expectation	out	4	6
+odotus	wait	out	0	10
+ohjaaja	director	in	6	4
+ohjaaja	mentor	out	4	6
+ohjelma	schedule	in	3	2
+ohjelma	software program programme	in	5	5
+ominaisuus	property	in	5	5
+ominaisuus	quality	out	2	8
+opetus	education educational teach teaching training	out	4	6
+opetus	lesson moral	in	5	5
+osa	bit	out	1	9
+osa	component role part portion	in	5	5
+osa	movement	out	2	4
+osa	volume	out	4	6
+paikka	patch	out	0	4
+paikka	seat seats	in	5	5
+paikka	spot location place position	in	9	1
+paketti	packet	out	0	8
+paketti	parcel package pack	in	5	5
+palvelijatar	handmaiden	out	0	4
+palvelijatar	maid	out	0	9
+pilkku	comma	out	1	9
+pilkku	spot	out	0	6
+pilli	straw	out	0	10
+pilli	whistle	out	0	10
+pilvi	cloud	out	1	9
+pilvi	pot weed	out	0	7
+piste	score period stop dot point	out	4	5
+piste	spot	out	1	9
+päätös	conclusion	in	5	5
+päätös	judgement decision judgment choice	in	5	5
+päätös	order	in	5	5
+pöytäkirja	convention protocol	in	7	3
+pöytäkirja	minutes	in	5	1
+raja	border boundary borders	in	5	5
+raja	line	in	5	5
+rengas	ring	out	2	8
+rengas	tire tyre	out	1	9
+resepti	prescription	out	1	9
+resepti	recipe	out	3	7
+ruoka	dinner supper	out	1	9
+ruoka	foods food	in	5	5
+side	bandage	out	0	10
+side	bond	out	1	9
+side	link connection	in	5	5
+sotilas	pawn	out	0	10
+sotilas	private soldier warrior marine	out	1	8
+suhde	ratio	out	4	6
+suhde	relationships connection relationship relations relation	in	5	5
+suunnitelma	design	out	3	7
+suunnitelma	scheme plans strategy plan	in	5	5
+taivas	heaven	out	0	8
+taivas	sky skies	in	6	4
+talli	stable stables	out	0	10
+talli	team	out	0	7
+talous	economies economy economic	out	3	7
+talous	household	out	3	6
+tapaus	instance case example	in	6	4
+tapaus	occurrence event incident	in	5	5
+tehtävä	assignment	out	1	9
+tehtävä	mandate	in	6	2
+tehtävä	task	in	6	4
+tila	farms estate farm	out	2	6
+tila	space	in	5	5
+tila	state status	in	5	5
+toimittaja	journalist reporters journo journalists	out	4	6
+toimittaja	supplier	in	5	5
+torni	castle rook	out	0	5
+torni	tower	in	5	5
+tuomari	magistrate justice judge judges	in	5	0
+tuomari	referee umpire	out	1	9
+tutkija	investigator detective	out	0	10
+tutkija	scientists scientist	in	5	5
+tutkimus	exploration	out	0	8
+tutkimus	investigation research	in	5	5
+työhuone	office	out	0	9
+työhuone	study	out	0	6
+täytäntöönpano	enforcement	in	7	2
+täytäntöönpano	execution	in	7	0
+uni	dreaming dream dreams	out	2	8
+uni	sleep sleeping	out	0	10
+uudistus	innovation	in	10	0
+uudistus	reform reforms	in	7	2
+valta	authority	in	5	5
+valta	power	in	6	4
+valtuutus	authorization authorisation authority authorised	out	3	5
+valtuutus	mandate	in	7	0
+vapauttaminen	liberalization liberalise liberalisation	in	7	3
+vapauttaminen	release	in	6	4
+vartalo	figure build bod	out	0	10
+vartalo	torso body	out	0	10
+vastakohta	antithesis opposite	out	2	7
+vastakohta	contrast	in	6	4
+verkko	grid	out	0	10
+verkko	net network	in	5	5
+vetäytyminen	retreat	out	3	4
+vetäytyminen	withdrawal	in	5	5
+virkailija	clerk	out	0	10
+virkailija	official	in	5	5
+voima	forces force	in	5	5
+voima	strength	in	5	5
+voitto	profit	in	5	5
+voitto	triumph success victory win	in	6	4
+väestö	people	in	5	5
+väestö	populations population	in	5	5
+vähennys	deduction	in	8	2
+vähennys	reduction	in	7	3
+väri	dye colour color colors colours	in	5	5
+väri	flush	out	0	4
+ydin	core gist essence substance nub heart	in	5	5
+ydin	nucleus	in	5	5
+yritys	efforts trying try effort	in	5	3
+yritys	firm companies enterprise corporation company venture	in	5	5
+yritys	shot	out	0	10
+ääni	voice sounds tone sound noise voices	in	7	3
+ääni	vote	out	3	6

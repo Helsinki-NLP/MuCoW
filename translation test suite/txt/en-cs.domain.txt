@@ -1,0 +1,200 @@
+antenna	antény anténa	out	2	8
+antenna	tykadlo	out	0	5
+arm	ruka paže	out	0	10
+arm	zbraň	out	0	6
+bank	banka	out	0	10
+bank	břeh	out	0	10
+bark	kůra	out	0	10
+bark	štěkot štěkání	out	0	10
+bill	bankovka faktura bankovky	out	0	10
+bill	zobák	out	0	10
+bond	kauce dluhopis	out	2	8
+bond	vazba	out	2	8
+bridge	most bridž	in	5	5
+bridge	můstek	out	0	10
+bus	autobus	out	2	8
+bus	sběrnice	out	0	8
+bust	bysta busta	out	0	10
+bust	poprsí	out	0	6
+butt	nedopalek	out	0	10
+butt	zadnice	out	0	10
+canal	kanál průplav	out	1	9
+canal	kanálek	out	0	10
+case	kufr	out	0	10
+case	příklad	out	3	7
+case	žaloba případ přelíčení proces soud	in	5	5
+club	hůl obušek kyj	out	0	10
+club	klub	in	6	4
+cluster	kupa hvězdokupa	out	0	10
+cluster	seskupení shluk	in	5	5
+coach	autobus	out	0	10
+coach	kočár	out	0	10
+coach	trenérka trenér koučka kouč	out	1	9
+colon	dvojtečka	out	0	10
+colon	tračník	out	0	10
+column	sloup	out	0	10
+column	sloupek	out	1	9
+conductor	dirigent	out	2	8
+conductor	průvodčí	out	0	10
+coyote	kojot	out	0	10
+coyote	převaděč	out	0	4
+crank	klika	out	0	5
+crank	perník	out	0	5
+cricket	cvrček	out	0	10
+cricket	kriket	out	0	10
+cross	kříž	out	0	10
+cross	kříženec křížení	out	1	9
+dash	pomlčka	out	0	10
+dash	sprint	out	0	8
+desert	dezert zákusek	out	0	10
+desert	poušť	out	0	10
+diaphragm	bránice	out	0	10
+diaphragm	pesar	out	0	10
+drone	dron	out	0	10
+drone	trubec	out	0	4
+engineering	inženýrství	in	5	5
+engineering	strojovna	out	0	9
+ethics	etika	in	5	5
+ethics	morálka	out	0	8
+execution	poprava	out	0	10
+execution	vykonání	out	4	6
+fag	cígo	out	0	7
+fag	teplouš gay	out	0	10
+family	rodina	in	5	5
+family	čeleď	out	0	5
+floor	patro přízemí podlaží	out	1	9
+floor	podlaha	out	2	8
+fly	mouchy	out	0	10
+fly	poklopec	out	0	10
+fool	blbec idiot šašek hlupák blb	out	0	10
+fool	blázen	out	0	10
+foundation	nadace	in	6	4
+foundation	základy	out	2	8
+frame	kostra	out	0	5
+frame	rámec	in	5	5
+gag	roubík	out	0	10
+gag	vtip fór	out	0	10
+game	videohra	out	0	4
+game	zvěř hra	out	3	7
+guts	odvaha kuráž	out	0	10
+guts	vnitřnosti	out	0	10
+hammer	kladivo	out	0	10
+hammer	kladívko	out	0	10
+head	hlava mysl	out	0	10
+head	šéf ředitel ředitelka	in	5	5
+homer	homerun	out	0	5
+homer	homér	out	0	4
+host	hostitel	out	0	10
+host	moderátorka moderátor	out	0	10
+idea	nápad	in	5	5
+idea	odhad	out	0	4
+insurance	pojistka	out	0	10
+insurance	pojištění pojišťovna	in	5	5
+justice	soudce	out	2	8
+justice	spravedlnost	out	4	6
+law	policie	out	1	9
+law	zákoník právo zákon	out	4	6
+line	práce	out	3	6
+line	přímka	out	1	5
+machine	auto	out	0	5
+machine	stroj	in	5	5
+magazine	zásobník	out	0	10
+magazine	časopis časopisy magazín	out	4	6
+medicine	lék	out	4	6
+medicine	lékařství	in	5	5
+mercury	merkur	out	0	6
+mercury	rtuť	out	4	6
+mouth	ústa pusa tlama	out	0	10
+mouth	ústí	out	2	8
+noise	hluk	in	6	4
+noise	šum	out	1	9
+note	bankovka	out	0	4
+note	zpráva noty poznámka nota	in	5	5
+nut	koule varle	out	0	10
+nut	matice ořech oříšek	out	0	10
+offence	zločin	out	0	10
+offence	útok	out	0	5
+offense	zločin	out	0	10
+offense	útok	out	0	10
+order	objednávka přikázat nařídit řád zakázka nařízení rozkázat	out	4	6
+order	uspořádání pořadí	in	5	5
+painting	malíř	out	0	5
+painting	obraz malba malířství	out	3	7
+parcel	balík	out	1	9
+parcel	pozemek	out	1	5
+patron	mecenáš patronka patron	out	0	10
+patron	zákazník	out	0	4
+pike	kopí	out	0	10
+pike	štika	out	2	6
+plane	letadlo letoun	out	3	7
+plane	rovina	out	0	9
+plate	spz	out	0	9
+plate	talíř	out	1	9
+plot	děj	out	0	10
+plot	grunt pozemek	out	0	10
+pot	květináč nočník	out	1	9
+pot	marihuana tráva hulení	out	0	10
+pupil	panenka zornice	out	0	9
+pupil	student	out	0	5
+pussy	kočička kočka	out	0	10
+pussy	píča kunda	out	0	10
+rack	poprsí	out	0	4
+rack	skřipec	out	0	10
+rat	krysa	out	0	10
+rat	myš myši	out	0	10
+register	pokladny pokladna	out	0	10
+register	registr	in	6	4
+relay	relé	out	0	10
+relay	štafeta	out	0	5
+resolution	rozlišení	in	5	5
+resolution	usnesení rezoluce	in	5	5
+sales	obrat	out	0	8
+sales	prodej prodejce	in	5	5
+saloon	bar	out	0	7
+saloon	sedan	out	0	10
+sentence	rozsudek	out	1	9
+sentence	věta	in	5	5
+service	podání servis	out	3	7
+service	služba	in	5	5
+shot	injekce	out	0	10
+shot	snímek	out	0	10
+sickness	choroba nemoc	out	4	6
+sickness	nevolnost	out	0	10
+space	prostor mezera	out	4	6
+space	vesmír	out	1	9
+stage	dostavník	out	0	10
+stage	jeviště	out	0	10
+starter	předkrm	out	0	10
+starter	startér	out	0	10
+state	stav	in	5	5
+state	země stát	out	1	9
+story	patro	out	0	8
+story	příběh vyprávění dějiny historie	in	6	4
+stove	kamna	out	0	10
+stove	sporák vařič	out	0	10
+straw	slaměný slámka brčko	out	0	10
+straw	sláma	out	3	7
+stroke	mrtvice	out	1	9
+stroke	tah	out	0	10
+suit	oblek	in	5	5
+suit	žaloba případ proces	out	0	10
+takeover	převrat	out	0	5
+takeover	převzetí	in	5	5
+term	semestr	out	1	9
+term	termín term	in	5	5
+territory	kraj	out	0	7
+territory	teritorium území	in	5	5
+track	skladba stopa píseň	out	0	10
+track	závodiště kolej cesta	out	1	9
+translator	překladatel překladatelka	out	1	9
+translator	tlumočnice tlumočník	out	0	10
+trunk	chobot	out	0	10
+trunk	kmen	out	0	10
+trunk	kufr	out	0	10
+trunk	trup	out	0	7
+vet	veterinář veterinářka zvěrolékař	out	0	10
+vet	veterán	out	0	10
+walker	chodec	out	0	10
+walker	chodítko	out	0	10
+wear	opotřebení	out	0	10
+wear	šaty oděv oblek oblečení	out	1	9

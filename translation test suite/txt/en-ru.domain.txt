@@ -1,0 +1,199 @@
+ace	ас	out	0	9
+ace	туз	out	2	8
+acre	акр	out	1	9
+acre	акра	out	0	10
+anchor	ведущий	out	1	7
+anchor	якоря якорь	out	3	7
+atrium	атриум	out	0	7
+atrium	предсердие	out	1	6
+bank	банк	in	8	2
+bank	берег	out	0	10
+bark	барк кора	out	1	9
+bark	лай	out	2	4
+battle	баттл	out	0	8
+battle	битва бой сражение	in	9	1
+beacon	маяк	out	1	9
+beacon	радиомаяк	out	0	5
+beast	животное	out	1	9
+beast	зверь	out	4	6
+bond	залог облигация	out	0	10
+bond	связь	in	9	1
+bow	нос	out	1	4
+bow	поклон смычок	out	4	6
+brain	мозг	in	10	0
+brain	сознание интеллект ум разум	in	5	5
+bridge	бридж	out	2	8
+bridge	мост	in	10	0
+bridge	мостик	out	1	9
+bum	бомж	out	0	10
+bum	задница	out	0	10
+bunch	гроздь	out	0	7
+bunch	толпа	out	0	10
+campsite	кемпинг	out	0	8
+campsite	лагерь	out	0	10
+canteen	столовая	out	0	4
+canteen	фляга	out	0	4
+case	иск вариант	out	2	8
+case	чемодан кейс	out	0	10
+cell	мобильный клетка	in	10	0
+cell	ячейка	out	0	10
+center	суть	out	2	3
+center	центр	in	10	0
+climax	кульминация	out	0	7
+climax	оргазм	out	0	4
+coach	автобус	out	0	10
+coach	тренер	out	4	6
+cock	петух	out	0	10
+cock	хер хуй член	out	0	10
+column	колонка	out	1	9
+column	столб колонна	out	4	6
+communication	коммуникация общение связь	in	10	0
+communication	уведомление сообщение	out	3	7
+concern	забота	out	0	10
+concern	концерн	out	0	5
+conductor	дирижер дирижёр	in	5	5
+conductor	проводник	out	0	10
+core	суть сущность	out	3	7
+core	центр	out	0	10
+core	ядро	out	2	8
+cream	крем	in	5	5
+cream	сливки	out	3	7
+cricket	крикет	out	0	10
+cricket	сверчок	out	0	10
+desert	десерт	out	0	7
+desert	пустыня	out	3	7
+design	проектирование структура дизайнер дизайн разработка рисунок	in	10	0
+design	цель план	out	3	7
+drone	дрон беспилотник бла	out	0	10
+drone	трутень	out	0	7
+drum	барабан	in	7	3
+drum	бочка	out	0	5
+echo	эхо	out	4	6
+echo	эхокг	out	0	7
+ecstasy	экстаз	out	0	10
+ecstasy	экстези экстази	out	0	10
+engagement	бой	out	0	4
+engagement	помолвка обручение	out	0	10
+establishment	истеблишмент	out	0	6
+establishment	предприятие учреждение организация	out	2	8
+ethics	нравственность мораль	out	0	7
+ethics	этика	in	5	5
+execution	исполнение	out	1	9
+execution	казнь убийство	out	2	8
+flash	миг	out	0	7
+flash	флэш флеш	out	0	7
+floor	пол	in	10	0
+floor	уровень этаж	out	4	6
+font	купель	out	0	9
+font	шрифт фонт	out	0	10
+foundation	фонды фонд	in	9	1
+foundation	фундамент	out	4	6
+gag	кляп	out	0	10
+gag	шутка	out	0	7
+guts	кишка	out	1	6
+guts	мужество	out	0	10
+hamlet	гамлет	out	1	6
+hamlet	деревня	out	0	6
+hammer	курок	out	0	5
+hammer	молоток молот	out	3	7
+hammer	молоточек	out	1	3
+head	голова ум рассудок	in	10	0
+head	руководитель шеф директор	out	4	6
+hit	попадание хит	out	2	8
+hit	удар столкновение	out	0	5
+horse	конь	out	2	8
+horse	лошадь	in	10	0
+host	хозяин	out	3	7
+host	хост	out	0	6
+iris	диафрагма	out	0	6
+iris	ирис	out	0	5
+jumper	джампер	out	0	7
+jumper	свитер	out	1	9
+law	полицейский полиция	out	0	10
+law	правоведение закон юриспруденция право	in	10	0
+liver	печень	in	10	0
+liver	печёнка	out	0	5
+logo	лого	out	1	5
+logo	логотип эмблема	in	10	0
+man	солдат	out	0	8
+man	человек мужчина юноша господин личность взрослый люди мужчины муж	in	10	0
+mouth	рот пасть	in	10	0
+mouth	устье	out	0	10
+neighborhood	окрестность	out	0	9
+neighborhood	соседство квартал	out	1	9
+note	банкнота вексель накладная	out	1	8
+note	сноска нота заметка ноты сноски примечание	in	7	3
+note	уведомление сообщение	out	0	10
+nut	орех	out	0	10
+nut	яичко	out	0	4
+offense	наступление	out	0	8
+offense	преступление преступления	out	0	10
+option	опцион	out	0	5
+option	решение выбор	in	5	5
+pass	пас	out	1	9
+pass	перевал	out	0	9
+passport	паспорт	in	9	1
+passport	пропуск	out	0	5
+pen	авторучка перо ручка	in	10	0
+pen	загон	out	1	9
+penalty	наказание	out	0	10
+penalty	пенальти	out	0	10
+penny	пенни	out	0	10
+penny	цент	out	1	9
+pitcher	кувшин	out	1	9
+pitcher	питчер	out	0	10
+plane	аэроплан самолёт	in	10	0
+plane	плоскость	out	2	8
+pupil	зрачок зрачки	out	0	10
+pupil	ученик учащийся	out	2	8
+query	вопрос	out	0	10
+query	запрос	out	2	8
+rack	грудь	out	0	10
+rack	дыба	out	0	6
+racket	ракетка	out	0	10
+racket	рэкет	out	0	9
+resolution	разрешение	in	7	3
+resolution	резолюция	out	0	10
+sentence	предложение	in	10	0
+sentence	приговор	in	5	5
+set	набор множество	in	10	0
+set	сет	out	0	10
+shell	оболочка	out	1	9
+shell	снаряд	out	1	9
+sickness	болезнь хворь болезни	out	3	7
+sickness	тошнота	out	1	9
+source	исток	out	0	10
+source	осведомитель источник	in	10	0
+stage	дилижанс	out	0	6
+stage	этап сцена уровень стадия	in	10	0
+state	госдепартамент госдеп	out	0	5
+state	состояние государство страны страна штат	in	10	0
+story	история	in	10	0
+story	этаж	out	0	10
+stove	печь	out	1	9
+stove	плита	out	1	9
+strain	напряжение деформация стресс	out	1	9
+strain	сорт штамм	in	6	4
+suit	иск	out	0	10
+suit	костюм	in	10	0
+tag	салки догонялки салочки	out	0	5
+tag	тег тэг метка	out	2	5
+taste	вкус	in	10	0
+taste	склонность	out	0	8
+temple	висок	out	0	10
+temple	храм	in	6	4
+tonic	тоник	out	0	10
+tonic	тоника	out	0	10
+trailer	прицеп	out	0	10
+trailer	трейлер	out	4	6
+trunk	багажник	out	1	9
+trunk	ствол	out	4	6
+trunk	хобот	out	0	9
+union	профсоюзы профсоюз	out	0	10
+union	союз	out	1	5
+veil	покрывало	out	0	4
+veil	чадра вуаль	out	0	10
+vein	вена	out	0	6
+vein	жила	out	0	5
+vet	ветеран	out	1	9
+vet	ветеринар	out	1	9

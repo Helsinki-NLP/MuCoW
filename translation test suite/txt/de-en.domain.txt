@@ -1,0 +1,461 @@
+abkürzung	abbreviation abbreviated	in	6	4
+abkürzung	shortcut	in	6	4
+anfrage	question	in	5	5
+anfrage	request	in	6	3
+angebot	offer bid	in	8	2
+angebot	supply	in	6	3
+anhänger	follower	in	5	5
+anhänger	pendants pendant	out	4	6
+anhänger	trailer	in	5	5
+anlage	rig	out	2	5
+anlage	works plant	in	7	3
+anordnung	arrangement	in	5	5
+anordnung	decree order	in	5	4
+anwendung	application	in	8	2
+anwendung	usage	in	6	2
+anzahl	amount total	in	7	3
+anzahl	count list	in	6	4
+arsch	ass tail backside buttocks bum keister butt arse booty	out	1	9
+arsch	prick dick	out	0	10
+artikel	art article	in	8	2
+artikel	item	in	5	5
+aufklärung	awareness	in	4	1
+aufklärung	enlightenment	in	7	3
+aufklärung	reconnaissance	out	3	4
+auflösung	dissolving dissolution	in	4	4
+auflösung	resolution	in	7	3
+aufschlag	impact	out	1	9
+aufschlag	service serve	out	0	10
+aufteilung	allocation apportionment apportioning	in	6	0
+aufteilung	distribution	in	5	3
+bahn	railroad railway trains railways	in	5	5
+bahn	trajectory	in	6	4
+band	ribbon	in	8	2
+band	volume book	in	8	2
+bank	bankers bank	out	2	5
+bank	bench	in	9	1
+bau	burrow den tunnel	out	3	7
+bau	constructing buildings construction building	in	9	1
+bau	jail prison	out	0	10
+bauer	pawn	out	1	9
+bauer	peasant peasants farmer farmers	in	9	1
+becken	cymbals	out	4	6
+becken	pelvis	in	6	4
+becken	sink basin	in	6	3
+beförderung	promotion	in	7	3
+beförderung	shipping transport transportation	out	4	5
+bein	foot	in	8	2
+bein	legs bone leg	in	9	1
+beleg	evidence	in	7	3
+beleg	voucher	in	7	1
+belästigung	annoyance	in	10	0
+belästigung	molestation harrassment harass harassment harassing	in	6	3
+berufung	appeals appealed appeal	in	5	2
+berufung	vocation calling	in	5	4
+betrieb	firm companies enterprise company	in	5	5
+betrieb	operation	in	4	4
+bezirk	borough	out	1	8
+bezirk	district county districts territory	in	7	3
+bezirk	region	in	6	4
+birne	noggin	out	0	10
+birne	pear	out	1	8
+blase	bladder	in	8	2
+blase	blister	out	2	8
+blatt	cards	out	1	9
+blatt	leaves page leaf	in	9	1
+boden	attic floor floorboards	in	9	1
+boden	bottom	in	9	1
+boden	earth lands land ground	in	9	1
+bogen	arc arch	in	8	2
+bogen	bow	out	3	7
+bohrung	bore	in	3	3
+bohrung	drilling	in	6	1
+bolzen	bolt	in	5	5
+bolzen	pin pins	out	3	7
+bombe	bombs bombing bombed bomb	in	7	3
+bombe	bombshell	out	4	6
+botschafter	ambassadors ambassador	in	7	2
+botschafter	messenger	out	0	10
+branche	branch	in	8	2
+branche	industrial industries industry	in	7	3
+bube	boy	out	0	9
+bube	knave jack	out	0	8
+bulle	bull	out	1	9
+bulle	cop policeman	out	0	10
+börse	bourse exchange	out	0	4
+börse	wallet	out	0	10
+decke	ceiling ceilings	in	9	1
+decke	cover blankets blanket	in	9	1
+decke	floor	in	5	5
+degradierung	degradation	in	4	3
+degradierung	demotion	out	0	10
+dokumentation	documentary	in	6	4
+dokumentation	documentation	in	4	3
+drehung	rotation	in	6	4
+drehung	turn	out	4	6
+druck	pressures pressure	in	9	1
+druck	print	out	2	3
+dämpfung	attenuation	in	10	0
+dämpfung	damping	in	10	0
+ebene	field plain plains	in	6	4
+ebene	plane	in	7	3
+eigenschaft	feature property attribute	in	7	3
+eigenschaft	quality	in	8	2
+einfahrt	driveway drive	out	3	7
+einfahrt	entry entrance	in	5	5
+eingabe	input entry	in	8	2
+eingabe	petition	out	0	10
+elastizität	elasticity	in	5	5
+elastizität	resilience	in	7	0
+erholung	recovery recuperation	in	7	3
+erholung	recreation recreational	in	5	4
+erklärung	explain explaining explanations explanation explained explains account	in	9	1
+erklärung	statement	in	7	3
+erlass	decree edict order	out	2	5
+erlass	remission	in	3	2
+erlaubnis	leave	in	6	2
+erlaubnis	licence license permit licences	in	5	5
+erpressung	blackmailing blackmail blackmailed	in	5	5
+erpressung	shakedown extortion	out	1	6
+ersatz	backup substitute	in	8	2
+ersatz	substitution substituted replacement	in	7	3
+erziehung	educated education educational school schools instruction educating training teaching educate	in	6	1
+erziehung	raising upbringing nurture breeding	in	6	4
+faden	fathoms	out	0	6
+faden	yarns thread	in	7	3
+farbe	colour color coloring colouring colors colours	in	9	1
+farbe	suit	out	2	5
+feder	feather feathers pen quill	in	9	1
+feder	spring	out	4	6
+fest	festival feast fete fest	in	8	2
+fest	parties party	in	5	5
+festland	land	in	7	3
+festland	mainland	in	6	3
+finsternis	dark darkness	in	7	3
+finsternis	eclipse	out	1	9
+fliege	bowtie	out	0	6
+fliege	flies fly	in	10	0
+flüchtling	refugees refugee	in	7	3
+flüchtling	runaway fugitive	out	0	10
+flügel	piano	out	2	8
+flügel	wings wing	in	8	2
+folge	episode	in	7	3
+folge	result consequence effect outcome	in	9	1
+folge	sequence	in	5	5
+frau	madam mme lady dame madame	in	7	3
+frau	woman wife female wives spouse women	in	9	1
+führer	guide	in	8	2
+führer	head leader chief	in	7	3
+gang	corridor hallway passage hall	in	8	2
+gang	course	in	5	4
+gang	gait	in	6	4
+gang	gear train	out	2	4
+gebiet	division	in	7	0
+gebiet	domain	in	6	4
+gebiet	province	in	7	1
+gebiet	regions regional place region	in	8	2
+gebiet	study field subject	in	8	2
+geist	apparition ghost ghosts	in	7	2
+geist	mind wit intellect brain	in	9	1
+geldbeutel	purse	out	4	6
+geldbeutel	wallet wallets	in	5	5
+gemeinde	parish municipality municipal parishioners municipalities	in	7	3
+gemeinde	town	out	4	6
+geschoss	floor	out	1	5
+geschoss	missile projectile	out	0	10
+geschäft	business work line enterprise company job businesses	in	9	1
+geschäft	store	in	9	1
+gesellschaft	firm partnership enterprise corporation company	in	9	1
+gesellschaft	society social socially association community societies societal communities order	in	9	1
+gewebe	fabrics fabric textile cloth	in	7	3
+gewebe	tissue	in	6	4
+glasur	frosting icing	out	1	9
+glasur	glaze	in	6	4
+glied	chain link	in	6	4
+glied	limb member	in	8	2
+grund	bottom	in	8	2
+grund	land ground	in	5	3
+gruppe	band	in	6	4
+gruppe	cluster family group	in	9	1
+gut	commodity	in	4	3
+gut	estate	in	6	4
+haltung	agriculture farming	in	10	0
+haltung	posture position stance attitude	in	9	1
+haushalt	budgets budgeting budget	out	2	3
+haushalt	household households family house home	in	9	1
+heide	heath heather	out	2	8
+heide	pagan heathen	out	2	4
+himmel	heaven	in	9	0
+himmel	sky skies	in	9	1
+hut	cap	in	5	5
+hut	hats hat	in	9	1
+karte	cards card	in	8	2
+karte	maps mapped map	in	8	2
+karte	ticket	in	8	2
+kern	core gist essence kernel substance center centre essentially nub heart essential	in	8	2
+kern	nucleus	in	7	3
+kiefer	jaw jawbone	in	9	1
+kiefer	pine	out	3	7
+knoten	knot knots	in	7	3
+knoten	node	in	5	5
+kohle	charcoal	in	8	2
+kohle	coal-fired coal coals	in	7	2
+kohle	money cash	out	4	6
+komma	comma	in	9	1
+komma	point	out	1	4
+kraft	forces force	in	9	1
+kraft	power	in	9	1
+kraft	strength	in	9	1
+krebs	cancerous cancers cancer anti-cancer	in	6	0
+krebs	crab	out	0	10
+kreis	circles circle	in	9	1
+kreis	district	in	9	1
+kreuz	clubs	out	1	5
+kreuz	cross	in	5	2
+kreuzung	hybrid cross	in	6	4
+kreuzung	junction crossroads intersection crossroad crossing	in	9	1
+krippe	daycare nursery	out	4	5
+krippe	manger	out	0	10
+krone	crown	in	7	3
+krone	krona	in	4	0
+kunst	art artist artists artistry artistic arts	in	8	2
+kunst	skills skill	in	5	5
+küche	cuisine	in	8	2
+küche	kitchen kitchens	in	9	1
+lager	bearing	in	8	1
+lager	depot warehouses storeroom warehouse inventory	in	6	4
+lager	encampment campsite camp	in	9	1
+landschaft	country rural	out	3	7
+landschaft	landscapes landscape	in	9	1
+latte	boner	out	0	10
+latte	lattes latte	out	0	9
+legende	key	in	4	0
+legende	legend	in	5	5
+leistung	performance achievement feat accomplishment	in	8	2
+leistung	power	in	7	3
+leiter	head leader director chief	in	8	2
+leiter	ladder ladders	in	9	1
+lexikon	encyclopedia encyclopaedia	out	1	3
+lexikon	lexicon	in	5	0
+liste	list	in	8	2
+liste	ticket	out	1	5
+lockvogel	decoy	out	0	10
+lockvogel	shill	out	0	6
+länge	lengths distance length	in	9	1
+länge	longitude	in	4	4
+mangel	paucity shortfall deficiency shortages shortage scarcity dearth deficit lack	in	9	1
+mangel	wringer	out	0	10
+marke	brands trademark trademarks brand	in	8	2
+marke	stamp	out	1	9
+maßstab	benchmark	in	7	3
+maßstab	scale	in	8	2
+melone	bowler	out	0	8
+melone	melon	out	3	7
+menge	amount	in	7	2
+menge	mob crowd bunch throng	in	9	1
+menge	set	in	7	2
+moral	morale	in	4	3
+moral	morality moral	in	8	2
+morgen	acre acres	out	4	6
+morgen	sunrise mornings daybreak dawn morrow morn morning	in	6	2
+mutter	mother sister	in	9	1
+mutter	nut	out	4	6
+möglichkeit	eventuality contingency	in	5	5
+möglichkeit	potential	in	5	3
+nachfrage	demand	in	8	2
+nachfrage	request	in	7	3
+nachlass	discount	in	5	5
+nachlass	legacy	out	0	5
+nachricht	news	in	9	1
+nachricht	note communiqué messages message communication	in	8	2
+note	notes note	out	1	6
+note	score grade mark	in	8	2
+orden	medals medal decoration	out	4	6
+orden	order	in	5	5
+ortschaft	town	in	9	1
+ortschaft	village	in	5	4
+paket	packet	out	3	7
+paket	parcel package pack	in	9	1
+parabel	parable	out	3	4
+parabel	parabola	in	5	1
+parlament	diet	in	3	1
+parlament	parliament	in	9	1
+parole	password watchword	in	5	5
+parole	slogan	in	5	3
+pause	respite recess break interval intermission	in	8	2
+pause	rest	out	4	6
+pension	boardinghouse	out	0	9
+pension	pensions retiring retire retired retirement pension	in	4	1
+pfeife	pipe	in	10	0
+pfeife	whistle	in	5	5
+plan	map	in	6	4
+plan	scheme plans program strategy programme plan	in	5	4
+preis	cost price prices	in	9	1
+preis	prize	in	9	1
+produkt	commodity item	in	8	2
+produkt	product products	in	8	2
+programm	package scheme software strategies program strategy programme	in	8	2
+programm	schedule context	out	4	6
+prophezeiung	prediction	out	2	8
+prophezeiung	prophecy	in	6	4
+protokoll	convention protocol treaty	in	5	3
+protokoll	minutes proceedings	out	3	5
+quelle	source	in	8	2
+quelle	spring fountain well	in	9	1
+rat	advice	in	8	2
+rat	council councils	out	2	3
+raum	regions regional place region	in	7	3
+raum	room space	in	9	1
+regel	period	in	5	5
+regel	rule	in	8	2
+regentschaft	regency	out	1	9
+regentschaft	reign	out	0	10
+reihe	file row	in	10	0
+reihe	series	in	9	1
+rezept	prescription	in	6	4
+rezept	recipes recipe	in	8	2
+rolle	character role persona part roles rôle	in	9	1
+rolle	coil	in	8	2
+rolle	roll scroll reel	in	6	4
+rumpf	hull	in	6	4
+rumpf	torso trunk body	in	5	5
+schalter	counter	in	5	5
+schalter	switches switch	in	8	2
+schein	license	out	0	6
+schein	ticket	out	0	10
+schicht	class stratum	in	6	4
+schicht	film	out	2	3
+schlamm	silt mud	in	6	4
+schlamm	sludge	in	6	4
+schlange	queue	in	7	3
+schlange	snake snakes serpent	in	9	1
+schloss	castle château chateau	in	8	2
+schloss	lock	in	5	5
+schlüssel	key	in	9	1
+schlüssel	wrench	out	0	8
+schotter	gravel	out	2	8
+schotter	money	out	0	8
+schrift	scriptures scripture	in	4	2
+schrift	writing written type script font	in	5	4
+schritt	crotch	out	1	9
+schritt	step	in	9	1
+schuppen	dandruff	out	0	10
+schuppen	shed toolshed sheds	in	9	1
+schwanz	prick dick pecker cock penis dong	out	0	10
+schwanz	tail	in	9	1
+schwarm	cluster	out	0	8
+schwarm	crush	out	0	10
+schwarm	school	out	1	5
+seite	pages page	in	9	1
+seite	side edge	in	9	1
+seminar	seminars seminar	in	10	0
+seminar	seminary	out	1	3
+sicherheit	certainly certainty certain	in	4	0
+sicherheit	security safety safer safe protection safely	in	9	1
+slip	briefs	out	0	4
+slip	panties pants knickers underwear	out	1	9
+spannung	stress voltage	in	6	4
+spannung	suspense	out	4	6
+speicher	loft attic	out	1	9
+speicher	memory storage store	in	8	2
+spiel	act	out	1	6
+spiel	play game games playing	in	9	1
+spirale	coil	out	1	4
+spirale	iud	out	0	5
+spitze	lace	out	1	9
+spitze	vanguard	in	6	3
+sport	exercise	in	5	2
+sport	sports athletics sport	in	5	3
+spule	coil	in	6	4
+spule	spool	out	0	9
+staffel	season	in	5	5
+staffel	squadron	out	0	10
+stamm	stem	in	6	4
+stamm	strain	out	4	6
+stamm	tribe clan tribal tribes	in	8	2
+stamm	trunk	in	9	1
+star	celebrity star	out	0	10
+star	starling	out	1	6
+stelle	employers work line employment job	in	9	1
+stelle	spot location place situation	in	9	1
+steuer	taxpayers taxpayer taxes tax taxed taxation	in	8	2
+steuer	wheel helm	in	6	4
+stock	level floor story	in	8	2
+stock	stick staff cane	in	8	2
+strauß	bouquet	in	6	4
+strauß	bunch	out	1	9
+strauß	ostrich	in	7	3
+stuhl	chair chairs	in	9	1
+stuhl	stool	in	6	4
+stunde	hours hour half-hour h	in	9	1
+stunde	lesson	in	8	2
+stärke	intensity strength	in	9	1
+stärke	starch	in	8	2
+tafel	blackboard chalkboard	in	8	2
+tafel	table	in	7	3
+tau	dew	out	3	7
+tau	rope	out	1	4
+tor	doors door doorway	in	8	2
+tor	fool	out	2	8
+tor	goal	in	5	5
+trommel	cylinder	out	0	4
+trommel	drum	in	9	1
+träger	carrier	in	5	5
+träger	girder girders	in	5	4
+träger	support	in	9	1
+turm	castle rook	out	1	9
+turm	tower	in	7	3
+unschuld	innocence innocent	in	5	1
+unschuld	virginity	out	1	9
+unterhaltung	conversations conversation	in	9	1
+unterhaltung	entertain amuse entertaining entertainment recreation recreational entertained amusement	in	4	3
+unternehmen	business occupational work employment job	in	7	3
+unternehmen	firm companies partnership corporate enterprise corporation company venture corporations concern	in	9	1
+ursprung	origin	in	8	2
+ursprung	source	in	7	3
+urteil	order	in	8	2
+urteil	sentence judgement judgment sentencing conviction	in	8	1
+verbindung	compound	in	7	3
+verbindung	fraternity association frat	in	6	4
+verbindung	nexus link connection relationship relations relation	in	8	2
+verbot	embargo	in	3	1
+verbot	prohibition	in	5	4
+verfolgung	persecution persecuted persecuting persecute	in	4	4
+verfolgung	pursuit following chase	in	5	3
+verhältnis	affair	out	3	7
+verhältnis	ratios ratio	in	6	3
+verkehr	intercourse relation	in	7	3
+verkehr	traffic	in	8	2
+verordnung	ordinance	out	4	5
+verordnung	regulation	in	5	5
+visier	sight	out	0	9
+visier	visor	out	1	9
+volk	people masses	in	9	1
+volk	tribe	out	1	9
+vorspiel	foreplay	out	1	9
+vorspiel	prelude	in	6	2
+vorstellung	presentation	in	5	5
+vorstellung	show	in	7	3
+wahl	elected ballot election voters electoral voting votes elections vote elect	in	9	1
+wahl	selection decision pick chose choose choice choices choosing chooses option chosen	in	8	2
+wanderung	hike	out	2	8
+wanderung	migration	in	6	4
+weg	path trail driving route course track drive	in	9	1
+weg	way	in	9	1
+weide	pasture	out	4	6
+weide	willow	out	4	6
+wurf	litter	in	5	5
+wurf	pitch	out	0	10
+zeile	line	in	9	1
+zeile	row	in	7	3
+zensur	censoring censor censorship censored censors	in	7	3
+zensur	grade	out	0	10
+zeugnis	evidence testimony testify	in	6	2
+zeugnis	report	in	5	5
+zug	platoon	out	0	10
+zug	stroke	out	1	6
+zug	trains train	in	9	1
+zustand	shape form	out	3	5
+zustand	state status	in	9	1
+zwerg	dwarf	in	7	3
+zwerg	midget	out	1	9

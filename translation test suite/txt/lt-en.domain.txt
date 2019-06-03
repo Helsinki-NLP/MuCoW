@@ -1,0 +1,12 @@
+koja	foot	out	0	10
+koja	leg	out	0	10
+kūnas	body	out	4	6
+kūnas	flesh	out	0	4
+oras	air	in	5	5
+oras	weather	in	5	5
+vadovas	guide	in	8	0
+vadovas	head leader	out	2	3
+žemė	earth dirt ground soil	out	1	4
+žemė	land	out	2	5
+žmogus	men man	in	5	5
+žmogus	someone individual person somebody	in	7	3

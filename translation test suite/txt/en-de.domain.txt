@@ -1,0 +1,362 @@
+accelerator	gaspedal	out	3	7
+accelerator	teilchenbeschleuniger beschleuniger	in	5	5
+air	luftraum lufttransport luft flugreisen luftfahrt aura	in	10	0
+air	miene ausdruck	in	10	0
+anchor	anker	in	7	3
+anchor	nachrichtensprecher nachrichtensprecherin	out	2	8
+arm	arms arm	in	6	4
+arm	waffe	out	1	5
+assignment	hausaufgabe aufgabe	in	10	0
+assignment	zuweisung	in	7	3
+ball	ballen ball	in	5	2
+ball	ei hoden kugel eier	in	9	1
+ball	fußball	in	3	3
+bark	baumrinde borke rinde	in	8	2
+bark	bellen	out	2	6
+battle	kampf	in	10	0
+battle	schlachtfeld schlacht gefecht	in	10	0
+beacon	funkfeuer	out	0	7
+beacon	leuchtturm bake	in	5	5
+boar	eber keiler	out	3	7
+boar	wildschwein wildschweine	out	3	7
+bog	klo	out	0	5
+bog	moor	out	2	8
+bounty	belohnung kopfgeld	out	2	8
+bounty	großzügigkeit	out	0	7
+bow	bogen verbeugung schleife	in	10	0
+bow	bug	out	3	7
+bridge	brücke	in	10	0
+bridge	kommandobrücke	in	2	2
+bud	gras	out	0	4
+bud	knospe	out	3	7
+bun	brötchen	out	1	9
+bun	dutt	out	0	6
+bunch	menge	in	10	0
+bunch	strauß	out	1	9
+butt	hintern hinterteil popo arsch gesäß po	in	6	4
+butt	kippe	out	0	7
+canteen	feldflasche	out	0	10
+canteen	kantine	in	5	5
+case	beispiel	in	9	1
+case	koffer	out	4	6
+case	rechtsstreit fall klage antrag vitrine gerichtsverfahren prozeß rechtssache prozess	in	10	0
+charcoal	holzkohle	in	7	3
+charcoal	zeichenkohle kohle	in	10	0
+club	knüppel nachtklub schläger keule nachtclub	out	4	6
+club	verein klub	in	10	0
+coach	bus reisebus trainerin trainer wagen	in	10	0
+coach	kutsche	out	3	7
+cock	hahn	out	2	8
+cock	schwanz pimmel	out	0	10
+column	kolumne	in	9	1
+column	säule	in	10	0
+communication	kommunizieren kommunikation	in	10	0
+communication	nachricht meldung	out	4	6
+concern	besorgnis betroffenheit sorge	in	8	2
+concern	unternehmen konzern	in	8	2
+conductor	dirigent	in	8	2
+conductor	leiter	in	5	5
+conductor	schaffner	out	1	9
+construction	bau bauausführung bauen	in	10	0
+construction	konstruktion	in	8	2
+construction	struktur	in	7	3
+conversion	konversion	in	5	5
+conversion	umwandlung	in	5	5
+coon	nigger	out	0	6
+coon	waschbär	out	0	10
+crank	kurbel	in	5	5
+crank	spinner	out	0	6
+cream	handcreme	out	0	9
+cream	rahm sahne	in	9	1
+cricket	grille	out	1	9
+cricket	kricket	out	1	9
+cross	kreuz	in	7	3
+cross	kreuzung	in	5	5
+cruiser	kreuzer	out	0	10
+cruiser	streifenwagen	out	0	10
+cunt	fotze möse muschi	out	0	10
+cunt	schlampe miststück	out	0	10
+deduction	deduktion	out	2	8
+deduction	steuerabzug	in	6	2
+defense	selbstverteidigung verteidigungsministerium notwehr	out	1	9
+defense	verteidiger verteidigung defensive abwehr	in	10	0
+depression	vertiefung	out	2	5
+depression	weltwirtschaftskrise	out	2	8
+desert	nachtisch	out	0	4
+desert	wüste	in	10	0
+diaphragm	diaphragma	out	0	10
+diaphragm	zwerchfell	out	0	10
+differentiation	differenzierung	in	5	5
+differentiation	unterscheidung	in	10	0
+digit	finger	out	0	10
+digit	ziffer	in	6	4
+dish	satellitenschüssel	out	2	4
+dish	speise schüssel gericht teller platte	in	10	0
+embargo	verbot	in	3	1
+embargo	waffenembargo handelsembargo	in	6	4
+empire	kaiserreich reich	in	7	3
+empire	weltreich imperium	in	7	3
+end	sackgasse	out	4	6
+end	ziel	in	7	3
+engagement	gefecht	out	0	10
+engagement	mitwirkung beteiligung verlobt verlobung	in	7	3
+engineering	maschinenraum	out	0	10
+engineering	technologie ingenieurwesen ingenieurswissenschaften ingenieurswesen ingenieurwissenschaft ingenieurwissenschaften	in	9	1
+entourage	gefolge	out	1	9
+entourage	umgebung umfeld	in	7	2
+ethics	ethik	in	10	0
+ethics	moral	in	5	5
+execution	ausführung	in	9	1
+execution	durchsetzung	in	6	0
+execution	hinrichtung todesstrafe exekution	in	9	1
+facsimile	faksimile	out	4	5
+facsimile	fax	in	4	2
+fag	kippe zigarette	out	0	4
+fag	schwul tunte schwuler homo schwuchtel	out	0	10
+fairy	fee feen	out	3	7
+fairy	tunte schwuchtel	out	0	10
+fall	herbst	in	10	0
+fall	sündenfall	out	0	8
+fault	fehler	in	10	0
+fault	verwerfung	in	4	4
+file	datei feile	in	10	0
+file	reihe	in	5	5
+floor	etage stockwerk geschoss stock decke	in	10	0
+floor	fussboden fußboden bodenbelag boden	in	10	0
+fly	fliege	in	10	0
+fly	schlitz hosenstall hosenschlitz	out	0	10
+fodder	futter futtermittel viehfutter	in	7	3
+fodder	kanonenfutter	out	1	4
+foundation	grundlage gründung basis	in	10	0
+foundation	stiftung	in	8	2
+fountain	brunnen	out	0	10
+fountain	quelle fontäne springbrunnen quell	in	6	4
+freedom	befreiung	in	5	5
+freedom	freiheit	in	10	0
+fury	furie	out	2	6
+fury	raserei wut zorn	in	9	1
+fusion	kernfusion	in	8	2
+fusion	schmelzen	in	10	0
+gag	knebel	out	0	10
+gag	witz	out	1	9
+game	computerspiel videospiel	in	5	5
+game	großwild spiel wild wildfleisch	in	10	0
+gas	gaspedal	out	0	5
+gas	gasversorgung blähungen benzin erdgas gas	in	10	0
+glove	baseballhandschuh	out	0	6
+glove	handschuh handschuhe	in	10	0
+grain	korn getreide	in	10	0
+grain	maserung	out	2	5
+guts	eingeweide darm gedärme	out	4	6
+guts	mutig mut courage	in	7	3
+host	hostie	out	0	7
+host	moderator moderatorin	out	2	8
+host	wirt	in	9	1
+industry	fleiß	in	6	4
+industry	industrie branche	in	10	0
+instance	beispiel	in	10	0
+instance	instanz	in	5	5
+instruction	anweisung	in	7	3
+instruction	ausbildung erziehung unterricht bildung	in	5	5
+insurance	versicherung versicherungswirtschaft versicherungsprinzip	in	9	1
+insurance	versicherungspolice	in	6	4
+jack	bube	out	0	8
+jack	wagenheber	out	0	10
+junk	abfall müll schrott mist	out	2	8
+junk	dschunke	out	0	6
+justice	gerechtigkeit	in	10	0
+justice	richter richterin	in	3	3
+law	polizei	out	4	6
+law	recht jura rechtswissenschaft gesetz	in	10	0
+lift	auftrieb	in	7	3
+lift	fahrstuhl aufzug	in	5	5
+lock	locke	out	0	10
+lock	schloss sperre schleuse	in	7	3
+man	diener	in	5	5
+man	mensch welt männer kerl menschheit person mann herr	in	10	0
+mansion	haus	out	1	9
+mansion	herrenhaus villa anwesen	in	5	5
+measure	kriterium maß messung	in	6	4
+measure	takt	out	0	5
+mercury	merkur	out	1	4
+mercury	quecksilber	in	8	2
+mouth	mündung	in	6	4
+mouth	schnauze maul mundwinkel mundhöhle mund	in	10	0
+mystery	krimi	out	0	9
+mystery	rätsel	in	10	0
+neighborhood	nachbarschaft	in	10	0
+neighborhood	stadtteil viertel stadtviertel	in	10	0
+net	nettogewicht netto nettoeinkommen nettogewinn reingewinn	out	2	4
+net	netzwerk netz internet	in	10	0
+noise	geräusch	in	10	0
+noise	rauschen	in	10	0
+note	nachricht	in	6	4
+note	rechnung banknote	in	5	5
+note	ton notiz anmerkung fußnote kommentar	in	10	0
+nucleus	atomkern	in	6	1
+nucleus	nukleus zellkern	in	6	4
+nursery	baumschule baumschulen gärtnerei	in	5	5
+nursery	kindergarten kinderkrippe vorschule vorschulerziehung krippe	out	4	6
+nursery	kinderzimmer	in	10	0
+nut	mutter irrer irre spinner	out	4	6
+nut	nuss ei nüsse	out	2	8
+order	geschäftsordnung auftrag anweisung ordnung erlass dekret urteil vorschrift anordnung gesellschaft bestellung befehlen orden befehl	in	10	0
+order	reihenfolge	in	9	1
+outline	schema gliederung	in	9	1
+outline	zusammenfassung	in	5	1
+pacemaker	herzschrittmacher	out	2	8
+pacemaker	schrittmacher	in	5	5
+pen	füller stift feder	in	10	0
+pen	pferch	out	0	9
+penalty	strafe bestrafung	out	4	6
+penalty	strafstoß elfmeter	out	0	6
+persistence	ausdauer	out	4	6
+persistence	persistenz	in	8	2
+pike	hechte hecht	in	5	5
+pike	spieß	out	0	7
+pit	grube	in	7	3
+pit	hölle	out	0	10
+pitch	pech	out	3	7
+pitch	tonhöhe tonlage	in	7	3
+pitch	verkaufsgespräch	out	0	8
+pitcher	krug kanne	in	5	5
+pitcher	werfer	out	0	10
+plane	ebene	in	8	2
+plane	flugzeug flieger	in	10	0
+plate	kennzeichen nummernschild autokennzeichen	in	5	5
+plate	teller	in	10	0
+pop	brause limonade	out	0	6
+pop	popmusik popsong pop	out	2	5
+pot	blumentopf topf kochtopf nachttopf	in	7	3
+pot	marihuana gras	out	0	10
+precipitation	ausfällung	in	10	0
+precipitation	niederschlag	in	5	5
+preparation	ausbildung	in	10	0
+preparation	lebensmittelzubereitung	in	10	0
+present	geschenk präsent	in	7	3
+present	jetzt gegenwart	in	7	3
+promoter	promotor	in	7	0
+promoter	veranstalter	in	5	5
+promotion	beförderung	in	7	3
+promotion	werbung förderung bekanntmachung	in	6	4
+pupil	pupille	out	1	9
+pupil	schüler	in	6	4
+pussy	fotze möse muschi	out	0	10
+pussy	mieze katze kätzchen	out	0	8
+queen	königin dame	out	4	6
+queen	tunte	out	0	10
+query	abfrage	in	8	0
+query	frage	in	5	5
+rape	raps	in	10	0
+rape	vergewaltigung	in	9	1
+receiver	empfangsgerät	in	4	1
+receiver	konkursverwalter	in	3	1
+relay	relais	out	2	8
+relay	staffellauf	out	0	4
+ruler	lineal	in	8	2
+ruler	machthaber herrscher	in	8	2
+runway	laufsteg	out	2	8
+runway	piste startbahn landebahn	in	6	4
+scrap	stahlschrott schrott	in	5	5
+scrap	stück	out	1	9
+screen	bildschirm	in	10	0
+screen	sieb	in	6	1
+season	saison schonzeit jahreszeit	in	10	0
+season	staffel	in	5	5
+security	alarmanlage	out	0	5
+security	wertpapier	in	8	0
+sentence	satz	in	10	0
+sentence	urteil strafe verurteilung	in	9	1
+settlement	besiedlung abwicklung vergleich	out	4	6
+settlement	siedlung	in	6	4
+shake	händedruck händeschütteln handschlag	out	2	4
+shake	milkshake milchshake	out	0	10
+shell	hülle	in	7	3
+shell	schale muschel granate	in	8	2
+sickness	krankheit erkrankung krank	in	7	3
+sickness	übelkeit	out	1	9
+sky	himmel	in	10	0
+sky	luftraum luft	in	6	4
+slag	schlacke	in	5	5
+slag	schlampe	out	0	10
+slip	ausrutscher	out	1	9
+slip	unterrock	out	0	7
+slug	kugel	out	0	10
+slug	nacktschnecke	out	1	3
+snake	schlange schlangen	in	10	0
+snake	wasserschlange	out	0	5
+soap	seife	in	10	0
+soap	seifenoper	out	1	6
+sole	seezunge	out	3	4
+sole	sohle	out	3	7
+source	quellcode	in	4	3
+source	quelle ursprung informant	in	10	0
+spot	fleck	in	8	2
+spot	ort platz position stelle	in	10	0
+squad	gruppe	out	0	10
+squad	mannschaft team	out	0	10
+stage	bühne	in	10	0
+stage	postkutsche	out	0	7
+starter	anlasser	in	5	5
+starter	vorspeise	out	1	6
+state	gebiet provinzen nation bundesland staat land nationalstaat	in	10	0
+state	zustand	in	10	0
+stock	abstammung	out	1	6
+stock	vieh brühe	out	3	7
+stool	schemel hocker	in	10	0
+stool	stuhlgang stuhl	in	6	4
+stop	punkt .	in	3	3
+stop	stopp stop	in	3	3
+store	boutique laden geschäft	in	10	0
+store	speicher	in	5	5
+story	erzählung erzählen geschichte	in	10	0
+story	stockwerk stock	out	2	8
+stove	herd	in	7	3
+stove	ofen	in	6	4
+strain	stamm	in	5	5
+strain	stress belastung	in	5	5
+study	arbeitszimmer	in	10	0
+study	gebiet betrachtung bericht studienfach feld bereich fach	in	7	3
+suit	farbe maßanzug anzug anzugträger	in	10	0
+suit	klage prozess	in	6	4
+swallow	schluck schlucken	out	0	4
+swallow	schwalbe	out	2	8
+syndicate	konsortium	in	5	5
+syndicate	syndikat	out	1	9
+tag	fangen	out	1	9
+tag	markierung	out	2	5
+temple	schläfe	out	2	8
+temple	synagoge tempel	in	10	0
+term	bezeichnung benennung begriff terminus term	in	10	0
+term	semester	in	5	5
+territory	bezirk	out	2	4
+territory	revier territorium	in	7	3
+track	gleis rennbahn rennstrecke	in	7	3
+track	song lied	out	1	9
+train	gang personenzug zug	in	10	0
+train	schleppe	out	1	9
+translator	dolmetscher	out	0	10
+translator	übersetzer übersetzerin	in	8	2
+triangle	dreieck	in	10	0
+triangle	triangel	out	1	5
+trunk	kofferraum	in	10	0
+trunk	rumpf	in	6	4
+trunk	rüssel	out	2	8
+uncertainty	unsicherheit	in	10	0
+uncertainty	zweifel	in	6	4
+universe	all welt weltraum kosmos weltall universum	in	10	0
+universe	grundgesamtheit	in	10	0
+vet	kriegsveteran veteran	out	1	9
+vet	veterinär tierarzt tierärztin	in	9	1
+voice	sprecher	out	1	3
+voice	stimme	in	10	0
+wake	kielwasser	in	5	5
+wake	totenwache	out	0	10
+watch	armbanduhr uhr	in	10	0
+watch	wache	in	5	5
+wave	winken wink	out	1	3
+wave	woge welle	in	10	0
+wear	kleidung kleider	in	3	1
+wear	verschleiß	out	4	6
+zip	postleitzahl	out	0	4
+zip	reißverschluss reißverschluß	in	5	5

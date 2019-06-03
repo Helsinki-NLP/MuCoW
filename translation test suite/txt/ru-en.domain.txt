@@ -1,0 +1,136 @@
+атлас	atlas	in	2	2
+атлас	satin	out	0	6
+бокс	box	out	0	6
+бокс	boxing	out	0	9
+бюро	agency offices authority bureau office	in	4	2
+бюро	desk desks	out	0	10
+венок	crown	out	1	5
+венок	wreath	out	2	8
+вид	sight	out	4	5
+вид	species variety	in	7	3
+город	city	in	9	1
+город	town	in	10	0
+граф	count earl	out	2	3
+граф	graph	in	3	3
+группа	band	out	0	10
+группа	class	out	1	9
+группа	squad team	in	7	3
+дама	lady dame	in	9	1
+дама	queen	out	1	9
+действие	act	in	5	5
+действие	action	in	8	2
+дело	business enterprise company businesses	in	9	1
+дело	file	out	0	10
+дело	lawsuit causes cause suit case trial	in	8	2
+диск	dial	out	0	7
+диск	disk record disc	in	7	3
+доска	blackboard	out	0	4
+доска	board plank	out	2	7
+жизнь	life	in	9	1
+жизнь	living livelihood keep	in	4	0
+жир	fat	in	6	3
+жир	grease	out	0	10
+замок	castle	out	3	5
+замок	padlock	out	0	10
+кабинет	cabinet	out	1	6
+кабинет	study	in	10	0
+канал	canal	out	0	5
+канал	channel	in	7	3
+команда	command	out	2	7
+команда	squad team	in	9	1
+корм	fodder	out	0	8
+корм	food	out	3	7
+кран	crane	out	2	8
+кран	tap faucet spigot	out	1	9
+крах	fail failure failed	out	0	4
+крах	ruin	out	0	7
+крик	call	out	1	9
+крик	cry	out	2	8
+кухня	cuisine	out	0	10
+кухня	kitchen	in	5	5
+лестница	ladder	out	0	10
+лестница	stairs stairway staircase steps	in	5	5
+мат	checkmate mate	out	0	7
+мат	mat	out	0	9
+материя	fabric	out	1	4
+материя	matter	in	7	3
+мир	peace peaceful	in	9	1
+мир	world worlds globe mankind universe humanity	in	9	1
+нога	foot	out	3	7
+нога	legs leg	in	8	2
+нос	bow	out	1	4
+нос	nose noses	in	8	2
+ночь	morning	out	1	9
+ночь	nighttime tonight night-time nights night dark	in	10	0
+план	design	out	3	7
+план	layout map	out	4	6
+план	schedule syllabus scheme strategic plans program strategy plan programme timetable	in	9	1
+пол	flooring floor floorboards	in	8	2
+пол	sexes gender sex	in	4	2
+порода	breed	out	2	8
+порода	rock	out	2	8
+проводник	conductor	out	0	10
+проводник	guide	out	0	10
+произведение	piece	in	10	0
+произведение	product	out	0	4
+рецепт	prescription	out	2	6
+рецепт	recipes recipe	in	6	4
+род	genus	out	0	4
+род	kin tribe clan	out	0	10
+рок	destiny fate	out	0	10
+рок	rock	out	1	3
+сад	gardens orchard garden	in	10	0
+сад	kindergarten nursery preschool	out	1	7
+свет	sunlight light bright lighting lights	in	9	1
+свет	world	in	8	2
+связь	bond	in	7	3
+связь	communications	out	2	7
+связь	relationships nexus coherence link connection affair liaison relationship relations relation	in	9	1
+сеть	grid	out	3	7
+сеть	net mesh network	in	6	4
+скотч	scotch	out	0	10
+скотч	tape	out	0	10
+слон	bishop	out	1	3
+слон	elephant	in	6	4
+слух	hearing hear heard	in	6	3
+слух	rumor rumors rumour	out	1	9
+совет	advice	in	9	1
+совет	council councils	in	2	2
+сон	dreaming dream dreamed dreams dreamt	in	10	0
+сон	sleep slumber asleep sleepy sleeping	in	8	2
+сообщение	mail texted texting e-mail text email	in	6	4
+сообщение	reports report	out	1	6
+сорт	grade	out	0	4
+сорт	strain	out	0	9
+ствол	barrel	out	1	9
+ствол	trunk	out	4	6
+судья	magistrate justice judge judges	in	7	3
+судья	referee umpire	out	0	10
+счёт	account	out	1	5
+счёт	counting score count	out	0	8
+таз	basin bowl	out	0	10
+таз	pelvis	out	2	8
+текст	lyrics	out	2	8
+текст	text	in	8	2
+температура	fever	out	2	8
+температура	temperatures temperature	in	6	3
+ткань	fabrics material fabric cloth	in	8	2
+ткань	tissue	in	5	4
+тревога	alert alarm warning	out	0	6
+тревога	anxiety	out	2	6
+труба	chimney pipe	out	1	9
+труба	horn trumpet	out	0	10
+удар	punching punch	out	0	10
+удар	shock	in	5	5
+узел	knot knots	in	3	1
+узел	node	out	1	9
+форма	form	in	9	1
+форма	uniform	out	1	9
+цвет	blossom blossoms flower	out	0	10
+цвет	colour color complexion coloring colors colours	in	9	1
+цепь	chain	in	6	4
+цепь	circuit	out	1	9
+шаг	pitch	out	1	8
+шаг	step	in	9	1
+язык	languages language	in	8	2
+язык	tongue	in	10	0

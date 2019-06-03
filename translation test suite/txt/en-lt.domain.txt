@@ -1,0 +1,8 @@
+communication	komunikacija bendravimas	in	8	2
+communication	pranešimas	in	10	0
+heart	esmė pagrindas	in	9	1
+heart	širdis	out	0	10
+horse	arklys	out	0	7
+horse	žirgas	out	0	6
+land	šalis	out	1	5
+land	žemė	out	4	6

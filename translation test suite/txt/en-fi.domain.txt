@@ -1,0 +1,97 @@
+actor	näyttelijä	out	4	6
+actor	toimija	in	9	1
+address	puheenvuoro puhe	out	4	6
+address	sähköpostiosoite osoite	in	5	5
+base	perusta pohja	in	5	5
+base	tukikohta	out	3	7
+bridge	komentosilta	out	0	9
+bridge	silta	out	4	6
+case	laukku	out	0	10
+case	oikeudenkäynti tapaus oikeusjuttu juttu asia oikeustapaus kanne	in	8	2
+cell	selli vankiselli	out	0	10
+cell	solu matkapuhelin kännykkä känny	out	2	8
+coach	turistiluokka bussi	out	0	4
+coach	valmentaja opettaja	out	0	10
+cock	kukko	out	0	4
+cock	mulkku kyrpä kulli kalu	out	0	10
+colon	kaksoispiste	out	1	4
+colon	paksusuoli	out	0	6
+colony	siirtomaa	in	3	1
+colony	yhdyskunta	out	0	10
+column	kolumni	out	1	8
+column	pylväs rivistö	out	0	4
+constitution	perustaminen	in	4	0
+constitution	perustuslaki	in	5	5
+cross	risteytys	out	0	5
+cross	risti	out	0	10
+empire	imperiumi	out	1	9
+empire	keisarikunta	out	1	6
+end	loppu päätös umpikuja	in	6	4
+end	päämäärä tavoite	in	5	5
+expression	ilmaisu ilmaus	in	5	5
+expression	ilme	out	1	9
+fly	kärpänen	out	0	10
+fly	sepalus	out	0	4
+foundation	perustuksia perusta pohja perustukset perustus	in	5	5
+foundation	säätiö	in	5	5
+gag	suukapula	out	0	6
+gag	vitsi pila	out	0	8
+head	pomo johtaja	out	4	6
+head	pää suihinotto mieli kallo järki	out	4	6
+law	laki oikeus lait lainsäädäntö oikeustiede	in	5	5
+law	poliisi	out	0	7
+lead	johto	out	1	9
+lead	lyijy	out	4	6
+magazine	aikakauslehti	in	7	3
+magazine	lipas	out	0	10
+mass	massa	in	6	4
+mass	messu	out	0	6
+medicine	lääketiede	out	4	6
+medicine	lääkitys lääke	in	5	5
+net	netto	in	9	1
+net	verkko	out	2	8
+nut	kives	out	0	4
+nut	mutteri	out	0	4
+nut	pähkinä	out	0	9
+painting	maalaaminen	out	0	6
+painting	maalaus kuva	out	3	7
+piece	ase	out	0	9
+piece	kappale	out	0	10
+plate	lautanen	out	0	10
+plate	rekkari kilpi rekisterikilpi	out	0	6
+plot	juoni	out	0	10
+plot	tontti	out	0	4
+pot	marihuana ruoho	out	0	10
+pot	ruukku	out	1	6
+pupil	oppilas	out	3	7
+pupil	pupilli	out	0	6
+register	kassakone kassa	out	0	9
+register	rekisteri	in	9	1
+ring	rengas	out	2	8
+ring	rinki sormus soittoääni	out	1	9
+seal	leima sinetti	out	4	6
+seal	tiiviste	out	0	6
+sentence	tuomio rangaistus	in	6	4
+sentence	virke lause	in	10	0
+spot	kohta paikka	out	1	9
+spot	täplä läikkä pilkku	out	0	8
+stroke	aivohalvaus aivoinfarkti	out	0	10
+stroke	veto	out	0	4
+suit	kanne	out	0	10
+suit	puku pukumies	out	1	9
+summit	huippu	out	1	7
+summit	huippukokous	out	4	6
+terminal	pääte	out	1	6
+terminal	terminaali	out	2	8
+toast	malja	out	0	10
+toast	paahtoleipä	out	0	6
+tournament	turnajaiset	out	0	4
+tournament	turnaus	out	0	10
+track	kappale	out	0	9
+track	raiteet rata raide	out	2	8
+trailer	perävaunu peräkärry	out	1	7
+trailer	traileri	out	0	4
+union	ammattiyhdistys ammattiliitto ammattijärjestö	in	6	4
+union	unioni	in	5	5
+vet	eläinlääkäri	out	2	8
+vet	sotaveteraani veteraani	out	0	10
