@@ -14,6 +14,8 @@ The second variant *"translation test suite"* covers 9 language pairs with a tot
 
 If you use this work, please cite:
 
-```
-Alessandro Raganato, Yves Scherrer and Jörg Tiedemann. 2019. The MUCOW test suite at WMT 2019: Automatically harvested multilingual contrastive word sense disambiguation test sets for machine translation. In Proceedings of the Fourth Conference on Machine Translation (WMT): Shared Task Papers. Florence, Italy (to appear).
-```
+
+Alessandro Raganato, Yves Scherrer and Jörg Tiedemann. 2019.
+The MUCOW test suite at WMT 2019: Automatically harvested multilingual contrastive word sense disambiguation test sets for machine translation. 
+In Proceedings of the Fourth Conference on Machine Translation (WMT): Shared Task Papers. Florence, Italy (to appear).
+
