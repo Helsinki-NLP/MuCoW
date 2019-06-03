@@ -7,11 +7,9 @@ import sys
 import io
 import json
 
-prefix = sys.argv[1]
+infile = sys.argv[1]
 srcpath = sys.argv[2]
 target = sys.argv[3]
-
-infile = prefix + '.json'
 
 data = json.load(open(infile))
 
