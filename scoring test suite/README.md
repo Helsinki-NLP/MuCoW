@@ -12,7 +12,7 @@ Following [contraWSD](https://github.com/a-rios/ContraWSD) project, we release t
 
 `json_to_plaintext.py` takes in input three arguments, the path of the json file and the path where to create the source and constrastive files. For example:
 
-`python json_to_plaintext.py ./json/cs-en.mucow.json ./source.cs ./contrastive.en`
+`python json_to_plaintext.py ./json/cs-en.mucow.scoring.json ./source.cs ./contrastive.en`
 
 will create the files `source.cs` and `contrastive.en` containing the translations to score with a given machine translation system (Note that the sentences are in raw format, so you would need to apply a preprocessing pipeline before scoring).
 
@@ -24,7 +24,7 @@ After scoring the translations in the same order in which are listed, you can us
 
 An example:
 
-`python evaluate_mod.py -r ./json/cs-en.mucow.json < myscore.cs-en > myaccuracy.cs-en`
+`python evaluate_mod.py -r ./json/cs-en.mucow.scoring.json < myscore.cs-en > myaccuracy.cs-en`
 
 
 (By default, the script assumes lower scores are better, however you change the setting with the `--maximize` option which means the higher the better)
