@@ -3,7 +3,7 @@ MuCoW is a **mu**ltilingual **co**ntrastive **w**ord sense disambiguation test s
 
 
 The MuCoW test suite is available in two variants: *"scoring test suite"* and *"translation test suite"*.
-For a more detailed description of MUCOW please refer to Section 2 (Building MuCoW) and Section 4 (Translation test suites for WMT 2019) of the reference paper.
+For a more detailed description of MuCoW please refer to Section 2 (Building MuCoW) and Section 4 (Translation test suites for WMT 2019) of the reference paper.
 
 
 The first variant *"scoring test suite"* covers 11 language pairs with a total of almost 240 000 sentence pairs and relies on the ability of neural machine translation systems to score given translations: a sentence containing an ambiguous source word is paired with the correct reference translation and with a modified translation in which the ambiguous word has been replaced by a word of a different sense. A contrast is considered successfully detected if the reference translation obtains a higher score than an artificially modified translation. 
