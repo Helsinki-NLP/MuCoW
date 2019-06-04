@@ -1,0 +1,2287 @@
+[
+  {
+    "reference": "There was a lady there from Denmark who very nearly might not have been.",
+    "ambig word": "dāma",
+    "original translation": "lady",
+    "origin": "europarl",
+    "sense": "lady",
+    "source": "Prezentācijā piedalījās arī kāda dāma no Dānijas, kura gandrīz varēja tur nebūt.",
+    "errors": [
+      {
+        "contrastive": "There was a queen there from Denmark who very nearly might not have been.",
+        "type": "word_sense",
+        "replacement": "queen"
+      }
+    ]
+  },
+  {
+    "reference": "She\u0027s a sneaky lady, but I think she likes you.",
+    "ambig word": "dāma",
+    "original translation": "lady",
+    "origin": "opensubs",
+    "sense": "lady",
+    "source": "Viņa ir zaglīga dāma, bet es domāju, ka tu viņai patīc.",
+    "errors": [
+      {
+        "contrastive": "She\u0027s a sneaky queen, but I think she likes you.",
+        "type": "word_sense",
+        "replacement": "queen"
+      }
+    ]
+  },
+  {
+    "reference": "They have also a special human rights adviser, another lady who is also working particularly on this issue.",
+    "ambig word": "dāma",
+    "original translation": "lady",
+    "origin": "europarl",
+    "sense": "lady",
+    "source": "Viņiem ir arī speciāls padomnieks cilvēktiesību jautājumos, vēl viena dāma, kura strādā tieši pie šī jautājuma.",
+    "errors": [
+      {
+        "contrastive": "They have also a special human rights adviser, another queen who is also working particularly on this issue.",
+        "type": "word_sense",
+        "replacement": "queen"
+      }
+    ]
+  },
+  {
+    "reference": "So, your mother tells me about a certain young lady who\u0027s helping you with the Triborough Bridge project?",
+    "ambig word": "dāma",
+    "original translation": "lady",
+    "origin": "opensubs",
+    "sense": "lady",
+    "source": "Un tā nu man māte stāsta ka kāda jauna dāma tev palīdzot ar Triboro tiltu projektu?",
+    "errors": [
+      {
+        "contrastive": "So, your mother tells me about a certain young queen who\u0027s helping you with the Triborough Bridge project?",
+        "type": "word_sense",
+        "replacement": "queen"
+      }
+    ]
+  },
+  {
+    "reference": "The little lady wants to go to the zoo, so I thought you could take her, yeah?",
+    "ambig word": "dāma",
+    "original translation": "lady",
+    "origin": "opensubs",
+    "sense": "lady",
+    "source": "Mazā dāma grib iet uz zoodārzu, tāpēc nodomāju, ka tu varētu viņu aizvest.",
+    "errors": [
+      {
+        "contrastive": "The little queen wants to go to the zoo, so I thought you could take her, yeah?",
+        "type": "word_sense",
+        "replacement": "queen"
+      }
+    ]
+  },
+  {
+    "reference": "Your dog might pee like a lady, but I like him anyway.",
+    "ambig word": "dāma",
+    "original translation": "lady",
+    "origin": "opensubs",
+    "sense": "lady",
+    "source": "Tavs suns čurā kā suņu dāma, bet man viņš patīk tik un tā.",
+    "errors": [
+      {
+        "contrastive": "Your dog might pee like a queen, but I like him anyway.",
+        "type": "word_sense",
+        "replacement": "queen"
+      }
+    ]
+  },
+  {
+    "reference": "According to the evidence log, the new lady suit... that would be Diana.",
+    "ambig word": "dāma",
+    "original translation": "lady",
+    "origin": "opensubs",
+    "sense": "lady",
+    "source": "Saskaņā ar pierādījumu sarakstu, jaunā dāma uzvalkā tā būs Daiena.",
+    "errors": [
+      {
+        "contrastive": "According to the evidence log, the new queen suit... that would be Diana.",
+        "type": "word_sense",
+        "replacement": "queen"
+      }
+    ]
+  },
+  {
+    "reference": "Kind of lady no one\u0027ll miss, except a couple of her kids.",
+    "ambig word": "dāma",
+    "original translation": "lady",
+    "origin": "opensubs",
+    "sense": "lady",
+    "source": "Tāda dāma, pēc kuras neviens nesērotu, izņemot pāris viņas bērnu.",
+    "errors": [
+      {
+        "contrastive": "Kind of queen no one\u0027ll miss, except a couple of her kids.",
+        "type": "word_sense",
+        "replacement": "queen"
+      }
+    ]
+  },
+  {
+    "reference": "Mama\u0027s gone to Heaven, cherie, like that sweet lady... right there.",
+    "ambig word": "dāma",
+    "original translation": "lady",
+    "origin": "opensubs",
+    "sense": "lady",
+    "source": "Mamma ir aizgājusi uz debesīm tāpat kā tā jaukā dāma.",
+    "errors": [
+      {
+        "contrastive": "Mama\u0027s gone to Heaven, cherie, like that sweet queen... right there.",
+        "type": "word_sense",
+        "replacement": "queen"
+      }
+    ]
+  },
+  {
+    "reference": "When I tell you the lady who taught me this illusion actually died performing it, you\u0027ll understand the seriousness of the dangers involved.",
+    "ambig word": "dāma",
+    "original translation": "lady",
+    "origin": "opensubs",
+    "sense": "lady",
+    "source": "Kad es jums izstāstīšu, ka jaunā dāma, kas man iemācīja šo triku, patiesībā nomira, to izpildot, jūs sapratīsiet briesmu nopietnību.",
+    "errors": [
+      {
+        "contrastive": "When I tell you the queen who taught me this illusion actually died performing it, you\u0027ll understand the seriousness of the dangers involved.",
+        "type": "word_sense",
+        "replacement": "queen"
+      }
+    ]
+  },
+  {
+    "reference": "Lady and gentleman, for to tickle your eyes and ears and making hearts to thump, I, Sergei Alexander Bobinsky, am introducing my astoundishing, stupendulous and amazing jumping mouse circus!",
+    "ambig word": "dāma",
+    "original translation": "lady",
+    "origin": "opensubs",
+    "sense": "lady",
+    "source": "Dāma un kungs, jūsu acu un ausu priekam, un lai jūsu sirdis priekā lēkātu, es, Sergejs Aleksandrs Bobinskis, stādu priekšā manu brīnišķīgo, pasakaino un lielisko lēcējpeļu cirku!",
+    "errors": [
+      {
+        "contrastive": "queen and gentleman, for to tickle your eyes and ears and making hearts to thump, I, Sergei Alexander Bobinsky, am introducing my astoundishing, stupendulous and amazing jumping mouse circus!",
+        "type": "word_sense",
+        "replacement": "queen"
+      }
+    ]
+  },
+  {
+    "reference": "Do you think the lady will accept a ride from you?",
+    "ambig word": "dāma",
+    "original translation": "lady",
+    "origin": "opensubs",
+    "sense": "lady",
+    "source": "Domā, ka dāma piekritīs, ka viņu aizved?",
+    "errors": [
+      {
+        "contrastive": "Do you think the queen will accept a ride from you?",
+        "type": "word_sense",
+        "replacement": "queen"
+      }
+    ]
+  },
+  {
+    "reference": "But the lady that gets Wayne Floyd, she\u0027ll get the complete package.",
+    "ambig word": "dāma",
+    "original translation": "lady",
+    "origin": "opensubs",
+    "sense": "lady",
+    "source": "Bet dāma, kas dabūs Veinu Floidu, iegūs pilnu komplektu.",
+    "errors": [
+      {
+        "contrastive": "But the queen that gets Wayne Floyd, she\u0027ll get the complete package.",
+        "type": "word_sense",
+        "replacement": "queen"
+      }
+    ]
+  },
+  {
+    "reference": "Get the ladies on the dance floor And I got my lady right here",
+    "ambig word": "dāma",
+    "original translation": "lady",
+    "origin": "opensubs",
+    "sense": "lady",
+    "source": "Dabūjiet meitenes uz deju grīdas Un šeit ir mana dāma",
+    "errors": [
+      {
+        "contrastive": "Get the ladies on the dance floor And I got my queen right here",
+        "type": "word_sense",
+        "replacement": "queen"
+      }
+    ]
+  },
+  {
+    "reference": "Lady got home from work, found her husband on the floor, called us.",
+    "ambig word": "dāma",
+    "original translation": "lady",
+    "origin": "opensubs",
+    "sense": "lady",
+    "source": "Dāma pārradās mājās no darba, atrada savu vīru guļam uz grīdas, piezvanīja mums.",
+    "errors": [
+      {
+        "contrastive": "queen got home from work, found her husband on the floor, called us.",
+        "type": "word_sense",
+        "replacement": "queen"
+      }
+    ]
+  },
+  {
+    "reference": "The young lady slipped so suddenly... and you still had time to remove your jacket and your shoes.",
+    "ambig word": "dāma",
+    "original translation": "lady",
+    "origin": "opensubs",
+    "sense": "lady",
+    "source": "Jaunā dāma paslīdēja tik pēkšņi, bet Jūs vēl paspējāt novilkt savu jaku un apavus.",
+    "errors": [
+      {
+        "contrastive": "The young queen slipped so suddenly... and you still had time to remove your jacket and your shoes.",
+        "type": "word_sense",
+        "replacement": "queen"
+      }
+    ]
+  },
+  {
+    "reference": "There is a lady all in white Holds me and sings a lullaby.",
+    "ambig word": "dāma",
+    "original translation": "lady",
+    "origin": "opensubs",
+    "sense": "lady",
+    "source": "Tur ir dāma visa baltā, viņa tur mani un dzied šūpuļdziesmu.",
+    "errors": [
+      {
+        "contrastive": "There is a queen all in white Holds me and sings a lullaby.",
+        "type": "word_sense",
+        "replacement": "queen"
+      }
+    ]
+  },
+  {
+    "reference": "It\u0027s the ghost of a lady widowed before her marriage, I figure it, searching for her husband, lost at sea.",
+    "ambig word": "dāma",
+    "original translation": "lady",
+    "origin": "opensubs",
+    "sense": "lady",
+    "source": "Dāma pirms kāzām zaudējusi līgavaini, viņas rēgs meklē vīru, ko laupījusi jūra.",
+    "errors": [
+      {
+        "contrastive": "It\u0027s the ghost of a queen widowed before her marriage, I figure it, searching for her husband, lost at sea.",
+        "type": "word_sense",
+        "replacement": "queen"
+      }
+    ]
+  },
+  {
+    "reference": "You don\u0027t understand! All right, here they come. Queen to the Chesser, Big Bull to Tabulations ten to Billy to match his whang, and the dealer gets a three.",
+    "ambig word": "dāma",
+    "original translation": "queen",
+    "origin": "opensubs",
+    "sense": "queen",
+    "source": "Dāma Česeram, lielais bullis Tabulācijām, 10 Billijam un dalītājs dabū 3.",
+    "errors": [
+      {
+        "contrastive": "You don\u0027t understand! All right, here they come. lady to the Chesser, Big Bull to Tabulations ten to Billy to match his whang, and the dealer gets a three.",
+        "type": "word_sense",
+        "replacement": "lady"
+      }
+    ]
+  },
+  {
+    "reference": "Looky, looky, looky, hey, diddle, diddle, the queen\u0027s in the middle.",
+    "ambig word": "dāma",
+    "original translation": "queen",
+    "origin": "opensubs",
+    "sense": "queen",
+    "source": "Skaties, skaties, skaties, jaucu, jaucu, dāma ir vidū.",
+    "errors": [
+      {
+        "contrastive": "Looky, looky, looky, hey, diddle, diddle, the lady\u0027s in the middle.",
+        "type": "word_sense",
+        "replacement": "lady"
+      }
+    ]
+  },
+  {
+    "reference": "The situation in the Mediterranean is a lesson for us in the failure to respect human rights.",
+    "ambig word": "stunda",
+    "original translation": "lesson",
+    "origin": "europarl",
+    "sense": "lesson",
+    "source": "Situācija Vidusjūras reģionā mums ir mācību stunda nespējā ievērot cilvēktiesības.",
+    "errors": [
+      {
+        "contrastive": "The situation in the Mediterranean is a hour for us in the failure to respect human rights.",
+        "type": "word_sense",
+        "replacement": "hour"
+      }
+    ]
+  },
+  {
+    "reference": "Glad to see my science lesson had a positive effect on the jury.",
+    "ambig word": "stunda",
+    "original translation": "lesson",
+    "origin": "opensubs",
+    "sense": "lesson",
+    "source": "Priecājos, ka mana zinātnes stunda pozitīvi ietekmējusi zvērinātos.",
+    "errors": [
+      {
+        "contrastive": "Glad to see my science hour had a positive effect on the jury.",
+        "type": "word_sense",
+        "replacement": "hour"
+      }
+    ]
+  },
+  {
+    "reference": "Daily exposure for measurement period 81 dB(A) Activities during day Time Lesson period",
+    "ambig word": "stunda",
+    "original translation": "lesson",
+    "origin": "eubooks",
+    "sense": "lesson",
+    "source": "Sērijas Nr. 432 dienas ekspozīcija mērījumu periodam 81 db(a)dienas laikā veiktās darbības Laiks stunda pēc kārtas darbība vieta",
+    "errors": [
+      {
+        "contrastive": "Daily exposure for measurement period 81 dB(A) Activities during day Time hour period",
+        "type": "word_sense",
+        "replacement": "hour"
+      }
+    ]
+  },
+  {
+    "reference": "It is a lesson from another era that could not work, but the worst part of it is that the situation has become worse, politically and in human terms.",
+    "ambig word": "stunda",
+    "original translation": "lesson",
+    "origin": "europarl",
+    "sense": "lesson",
+    "source": "Tā ir mācību stunda no citas ēras, kas nav neko devusi, bet vissliktākā šīs mācības daļa ir situācijas pasliktināšanās - politiski un cilvēcīgi.",
+    "errors": [
+      {
+        "contrastive": "It is a hour from another era that could not work, but the worst part of it is that the situation has become worse, politically and in human terms.",
+        "type": "word_sense",
+        "replacement": "hour"
+      }
+    ]
+  },
+  {
+    "reference": "Well, that concludes today\u0027s lesson on \"Don\u0027t screw with michael Dooley. \"",
+    "ambig word": "stunda",
+    "original translation": "lesson",
+    "origin": "opensubs",
+    "sense": "lesson",
+    "source": "Ar to beidzas šodienas stunda \"Nejoko ar Maiklu Dūliju.\"",
+    "errors": [
+      {
+        "contrastive": "Well, that concludes today\u0027s hour on \"Don\u0027t screw with michael Dooley. \"",
+        "type": "word_sense",
+        "replacement": "hour"
+      }
+    ]
+  },
+  {
+    "reference": "May this resolution be a lesson for a new generation which has not experienced persecution.",
+    "ambig word": "stunda",
+    "original translation": "lesson",
+    "origin": "europarl",
+    "sense": "lesson",
+    "source": "Lai šī rezolūcija ir mācību stunda jaunajai paaudzei, kas nav piedzīvojusi vajāšanu.",
+    "errors": [
+      {
+        "contrastive": "May this resolution be a hour for a new generation which has not experienced persecution.",
+        "type": "word_sense",
+        "replacement": "hour"
+      }
+    ]
+  },
+  {
+    "reference": "rapporteur. - (DE) What I have to present here is an object lesson for all those who are interested in the way political decisions are actually made, a didactic play about the failure of control to function in this Parliament.",
+    "ambig word": "stunda",
+    "original translation": "lesson",
+    "origin": "europarl",
+    "sense": "lesson",
+    "source": "Man šodien šeit ir jānovada mācību stunda visiem tiem, kas ir ieinteresēti jautājumā par to, kā tieši tiek pieņemti politiski lēmumi, pamācoša luga par kontroles trūkumu šajā Parlamentā.",
+    "errors": [
+      {
+        "contrastive": "rapporteur. - (DE) What I have to present here is an object hour for all those who are interested in the way political decisions are actually made, a didactic play about the failure of control to function in this Parliament.",
+        "type": "word_sense",
+        "replacement": "hour"
+      }
+    ]
+  },
+  {
+    "reference": "We have had almost an hour and a half, and we have done our best to accommodate everybody\u0027s wishes.",
+    "ambig word": "stunda",
+    "original translation": "hour",
+    "origin": "europarl",
+    "sense": "hour",
+    "source": "Mums ir bijusi gandrīz pusotra stunda, un mēs esam darījuši, ko varējuši, lai apmierinātu ikviena vēlmes.",
+    "errors": [
+      {
+        "contrastive": "We have had almost an lesson and a half, and we have done our best to accommodate everybody\u0027s wishes.",
+        "type": "word_sense",
+        "replacement": "lesson"
+      }
+    ]
+  },
+  {
+    "reference": "\"That is how we know it is the last hour.\"",
+    "ambig word": "stunda",
+    "original translation": "hour",
+    "origin": "opensubs",
+    "sense": "hour",
+    "source": "No tā mēs zinām, ka ir pēdējā stunda.\"",
+    "errors": [
+      {
+        "contrastive": "\"That is how we know it is the last lesson.\"",
+        "type": "word_sense",
+        "replacement": "lesson"
+      }
+    ]
+  },
+  {
+    "reference": "More than 1 100 companies created since July 2005 in an average time of 1 hour and 15 minutes to ful«l all the requirements.",
+    "ambig word": "stunda",
+    "original translation": "hour",
+    "origin": "eubooks",
+    "sense": "hour",
+    "source": "Kopþ 2005. gada jヰlija nodibinｮti vairｮk nekｮ 1 100 uzﾐｺmumu; vidｺjais laiks visu prasﾅbu izpildei bija 1 stunda un 15 minヰtes.",
+    "errors": [
+      {
+        "contrastive": "More than 1 100 companies created since July 2005 in an average time of 1 lesson and 15 minutes to ful«l all the requirements.",
+        "type": "word_sense",
+        "replacement": "lesson"
+      }
+    ]
+  },
+  {
+    "reference": "Instead, people keep talking here as if \u0027zero hour\u0027 were just beginning.",
+    "ambig word": "stunda",
+    "original translation": "hour",
+    "origin": "europarl",
+    "sense": "hour",
+    "source": "Tā vietā cilvēki šeit turpina runāt tā, it kā nupat būtu sākusies \"izšķirošā stunda”.",
+    "errors": [
+      {
+        "contrastive": "Instead, people keep talking here as if \u0027zero lesson\u0027 were just beginning.",
+        "type": "word_sense",
+        "replacement": "lesson"
+      }
+    ]
+  },
+  {
+    "reference": "We have more to see, but we have only one more hour of light.",
+    "ambig word": "stunda",
+    "original translation": "hour",
+    "origin": "opensubs",
+    "sense": "hour",
+    "source": "Ir vēl ko apskatīt, bet palikusi vairs tikai stunda dienasgaismas.",
+    "errors": [
+      {
+        "contrastive": "We have more to see, but we have only one more lesson of light.",
+        "type": "word_sense",
+        "replacement": "lesson"
+      }
+    ]
+  },
+  {
+    "reference": "The programme lasts 8 to 12 weeks, consists of 6 group sessions of 2 hours (maximum of 10 participants) and a 1 hour individual discussion.",
+    "ambig word": "stunda",
+    "original translation": "hour",
+    "origin": "eubooks",
+    "sense": "hour",
+    "source": "Programmas ilgums ir no 8 – 12 nedēļām, tajā ir 6 grupu nodarbības pa 2 stundām (dalībnieku maksimālais skaits – 10), kā arī 1 stunda individuālu pārrunu.",
+    "errors": [
+      {
+        "contrastive": "The programme lasts 8 to 12 weeks, consists of 6 group sessions of 2 hours (maximum of 10 participants) and a 1 lesson individual discussion.",
+        "type": "word_sense",
+        "replacement": "lesson"
+      }
+    ]
+  },
+  {
+    "reference": "This was our third Question Hour with the President of the European Commission.",
+    "ambig word": "stunda",
+    "original translation": "hour",
+    "origin": "europarl",
+    "sense": "hour",
+    "source": "Tā bija mūsu trešā jautājumu stunda kopā ar Eiropas Komisijas priekšsēdētāju.",
+    "errors": [
+      {
+        "contrastive": "This was our third Question lesson with the President of the European Commission.",
+        "type": "word_sense",
+        "replacement": "lesson"
+      }
+    ]
+  },
+  {
+    "reference": "It\u0027s a long shot, but every hour we buy gets them closer to finding Elizabeth.",
+    "ambig word": "stunda",
+    "original translation": "hour",
+    "origin": "opensubs",
+    "sense": "hour",
+    "source": "Tā ir riskanta lieta, bet katra stunda, ko iegūstam, pietuvina viņus Elizabetes atrašanai.",
+    "errors": [
+      {
+        "contrastive": "It\u0027s a long shot, but every lesson we buy gets them closer to finding Elizabeth.",
+        "type": "word_sense",
+        "replacement": "lesson"
+      }
+    ]
+  },
+  {
+    "reference": "Given the huge salary that Mr Barroso is on, can he not spend another 30 minutes with us on a regular basis, to make this an hour and a half?",
+    "ambig word": "stunda",
+    "original translation": "hour",
+    "origin": "europarl",
+    "sense": "hour",
+    "source": "Ņemot vērā Barroso kunga lielo algu, vai tiešām viņš nevar kopā ar mums regulāri pavadīt 30 minūtes ilgāk, lai mūsu rīcībā būtu pusotra stunda?",
+    "errors": [
+      {
+        "contrastive": "Given the huge salary that Mr Barroso is on, can he not spend another 30 minutes with us on a regular basis, to make this an lesson and a half?",
+        "type": "word_sense",
+        "replacement": "lesson"
+      }
+    ]
+  },
+  {
+    "reference": "Solar energy, derived from the sun, has such abundance, that one hour of light at high noon contains more energy than what the entire world consumes in a year.",
+    "ambig word": "stunda",
+    "original translation": "hour",
+    "origin": "opensubs",
+    "sense": "hour",
+    "source": "Saules enerėija, kas nâk no saules, ir tik lielâ daudzumâ, ka viena stunda gaismas dienas vidû, satur vairâk enerėijas, nekâ visa pasaule patįrį gada laikâ.",
+    "errors": [
+      {
+        "contrastive": "Solar energy, derived from the sun, has such abundance, that one lesson of light at high noon contains more energy than what the entire world consumes in a year.",
+        "type": "word_sense",
+        "replacement": "lesson"
+      }
+    ]
+  },
+  {
+    "reference": "Research has shown that one hour can be too much if the animal is not strong enough to be transported, and longer journeys can be fine if the animal is strong and healthy and is transported under good conditions.",
+    "ambig word": "stunda",
+    "original translation": "hour",
+    "origin": "europarl",
+    "sense": "hour",
+    "source": "Pētījumi ir parādījuši, ka viena stunda var būt par daudz dzīvniekam, ja tas nav pietiekami spēcīgs pārvadāšanai, un garāki braucieni ir pieņemami, ja dzīvnieks ir spēcīgs un vesels, un tiek pārvadāts labos apstākļos.",
+    "errors": [
+      {
+        "contrastive": "Research has shown that one lesson can be too much if the animal is not strong enough to be transported, and longer journeys can be fine if the animal is strong and healthy and is transported under good conditions.",
+        "type": "word_sense",
+        "replacement": "lesson"
+      }
+    ]
+  },
+  {
+    "reference": "Let this be the hour when we draw swords together.",
+    "ambig word": "stunda",
+    "original translation": "hour",
+    "origin": "opensubs",
+    "sense": "hour",
+    "source": "Lai šī būtu tā stunda, kad mēs izvelkam zobenus kopā.",
+    "errors": [
+      {
+        "contrastive": "Let this be the lesson when we draw swords together.",
+        "type": "word_sense",
+        "replacement": "lesson"
+      }
+    ]
+  },
+  {
+    "reference": "There is no doubt that our initial efforts in Chad were not our finest hour, but it is a case study from which we as the European Union have been able to learn because, quite simply, the shortcomings became very obvious.",
+    "ambig word": "stunda",
+    "original translation": "hour",
+    "origin": "europarl",
+    "sense": "hour",
+    "source": "Bez šaubām sākotnējie centieni Čadā nebija mūsu veiksmes stunda, taču tā bija situācijas izpēte, ko mums, kā Eiropas Savienībai, bija iespēja iepazīt, jo nesaprašanās, pavisam vienkārši, kļuva acīm redzamas.",
+    "errors": [
+      {
+        "contrastive": "There is no doubt that our initial efforts in Chad were not our finest lesson, but it is a case study from which we as the European Union have been able to learn because, quite simply, the shortcomings became very obvious.",
+        "type": "word_sense",
+        "replacement": "lesson"
+      }
+    ]
+  },
+  {
+    "reference": "\"So will there be many antichrists...\" \"and that is how we know it is the last hour.\"",
+    "ambig word": "stunda",
+    "original translation": "hour",
+    "origin": "opensubs",
+    "sense": "hour",
+    "source": "\"Būs daudzi antikristi, un no tā mēs zinām, ka ir pēdējā stunda.",
+    "errors": [
+      {
+        "contrastive": "\"So will there be many antichrists...\" \"and that is how we know it is the last lesson.\"",
+        "type": "word_sense",
+        "replacement": "lesson"
+      }
+    ]
+  },
+  {
+    "reference": "We are going to have similar contact with the Commissioners, with the Vice-Presidents of the European Commission, and so we are going to have an hour of questions and answers which will help us to understand the work of the Commission.",
+    "ambig word": "stunda",
+    "original translation": "hour",
+    "origin": "europarl",
+    "sense": "hour",
+    "source": "Mums būs līdzīgas sarunas ar komisāriem, ar Eiropas Komisijas priekšsēdētāja vietniekiem, un mums būs jautājumu un atbilžu stunda, kas mums palīdzēs izprast Komisijas darbu.",
+    "errors": [
+      {
+        "contrastive": "We are going to have similar contact with the Commissioners, with the Vice-Presidents of the European Commission, and so we are going to have an lesson of questions and answers which will help us to understand the work of the Commission.",
+        "type": "word_sense",
+        "replacement": "lesson"
+      }
+    ]
+  },
+  {
+    "reference": "Have I fallen so far And is the hour so late That nothing remains but the cry of my hate?",
+    "ambig word": "stunda",
+    "original translation": "hour",
+    "origin": "opensubs",
+    "sense": "hour",
+    "source": "Vai esmu kritis tik zemu, un vai šī stunda tik vēla, ka nepaliek nekas cits kā mana naida kliedziens?",
+    "errors": [
+      {
+        "contrastive": "Have I fallen so far And is the lesson so late That nothing remains but the cry of my hate?",
+        "type": "word_sense",
+        "replacement": "lesson"
+      }
+    ]
+  },
+  {
+    "reference": "However, every day and every hour is of great importance to the people concerned.",
+    "ambig word": "stunda",
+    "original translation": "hour",
+    "origin": "europarl",
+    "sense": "hour",
+    "source": "Tomēr iesaistītajiem cilvēkiem ļoti svarīga ir katra diena, katra stunda.",
+    "errors": [
+      {
+        "contrastive": "However, every day and every lesson is of great importance to the people concerned.",
+        "type": "word_sense",
+        "replacement": "lesson"
+      }
+    ]
+  },
+  {
+    "reference": "In the sweetness of passing time, this hour will soon seem like a day.",
+    "ambig word": "stunda",
+    "original translation": "hour",
+    "origin": "opensubs",
+    "sense": "hour",
+    "source": "Saldi pavadot laiku, šī stunda drīz šķitīs kā diena",
+    "errors": [
+      {
+        "contrastive": "In the sweetness of passing time, this lesson will soon seem like a day.",
+        "type": "word_sense",
+        "replacement": "lesson"
+      }
+    ]
+  },
+  {
+    "reference": "Mr President, I would like you to consider with the Conference of Presidents timetabling the one-minute speeches earlier, because in the last part-sessions this was pushed back to the last hour of our discussions.",
+    "ambig word": "stunda",
+    "original translation": "hour",
+    "origin": "europarl",
+    "sense": "hour",
+    "source": "Priekšsēdētāja kungs, es vēlētos, lai jūs Priekšsēdētāju konferencē apsvērtu, ka vienas minūtes uzstāšanās dienas kārtībā tiek iekļautas agrāk, jo iepriekšējās sēdēs tām debatēs bija atvēlēta pēdējā stunda.",
+    "errors": [
+      {
+        "contrastive": "Mr President, I would like you to consider with the Conference of Presidents timetabling the one-minute speeches earlier, because in the last part-sessions this was pushed back to the last lesson of our discussions.",
+        "type": "word_sense",
+        "replacement": "lesson"
+      }
+    ]
+  },
+  {
+    "reference": "\"The only thing happy about this hour is you.\"",
+    "ambig word": "stunda",
+    "original translation": "hour",
+    "origin": "opensubs",
+    "sense": "hour",
+    "source": "\"Tu esi iemesls tam , ka šī ir Laimīgā stunda.",
+    "errors": [
+      {
+        "contrastive": "\"The only thing happy about this lesson is you.\"",
+        "type": "word_sense",
+        "replacement": "lesson"
+      }
+    ]
+  },
+  {
+    "reference": "This House cannot keep falling for fake promises; the ball was in the Council\u0027s court but it failed to act appropriately and effectively.",
+    "ambig word": "bumba",
+    "original translation": "ball",
+    "origin": "europarl",
+    "sense": "ball",
+    "source": "Šis Parlaments nevar turpināt ticēt tukšiem solījumiem; bumba bija Padomes laukuma pusē, taču Padome nerīkojās atbilstīgi un efektīvi.",
+    "errors": [
+      {
+        "contrastive": "This House cannot keep falling for fake promises; the bomb was in the Council\u0027s court but it failed to act appropriately and effectively.",
+        "type": "word_sense",
+        "replacement": "bomb"
+      }
+    ]
+  },
+  {
+    "reference": "So, you guys keep my ball and stuff?",
+    "ambig word": "bumba",
+    "original translation": "ball",
+    "origin": "opensubs",
+    "sense": "ball",
+    "source": "— Jums vēl ir mana bumba un pārējās lietas?",
+    "errors": [
+      {
+        "contrastive": "So, you guys keep my bomb and stuff?",
+        "type": "word_sense",
+        "replacement": "bomb"
+      }
+    ]
+  },
+  {
+    "reference": "So the ball is back in our court and above all perhaps in the Council\u0027s.",
+    "ambig word": "bumba",
+    "original translation": "ball",
+    "origin": "europarl",
+    "sense": "ball",
+    "source": "Tātad bumba ir atgriezusies mūsu laukuma pusē un galvenokārt laikam Padomes.",
+    "errors": [
+      {
+        "contrastive": "So the bomb is back in our court and above all perhaps in the Council\u0027s.",
+        "type": "word_sense",
+        "replacement": "bomb"
+      }
+    ]
+  },
+  {
+    "reference": "A ball of fire 1,200 miles in diameter heading straight for earth... and we have no idea how to stop it.",
+    "ambig word": "bumba",
+    "original translation": "ball",
+    "origin": "opensubs",
+    "sense": "ball",
+    "source": "Uguns bumba 1200 jūdžu diametrā virzās uz Zemi. Mēs nezinām, kā to apturēt.",
+    "errors": [
+      {
+        "contrastive": "A bomb of fire 1,200 miles in diameter heading straight for earth... and we have no idea how to stop it.",
+        "type": "word_sense",
+        "replacement": "bomb"
+      }
+    ]
+  },
+  {
+    "reference": "The ball is now in the court of the Member States, as they have to commit to ratify this convention.",
+    "ambig word": "bumba",
+    "original translation": "ball",
+    "origin": "europarl",
+    "sense": "ball",
+    "source": "Bumba patlaban ir dalībvalstu pusē, jo tām ir jāapņemas ratificēt šo konvenciju.",
+    "errors": [
+      {
+        "contrastive": "The bomb is now in the court of the Member States, as they have to commit to ratify this convention.",
+        "type": "word_sense",
+        "replacement": "bomb"
+      }
+    ]
+  },
+  {
+    "reference": "You know how when you\u0027re at the plate you want to see the ball come in slow?",
+    "ambig word": "bumba",
+    "original translation": "ball",
+    "origin": "opensubs",
+    "sense": "ball",
+    "source": "Kad stāvi gatavībā, gribi, lai bumba lido prātīgi.",
+    "errors": [
+      {
+        "contrastive": "You know how when you\u0027re at the plate you want to see the bomb come in slow?",
+        "type": "word_sense",
+        "replacement": "bomb"
+      }
+    ]
+  },
+  {
+    "reference": "We need clear commitments now and the ball was in the Council\u0027s court.",
+    "ambig word": "bumba",
+    "original translation": "ball",
+    "origin": "europarl",
+    "sense": "ball",
+    "source": "Tagad mums jādzird stingra apņemšanās, un bumba šajā sakarā ir Padomes laukuma pusē.",
+    "errors": [
+      {
+        "contrastive": "We need clear commitments now and the bomb was in the Council\u0027s court.",
+        "type": "word_sense",
+        "replacement": "bomb"
+      }
+    ]
+  },
+  {
+    "reference": "Come on. You just don\u0027t like it because The Ball represents balls, which you don\u0027t have.",
+    "ambig word": "bumba",
+    "original translation": "ball",
+    "origin": "opensubs",
+    "sense": "ball",
+    "source": "Tev tā nepatīk tikai tāpēc, ka Bumba simbolizē pautus, kuru tev nav.",
+    "errors": [
+      {
+        "contrastive": "Come on. You just don\u0027t like it because The bomb represents balls, which you don\u0027t have.",
+        "type": "word_sense",
+        "replacement": "bomb"
+      }
+    ]
+  },
+  {
+    "reference": "Today, the ball is in the Israeli court, but will the hawks in each camp accept this truce of God that the two sides demand without providing themselves with the resources?",
+    "ambig word": "bumba",
+    "original translation": "ball",
+    "origin": "europarl",
+    "sense": "ball",
+    "source": "Šobrīd bumba ir Izraēlas laukumā, bet, vai katras puses militāristi pieņems šo baznīcas noteikto pamieru, ko abas puses pieprasa, nenodrošinoties ar resursiem?",
+    "errors": [
+      {
+        "contrastive": "Today, the bomb is in the Israeli court, but will the hawks in each camp accept this truce of God that the two sides demand without providing themselves with the resources?",
+        "type": "word_sense",
+        "replacement": "bomb"
+      }
+    ]
+  },
+  {
+    "reference": "Well, all you need to play stickball is a broomstick and a ball.",
+    "ambig word": "bumba",
+    "original translation": "ball",
+    "origin": "opensubs",
+    "sense": "ball",
+    "source": "Viss, kas jums vajadzīgs, lai spēlētu stikbolu, ir slotas kāts un bumba.",
+    "errors": [
+      {
+        "contrastive": "Well, all you need to play stickball is a broomstick and a bomb.",
+        "type": "word_sense",
+        "replacement": "bomb"
+      }
+    ]
+  },
+  {
+    "reference": "However, saying that the ball is solely in Croatia\u0027s court is totally unacceptable.",
+    "ambig word": "bumba",
+    "original translation": "ball",
+    "origin": "europarl",
+    "sense": "ball",
+    "source": "Tomēr teikt, ka bumba ir tikai Horvātijas laukumā, ir pilnīgi nepieņemami.",
+    "errors": [
+      {
+        "contrastive": "However, saying that the bomb is solely in Croatia\u0027s court is totally unacceptable.",
+        "type": "word_sense",
+        "replacement": "bomb"
+      }
+    ]
+  },
+  {
+    "reference": "So I\u0027d say the ball\u0027s in your court, but the truth is your balls are in my fist.",
+    "ambig word": "bumba",
+    "original translation": "ball",
+    "origin": "opensubs",
+    "sense": "ball",
+    "source": "Tāpēc es teiktu, ka bumba ir tavā laukumā, bet patiesība ir, ka tavi pauti ir manā rokā.",
+    "errors": [
+      {
+        "contrastive": "So I\u0027d say the bomb\u0027s in your court, but the truth is your balls are in my fist.",
+        "type": "word_sense",
+        "replacement": "bomb"
+      }
+    ]
+  },
+  {
+    "reference": "I therefore believe that the ball is now in the court of the Member States\u0027 authorities.",
+    "ambig word": "bumba",
+    "original translation": "ball",
+    "origin": "europarl",
+    "sense": "ball",
+    "source": "Tā kā bumba, manuprāt, tagad ir dalībvalstu autoritāšu pusē.",
+    "errors": [
+      {
+        "contrastive": "I therefore believe that the bomb is now in the court of the Member States\u0027 authorities.",
+        "type": "word_sense",
+        "replacement": "bomb"
+      }
+    ]
+  },
+  {
+    "reference": "The ball is snapped, and the QB fumbles.",
+    "ambig word": "bumba",
+    "original translation": "ball",
+    "origin": "opensubs",
+    "sense": "ball",
+    "source": "Bumba ir spēlē, un saspēles vadītājs to zaudē.",
+    "errors": [
+      {
+        "contrastive": "The bomb is snapped, and the QB fumbles.",
+        "type": "word_sense",
+        "replacement": "bomb"
+      }
+    ]
+  },
+  {
+    "reference": "Essentially, the ball is now in Croatia\u0027s court.",
+    "ambig word": "bumba",
+    "original translation": "ball",
+    "origin": "europarl",
+    "sense": "ball",
+    "source": "Svarīgi, ka bumba tagad ir Horvātijas laukuma pusē.",
+    "errors": [
+      {
+        "contrastive": "Essentially, the bomb is now in Croatia\u0027s court.",
+        "type": "word_sense",
+        "replacement": "bomb"
+      }
+    ]
+  },
+  {
+    "reference": "People assume that time is a strict progression of cause to effect, but actually, from a non-linear, non-subjective viewpoint, it\u0027s more like a big ball of wibbly-wobbly, timey-wimey stuff.",
+    "ambig word": "bumba",
+    "original translation": "ball",
+    "origin": "opensubs",
+    "sense": "ball",
+    "source": "Cilvēki uzskata, ka laiks ir kā taisna līnija, no šūpuļa līdz kapam. Bet patiesībā, no ne-lineāra, ne-subjektīva skatpunkta... Laiks ir kā liela bumba... veidota no...",
+    "errors": [
+      {
+        "contrastive": "People assume that time is a strict progression of cause to effect, but actually, from a non-linear, non-subjective viewpoint, it\u0027s more like a big bomb of wibbly-wobbly, timey-wimey stuff.",
+        "type": "word_sense",
+        "replacement": "bomb"
+      }
+    ]
+  },
+  {
+    "reference": "The ball, as they say, is in Minsk\u0027s court.",
+    "ambig word": "bumba",
+    "original translation": "ball",
+    "origin": "europarl",
+    "sense": "ball",
+    "source": "Bumba, kā mēdz teikt, ir Minskas laukuma pusē.",
+    "errors": [
+      {
+        "contrastive": "The bomb, as they say, is in Minsk\u0027s court.",
+        "type": "word_sense",
+        "replacement": "bomb"
+      }
+    ]
+  },
+  {
+    "reference": "People assume that time is a strict progression of cause to effect, but actually, from a non-linear, non-subjective viewpoint, it\u0027s more like a big ball of wibbly-wobbly, timey-wimey stuff.",
+    "ambig word": "bumba",
+    "original translation": "ball",
+    "origin": "opensubs",
+    "sense": "ball",
+    "source": "Cilvēki uzskata, ka laiks ir kā taisna līnija, no šūpuļa līdz kapam. Bet patiesībā, no ne-lineāra, ne-subjektīva skatpunkta... Laiks ir kā liela bumba... veidota no...",
+    "errors": [
+      {
+        "contrastive": "People assume that time is a strict progression of cause to effect, but actually, from a non-linear, non-subjective viewpoint, it\u0027s more like a big bomb of wibbly-wobbly, timey-wimey stuff.",
+        "type": "word_sense",
+        "replacement": "bomb"
+      }
+    ]
+  },
+  {
+    "reference": "The ball really is in our court now to implement this ambitious legislative package, as it is in that of the Commission to monitor it.",
+    "ambig word": "bumba",
+    "original translation": "ball",
+    "origin": "europarl",
+    "sense": "ball",
+    "source": "Tagad bumba patiešām ir mūsu laukuma pusē, lai īstenotu šo mērķtiecīgo tiesību aktu paketi, jo Komisija ir atbildīga par tā kontroli.",
+    "errors": [
+      {
+        "contrastive": "The bomb really is in our court now to implement this ambitious legislative package, as it is in that of the Commission to monitor it.",
+        "type": "word_sense",
+        "replacement": "bomb"
+      }
+    ]
+  },
+  {
+    "reference": "However, one thing is clear. The ball is now in your court and it is your turn to take action.",
+    "ambig word": "bumba",
+    "original translation": "ball",
+    "origin": "europarl",
+    "sense": "ball",
+    "source": "Tomēr viens ir skaidrs - bumba tagad ir jūsu laukuma pusē, un ir pienācis jūsu laiks rīkoties.",
+    "errors": [
+      {
+        "contrastive": "However, one thing is clear. The bomb is now in your court and it is your turn to take action.",
+        "type": "word_sense",
+        "replacement": "bomb"
+      }
+    ]
+  },
+  {
+    "reference": "Without a doubt the pensions problem at this point is a \u0027bomb ready to explode\u0027, and it will be worse in the future.",
+    "ambig word": "bumba",
+    "original translation": "bomb",
+    "origin": "europarl",
+    "sense": "bomb",
+    "source": "Pensiju problēma, bez šaubām, pašlaik ir \"bumba ar laika degli”, un stāvoklis turpmāk vēl pasliktināsies.",
+    "errors": [
+      {
+        "contrastive": "Without a doubt the pensions problem at this point is a \u0027ball ready to explode\u0027, and it will be worse in the future.",
+        "type": "word_sense",
+        "replacement": "ball"
+      }
+    ]
+  },
+  {
+    "reference": "At this very moment, an unnecessarily complicated bomb is being attached to the inside of the main energy core.",
+    "ambig word": "bumba",
+    "original translation": "bomb",
+    "origin": "opensubs",
+    "sense": "bomb",
+    "source": "Šajā brīdī nevajadzīgi sarežģīta bumba tiek piestiprināta galvenā enerģijas kodola iekšpusē.",
+    "errors": [
+      {
+        "contrastive": "At this very moment, an unnecessarily complicated ball is being attached to the inside of the main energy core.",
+        "type": "word_sense",
+        "replacement": "ball"
+      }
+    ]
+  },
+  {
+    "reference": "Does the Prime Minister consider BK90 to be a cluster bomb or not?",
+    "ambig word": "bumba",
+    "original translation": "bomb",
+    "origin": "europarl",
+    "sense": "bomb",
+    "source": "Vai premjerministrs uzskata, ka BK90 ir kasešu bumba?",
+    "errors": [
+      {
+        "contrastive": "Does the Prime Minister consider BK90 to be a cluster ball or not?",
+        "type": "word_sense",
+        "replacement": "ball"
+      }
+    ]
+  },
+  {
+    "reference": "I don\u0027t... A bomb dropped on you in 1943.",
+    "ambig word": "bumba",
+    "original translation": "bomb",
+    "origin": "opensubs",
+    "sense": "bomb",
+    "source": "Es ne... 1943. gadā uz jums uzkrita bumba.",
+    "errors": [
+      {
+        "contrastive": "I don\u0027t... A ball dropped on you in 1943.",
+        "type": "word_sense",
+        "replacement": "ball"
+      }
+    ]
+  },
+  {
+    "reference": "Mr Kerr had only finished his initial training in December; he was only 25 and a bomb exploded under his car.",
+    "ambig word": "bumba",
+    "original translation": "bomb",
+    "origin": "europarl",
+    "sense": "bomb",
+    "source": "Kerr kungs bija tikko decembrī beidzis savas sākotnējās mācības; viņam bija tikai 25 gadi, un bumba eksplodēja zem viņa automašīnas.",
+    "errors": [
+      {
+        "contrastive": "Mr Kerr had only finished his initial training in December; he was only 25 and a ball exploded under his car.",
+        "type": "word_sense",
+        "replacement": "ball"
+      }
+    ]
+  },
+  {
+    "reference": "If Joker\u0027s bomb were to go off, these plates would break apart, plunging every Gotham citizen into the eternal abyss forever.",
+    "ambig word": "bumba",
+    "original translation": "bomb",
+    "origin": "opensubs",
+    "sense": "bomb",
+    "source": "Ja Džokera bumba uzsprāgs, šīs plātnes atbīdīsies, iemetot visus Gotemas iedzīvotājus bezdibenī uz mūžiem.",
+    "errors": [
+      {
+        "contrastive": "If Joker\u0027s ball were to go off, these plates would break apart, plunging every Gotham citizen into the eternal abyss forever.",
+        "type": "word_sense",
+        "replacement": "ball"
+      }
+    ]
+  },
+  {
+    "reference": "Today, on the eve of the international meeting in Washington, it is a real time bomb.",
+    "ambig word": "bumba",
+    "original translation": "bomb",
+    "origin": "europarl",
+    "sense": "bomb",
+    "source": "Šodien, starptautiskās sanāksmes Ņujorkā priekšvakarā, tā ir reāla laika bumba.",
+    "errors": [
+      {
+        "contrastive": "Today, on the eve of the international meeting in Washington, it is a real time ball.",
+        "type": "word_sense",
+        "replacement": "ball"
+      }
+    ]
+  },
+  {
+    "reference": "The bottom line is Rayna Boyanov is about to sell... a small-scale tactical nuclear weapon to a terrorist organization... and we don\u0027t know where she or the bomb is.",
+    "ambig word": "bumba",
+    "original translation": "bomb",
+    "origin": "opensubs",
+    "sense": "bomb",
+    "source": "Svarīgi, ka Reina Bojanova grasās pārdot mazu taktisko atomieroci teroristu organizācijai un mēs nezinām, kur viņa vai tā bumba ir.",
+    "errors": [
+      {
+        "contrastive": "The bottom line is Rayna Boyanov is about to sell... a small-scale tactical nuclear weapon to a terrorist organization... and we don\u0027t know where she or the ball is.",
+        "type": "word_sense",
+        "replacement": "ball"
+      }
+    ]
+  },
+  {
+    "reference": "Last week, in the latest of a series of incidents, a 600 lb bomb was planted by dissident republicans and was discovered in South Armagh.",
+    "ambig word": "bumba",
+    "original translation": "bomb",
+    "origin": "europarl",
+    "sense": "bomb",
+    "source": "Pagājušajā nedēļā jaunākais notikums virknē starpgadījumu bija Dienvidarmā atrastā 600 mārciņu smagā bumba, kuru tur bija izvietojuši republikāņu disidenti.",
+    "errors": [
+      {
+        "contrastive": "Last week, in the latest of a series of incidents, a 600 lb ball was planted by dissident republicans and was discovered in South Armagh.",
+        "type": "word_sense",
+        "replacement": "ball"
+      }
+    ]
+  },
+  {
+    "reference": "Makes the bomb we tried to kill it with in \u002754 look like a firecracker.",
+    "ambig word": "bumba",
+    "original translation": "bomb",
+    "origin": "opensubs",
+    "sense": "bomb",
+    "source": "Bumba, ar kuru to mēģināja nonāvēt 54.gadā, bija kā plaukšķene.",
+    "errors": [
+      {
+        "contrastive": "Makes the ball we tried to kill it with in \u002754 look like a firecracker.",
+        "type": "word_sense",
+        "replacement": "ball"
+      }
+    ]
+  },
+  {
+    "reference": "It now transpires that the Dutch journalist was killed by a Russian cluster bomb.",
+    "ambig word": "bumba",
+    "original translation": "bomb",
+    "origin": "europarl",
+    "sense": "bomb",
+    "source": "Tagad atklājās, ka Krievijas kasešu bumba nogalināja Nīderlandes žurnālistu.",
+    "errors": [
+      {
+        "contrastive": "It now transpires that the Dutch journalist was killed by a Russian cluster ball.",
+        "type": "word_sense",
+        "replacement": "ball"
+      }
+    ]
+  },
+  {
+    "reference": "If it is a bomb, it\u0027s not metallic and there\u0027s no ticking sound.",
+    "ambig word": "bumba",
+    "original translation": "bomb",
+    "origin": "opensubs",
+    "sense": "bomb",
+    "source": "Ja tā ir bumba, tad tā nav metāliska un tur nekas netikšķ.",
+    "errors": [
+      {
+        "contrastive": "If it is a ball, it\u0027s not metallic and there\u0027s no ticking sound.",
+        "type": "word_sense",
+        "replacement": "ball"
+      }
+    ]
+  },
+  {
+    "reference": "To all intents and purposes, this thing\u0027s a bomb on wheels.",
+    "ambig word": "bumba",
+    "original translation": "bomb",
+    "origin": "opensubs",
+    "sense": "bomb",
+    "source": "Pēc visām pazīmēm un īpašībām, tā tiešām ir bumba uz riteņiem.",
+    "errors": [
+      {
+        "contrastive": "To all intents and purposes, this thing\u0027s a ball on wheels.",
+        "type": "word_sense",
+        "replacement": "ball"
+      }
+    ]
+  },
+  {
+    "reference": "explosion smoke and secondary explosion in Tower 1 that is another bomb going off...",
+    "ambig word": "bumba",
+    "original translation": "bomb",
+    "origin": "opensubs",
+    "sense": "bomb",
+    "source": "...dūmi un sekundārais sprādziens 1. no Dvīņu torņiem Lūk, eksplodē vēl viena bumba...",
+    "errors": [
+      {
+        "contrastive": "explosion smoke and secondary explosion in Tower 1 that is another ball going off...",
+        "type": "word_sense",
+        "replacement": "ball"
+      }
+    ]
+  },
+  {
+    "reference": "She\u0027s the only one who knows where the bomb is... so Dudaev would never get his hands on it.",
+    "ambig word": "bumba",
+    "original translation": "bomb",
+    "origin": "opensubs",
+    "sense": "bomb",
+    "source": "Viņa vienīgā zina, kur ir bumba, tā ka Dudajevs nemūžam to nedabūs.",
+    "errors": [
+      {
+        "contrastive": "She\u0027s the only one who knows where the ball is... so Dudaev would never get his hands on it.",
+        "type": "word_sense",
+        "replacement": "ball"
+      }
+    ]
+  },
+  {
+    "reference": "But goodness in you is- It\u0027s like a time bomb.",
+    "ambig word": "bumba",
+    "original translation": "bomb",
+    "origin": "opensubs",
+    "sense": "bomb",
+    "source": "Bet labsirdība tevī ir kā bumba ar laika mehānismu.",
+    "errors": [
+      {
+        "contrastive": "But goodness in you is- It\u0027s like a time ball.",
+        "type": "word_sense",
+        "replacement": "ball"
+      }
+    ]
+  },
+  {
+    "reference": "You know, I was kind of hoping the bomb would go off.",
+    "ambig word": "bumba",
+    "original translation": "bomb",
+    "origin": "opensubs",
+    "sense": "bomb",
+    "source": "Ziniet, man bija sava veida cerot bumba iet off.",
+    "errors": [
+      {
+        "contrastive": "You know, I was kind of hoping the ball would go off.",
+        "type": "word_sense",
+        "replacement": "ball"
+      }
+    ]
+  },
+  {
+    "reference": "Another 14 soldiers died in combat when a bomb exploded in their convoy.",
+    "ambig word": "bumba",
+    "original translation": "bomb",
+    "origin": "opensubs",
+    "sense": "bomb",
+    "source": "14 karavīri iet bojā, kad blakus konvojam sprāgst bumba.",
+    "errors": [
+      {
+        "contrastive": "Another 14 soldiers died in combat when a ball exploded in their convoy.",
+        "type": "word_sense",
+        "replacement": "ball"
+      }
+    ]
+  },
+  {
+    "reference": "well, the voice on the phone said that there was a bomb planted in the woods, but it didn\u0027t say which woods.",
+    "ambig word": "bumba",
+    "original translation": "bomb",
+    "origin": "opensubs",
+    "sense": "bomb",
+    "source": "Balss telefonā teica, ka mežā ir ielikta bumba. Bet neteica, kur tieši.",
+    "errors": [
+      {
+        "contrastive": "well, the voice on the phone said that there was a ball planted in the woods, but it didn\u0027t say which woods.",
+        "type": "word_sense",
+        "replacement": "ball"
+      }
+    ]
+  },
+  {
+    "reference": "- If you don\u0027t do it the bomb will deflect off the Breach like it always has and the mission will fail.",
+    "ambig word": "bumba",
+    "original translation": "bomb",
+    "origin": "opensubs",
+    "sense": "bomb",
+    "source": "- Citādi... bumba atlēks no Pārrāvuma, un operācija neizdosies.",
+    "errors": [
+      {
+        "contrastive": "- If you don\u0027t do it the ball will deflect off the Breach like it always has and the mission will fail.",
+        "type": "word_sense",
+        "replacement": "ball"
+      }
+    ]
+  },
+  {
+    "reference": "My expectation would be that, if an EU citizen was visiting some state where he or she could have his arm or leg amputated, then the Union would see the horror in such a thing.",
+    "ambig word": "kāja",
+    "original translation": "leg",
+    "origin": "europarl",
+    "sense": "leg",
+    "source": "Manuprāt, ja ES pilsonis viesotos kādā valstī, kur viņam vai viņai varētu tikt amputēta kāja, tad Savienība saskatītu šausmas šādā lietā.",
+    "errors": [
+      {
+        "contrastive": "My expectation would be that, if an EU citizen was visiting some state where he or she could have his arm or foot amputated, then the Union would see the horror in such a thing.",
+        "type": "word_sense",
+        "replacement": "foot"
+      }
+    ]
+  },
+  {
+    "reference": "But by the time I got back to the restaurant, it felt like my whole leg was on fire.",
+    "ambig word": "kāja",
+    "original translation": "leg",
+    "origin": "opensubs",
+    "sense": "leg",
+    "source": "Kad tiku atpakaļ restorānā, kāja jau dega kā ugunī.",
+    "errors": [
+      {
+        "contrastive": "But by the time I got back to the restaurant, it felt like my whole foot was on fire.",
+        "type": "word_sense",
+        "replacement": "foot"
+      }
+    ]
+  },
+  {
+    "reference": "Things can happen very quickly and lead to serious injuries, as we saw just recently, in the France-Italy football match where it was immediately apparent that Franck Ribéry\u0027s leg had been broken.",
+    "ambig word": "kāja",
+    "original translation": "leg",
+    "origin": "europarl",
+    "sense": "leg",
+    "source": "Viss var notikt ļoti ātri un radīt nopietnas traumas, kā mēs to redzējām nesen Francijas-Itālijas futbola spēlē, kur uzreiz bija redzams, ka Franck Ribéry kāja bija salauzta.",
+    "errors": [
+      {
+        "contrastive": "Things can happen very quickly and lead to serious injuries, as we saw just recently, in the France-Italy football match where it was immediately apparent that Franck Ribéry\u0027s foot had been broken.",
+        "type": "word_sense",
+        "replacement": "foot"
+      }
+    ]
+  },
+  {
+    "reference": "You know, if your leg got trapped under a rock I\u0027d chew it off to get you free.",
+    "ambig word": "kāja",
+    "original translation": "leg",
+    "origin": "opensubs",
+    "sense": "leg",
+    "source": "Ja tev kāja iesprūstu zem klintsbluķa, es to nokostu, lai tu tiktu brīvībā.",
+    "errors": [
+      {
+        "contrastive": "You know, if your foot got trapped under a rock I\u0027d chew it off to get you free.",
+        "type": "word_sense",
+        "replacement": "foot"
+      }
+    ]
+  },
+  {
+    "reference": "The leg that controls fiscal policy is muscular and articulated, while the one that controls development policy, which should provide impetus and long-term drive, appears spindly and lacking in strength.",
+    "ambig word": "kāja",
+    "original translation": "leg",
+    "origin": "europarl",
+    "sense": "leg",
+    "source": "Kāja, kura kontrolē fiskālo politiku, ir muskuļota un izteikta, bet tā, kura kontrolē attīstības politiku, kam būtu jānodrošina stimuls un ilgtermiņa dzinulis, izskatās izstīdzējusi un vārga.",
+    "errors": [
+      {
+        "contrastive": "The foot that controls fiscal policy is muscular and articulated, while the one that controls development policy, which should provide impetus and long-term drive, appears spindly and lacking in strength.",
+        "type": "word_sense",
+        "replacement": "foot"
+      }
+    ]
+  },
+  {
+    "reference": "- And you just might hang on to your leg.",
+    "ambig word": "kāja",
+    "original translation": "leg",
+    "origin": "opensubs",
+    "sense": "leg",
+    "source": "Klausi viņiem, un varbūt tev paliks tava kāja.",
+    "errors": [
+      {
+        "contrastive": "- And you just might hang on to your foot.",
+        "type": "word_sense",
+        "replacement": "foot"
+      }
+    ]
+  },
+  {
+    "reference": "If his leg starts to hurt, you gotta give him another shot.",
+    "ambig word": "kāja",
+    "original translation": "leg",
+    "origin": "opensubs",
+    "sense": "leg",
+    "source": "Ja kāja sāk sāpēt, tev viņam jāizdara vēl viena pote.",
+    "errors": [
+      {
+        "contrastive": "If his foot starts to hurt, you gotta give him another shot.",
+        "type": "word_sense",
+        "replacement": "foot"
+      }
+    ]
+  },
+  {
+    "reference": "At best they have one foot on the accelerator and one on the brakes.",
+    "ambig word": "kāja",
+    "original translation": "foot",
+    "origin": "europarl",
+    "sense": "foot",
+    "source": "Labākajā gadījumā viņiem viena kāja ir uz gāzes pedāļa un otra uz bremzēm.",
+    "errors": [
+      {
+        "contrastive": "At best they have one leg on the accelerator and one on the brakes.",
+        "type": "word_sense",
+        "replacement": "leg"
+      }
+    ]
+  },
+  {
+    "reference": "- Arrow foot, come here you baby...whee!",
+    "ambig word": "kāja",
+    "original translation": "foot",
+    "origin": "opensubs",
+    "sense": "foot",
+    "source": "- Būltas kāja, nāc šurp mazulīt...whee!",
+    "errors": [
+      {
+        "contrastive": "- Arrow leg, come here you baby...whee!",
+        "type": "word_sense",
+        "replacement": "leg"
+      }
+    ]
+  },
+  {
+    "reference": "You\u0027ve had one foot out the door since you got here.",
+    "ambig word": "kāja",
+    "original translation": "foot",
+    "origin": "opensubs",
+    "sense": "foot",
+    "source": "Tev ir bijusi viena kāja ārā pa durvīm jau kopš tā brīža, - ...kopš te ieradies.",
+    "errors": [
+      {
+        "contrastive": "You\u0027ve had one leg out the door since you got here.",
+        "type": "word_sense",
+        "replacement": "leg"
+      }
+    ]
+  },
+  {
+    "reference": "No, you don\u0027t have to set foot inside a building to case it.",
+    "ambig word": "kāja",
+    "original translation": "foot",
+    "origin": "opensubs",
+    "sense": "foot",
+    "source": "Nē, tev nav jāsper kāja iekšā ēkā, lai to izlūkotu.",
+    "errors": [
+      {
+        "contrastive": "No, you don\u0027t have to set leg inside a building to case it.",
+        "type": "word_sense",
+        "replacement": "leg"
+      }
+    ]
+  },
+  {
+    "reference": "That guy\u0027s got two heads, a foot of reach on us, and no blind spot.",
+    "ambig word": "kāja",
+    "original translation": "foot",
+    "origin": "opensubs",
+    "sense": "foot",
+    "source": "Tam puisim ir divas galvas, kāja, kas ir blakus mums, un neviena neredzama vieta.",
+    "errors": [
+      {
+        "contrastive": "That guy\u0027s got two heads, a leg of reach on us, and no blind spot.",
+        "type": "word_sense",
+        "replacement": "leg"
+      }
+    ]
+  },
+  {
+    "reference": "Our society pays a hard price for this every year, in terms of both direct and indirect costs.",
+    "ambig word": "sabiedrība",
+    "original translation": "society",
+    "origin": "europarl",
+    "sense": "society_societies",
+    "source": "Mūsu sabiedrība katru gadu maksā bargu cenu par to, gan tiešo, gan netiešo izmaksu veidā.",
+    "errors": [
+      {
+        "contrastive": "Our firm pays a hard price for this every year, in terms of both direct and indirect costs.",
+        "type": "word_sense",
+        "replacement": "firm"
+      },
+      {
+        "contrastive": "Our company pays a hard price for this every year, in terms of both direct and indirect costs.",
+        "type": "word_sense",
+        "replacement": "company"
+      }
+    ]
+  },
+  {
+    "reference": "My mother made me understand that every human society is a pyramid and that some lives will always matter more than others.",
+    "ambig word": "sabiedrība",
+    "original translation": "society",
+    "origin": "opensubs",
+    "sense": "society_societies",
+    "source": "Māte man lika saprast, ka cilvēku sabiedrība ir piramīda un ka vienu dzīves ir vērtīgākās par citām.",
+    "errors": [
+      {
+        "contrastive": "My mother made me understand that every human firm is a pyramid and that some lives will always matter more than others.",
+        "type": "word_sense",
+        "replacement": "firm"
+      },
+      {
+        "contrastive": "My mother made me understand that every human company is a pyramid and that some lives will always matter more than others.",
+        "type": "word_sense",
+        "replacement": "company"
+      }
+    ]
+  },
+  {
+    "reference": "Expenditure related to staff in active employment of ‘Information society and media’ policy area",
+    "ambig word": "sabiedrība",
+    "original translation": "society",
+    "origin": "eubooks",
+    "sense": "society_societies",
+    "source": "Izdevumi, kas saistīti ar politikas jomas “Informācijas sabiedrība un plašsaziņas līdzekļi” nodarbināto personālu",
+    "errors": [
+      {
+        "contrastive": "Expenditure related to staff in active employment of ‘Information firm and media’ policy area",
+        "type": "word_sense",
+        "replacement": "firm"
+      },
+      {
+        "contrastive": "Expenditure related to staff in active employment of ‘Information company and media’ policy area",
+        "type": "word_sense",
+        "replacement": "company"
+      }
+    ]
+  },
+  {
+    "reference": "I am pleased that we are now talking about a Joint EU-Africa Strategy and that Parliament and civil society will be more involved this time.",
+    "ambig word": "sabiedrība",
+    "original translation": "society",
+    "origin": "europarl",
+    "sense": "society_societies",
+    "source": "Priecājos, ka patlaban mēs runājam par ES un Āfrikas kopīgo stratēģiju un ka Parlaments un pilsoniskā sabiedrība šoreiz iesaistīsies vairāk.",
+    "errors": [
+      {
+        "contrastive": "I am pleased that we are now talking about a Joint EU-Africa Strategy and that Parliament and civil firm will be more involved this time.",
+        "type": "word_sense",
+        "replacement": "firm"
+      },
+      {
+        "contrastive": "I am pleased that we are now talking about a Joint EU-Africa Strategy and that Parliament and civil company will be more involved this time.",
+        "type": "word_sense",
+        "replacement": "company"
+      }
+    ]
+  },
+  {
+    "reference": "They get divorced, they reconfigure, and society is, like, fine with that if you take your time, like an emotional glacier. I\u0027m 37...",
+    "ambig word": "sabiedrība",
+    "original translation": "society",
+    "origin": "opensubs",
+    "sense": "society_societies",
+    "source": "Viņi šķiras, pārkārtojas, sabiedrība neiebilst ja virzās lēnām, tas ir emocionāls ledājs.",
+    "errors": [
+      {
+        "contrastive": "They get divorced, they reconfigure, and firm is, like, fine with that if you take your time, like an emotional glacier. I\u0027m 37...",
+        "type": "word_sense",
+        "replacement": "firm"
+      },
+      {
+        "contrastive": "They get divorced, they reconfigure, and company is, like, fine with that if you take your time, like an emotional glacier. I\u0027m 37...",
+        "type": "word_sense",
+        "replacement": "company"
+      }
+    ]
+  },
+  {
+    "reference": "Expenditure related to equipment, furniture and services of Information society and media policy area",
+    "ambig word": "sabiedrība",
+    "original translation": "society",
+    "origin": "eubooks",
+    "sense": "society_societies",
+    "source": "Izdevumi, kas attiecas uz aprīkojumu un pakalpojumiem darbības jomā Informācijas sabiedrība un plašsaziņas līdzekļi",
+    "errors": [
+      {
+        "contrastive": "Expenditure related to equipment, furniture and services of Information firm and media policy area",
+        "type": "word_sense",
+        "replacement": "firm"
+      },
+      {
+        "contrastive": "Expenditure related to equipment, furniture and services of Information company and media policy area",
+        "type": "word_sense",
+        "replacement": "company"
+      }
+    ]
+  },
+  {
+    "reference": "Does the Council intend to draw up an analysis to assess the total assets built up through military-related business while Pakistani society has suffered impoverishment?",
+    "ambig word": "sabiedrība",
+    "original translation": "society",
+    "origin": "europarl",
+    "sense": "society_societies",
+    "source": "Vai Padome ir paredzējusi veikt analīzi, lai izvērtētu visus līdzekļus, kas ir uzkrāti ar militāro jomu saistītā uzņēmējdarbībā, kamēr Pakistānas sabiedrība grimst nabadzībā?",
+    "errors": [
+      {
+        "contrastive": "Does the Council intend to draw up an analysis to assess the total assets built up through military-related business while Pakistani firm has suffered impoverishment?",
+        "type": "word_sense",
+        "replacement": "firm"
+      },
+      {
+        "contrastive": "Does the Council intend to draw up an analysis to assess the total assets built up through military-related business while Pakistani company has suffered impoverishment?",
+        "type": "word_sense",
+        "replacement": "company"
+      }
+    ]
+  },
+  {
+    "reference": "It behooves me to tell you that even if we save the world tomorrow, and mutants are accepted into society, my feet and your natural blue form will never be deemed beautiful.",
+    "ambig word": "sabiedrība",
+    "original translation": "society",
+    "origin": "opensubs",
+    "sense": "society_societies",
+    "source": "Man tev jāsaka: pat ja rīt izglābsim pasauli un sabiedrība pieņems mutantus, manas pēdas un tavu zilo ādu neuzskatīs par skaistu.",
+    "errors": [
+      {
+        "contrastive": "It behooves me to tell you that even if we save the world tomorrow, and mutants are accepted into firm, my feet and your natural blue form will never be deemed beautiful.",
+        "type": "word_sense",
+        "replacement": "firm"
+      },
+      {
+        "contrastive": "It behooves me to tell you that even if we save the world tomorrow, and mutants are accepted into company, my feet and your natural blue form will never be deemed beautiful.",
+        "type": "word_sense",
+        "replacement": "company"
+      }
+    ]
+  },
+  {
+    "reference": "The Commission is also looking at ways in which civil society could provide added value by giving constructive advice and placing its specific expertise at the disposal of the European Union policymaking process in a practical and sustainable form.",
+    "ambig word": "sabiedrība",
+    "original translation": "society",
+    "origin": "eubooks",
+    "sense": "society_societies",
+    "source": "Komisija tāpat meklē iespējas, kā pilsoniskā sabiedrība varētu praktiskā un noturīgā veidā radīt pievienoto vērtību, sniedzot konstruktīvus padomus un daloties savās īpašajās zināšanās šajā jomā Eiropas Savienības līmeņa politikas izstrādes procesā.",
+    "errors": [
+      {
+        "contrastive": "The Commission is also looking at ways in which civil firm could provide added value by giving constructive advice and placing its specific expertise at the disposal of the European Union policymaking process in a practical and sustainable form.",
+        "type": "word_sense",
+        "replacement": "firm"
+      },
+      {
+        "contrastive": "The Commission is also looking at ways in which civil company could provide added value by giving constructive advice and placing its specific expertise at the disposal of the European Union policymaking process in a practical and sustainable form.",
+        "type": "word_sense",
+        "replacement": "company"
+      }
+    ]
+  },
+  {
+    "reference": "It was mentioned in this House, and I also said it myself in my first speech, that it is very important for civil society to feel more involved in implementing the measures needed to combat desertification.",
+    "ambig word": "sabiedrība",
+    "original translation": "society",
+    "origin": "europarl",
+    "sense": "society_societies",
+    "source": "Šajā Parlamentā tika pieminēts, un arī es savā pirmajā runā teicu, ka ir ļoti būtiski, lai pilsoniskā sabiedrība justos vairāk iesaistīta pārtuksnešošanās novēršanas pasākumu īstenošanā.",
+    "errors": [
+      {
+        "contrastive": "It was mentioned in this House, and I also said it myself in my first speech, that it is very important for civil firm to feel more involved in implementing the measures needed to combat desertification.",
+        "type": "word_sense",
+        "replacement": "firm"
+      },
+      {
+        "contrastive": "It was mentioned in this House, and I also said it myself in my first speech, that it is very important for civil company to feel more involved in implementing the measures needed to combat desertification.",
+        "type": "word_sense",
+        "replacement": "company"
+      }
+    ]
+  },
+  {
+    "reference": "The whole system that we live in, drills into us that we are powerless, that we are weak, that society is evil, that it\u0027s crime ridden and so forth.",
+    "ambig word": "sabiedrība",
+    "original translation": "society",
+    "origin": "opensubs",
+    "sense": "society_societies",
+    "source": "Visa sistēma, kurā dzīvojam, mums nemitīgi borē, ka esam bezpalīdzīgi, vāji, sabiedrība ir ļauna, noziedzības pārpilna un tā tālāk.",
+    "errors": [
+      {
+        "contrastive": "The whole system that we live in, drills into us that we are powerless, that we are weak, that firm is evil, that it\u0027s crime ridden and so forth.",
+        "type": "word_sense",
+        "replacement": "firm"
+      },
+      {
+        "contrastive": "The whole system that we live in, drills into us that we are powerless, that we are weak, that company is evil, that it\u0027s crime ridden and so forth.",
+        "type": "word_sense",
+        "replacement": "company"
+      }
+    ]
+  },
+  {
+    "reference": "We believe that civil society, focused through NGOs and national rural movements or networks, can play a vital role in stimulating self-help among rural communities and eective partnership between governments and people.",
+    "ambig word": "sabiedrība",
+    "original translation": "society",
+    "origin": "eubooks",
+    "sense": "society_societies",
+    "source": "Mēs uzskatām, ka pilsoniskā sabiedrība, kas izpaudīsies ar NVO un nacionālo lauku kustību vai sadarbības struktūru palīdzību, var būtiski stimulēt pašpalīdzību lauku teritorijās, kā arī attīstīt valdības sadarbību ar iedzīvotājiem.",
+    "errors": [
+      {
+        "contrastive": "We believe that civil firm, focused through NGOs and national rural movements or networks, can play a vital role in stimulating self-help among rural communities and eective partnership between governments and people.",
+        "type": "word_sense",
+        "replacement": "firm"
+      },
+      {
+        "contrastive": "We believe that civil company, focused through NGOs and national rural movements or networks, can play a vital role in stimulating self-help among rural communities and eective partnership between governments and people.",
+        "type": "word_sense",
+        "replacement": "company"
+      }
+    ]
+  },
+  {
+    "reference": "It was a strategy that was too much for Africa, but without involving Africa, and Parliament and civil society were not sufficiently involved in the development of this strategy.",
+    "ambig word": "sabiedrība",
+    "original translation": "society",
+    "origin": "europarl",
+    "sense": "society_societies",
+    "source": "Tā bija stratēģija Āfrikai, bet bez Āfrikas iesaistīšanas, arī Parlaments un pilsoniskā sabiedrība nebija pietiekami iesaistīta šīs stratēģijas izveidē.",
+    "errors": [
+      {
+        "contrastive": "It was a strategy that was too much for Africa, but without involving Africa, and Parliament and civil firm were not sufficiently involved in the development of this strategy.",
+        "type": "word_sense",
+        "replacement": "firm"
+      },
+      {
+        "contrastive": "It was a strategy that was too much for Africa, but without involving Africa, and Parliament and civil company were not sufficiently involved in the development of this strategy.",
+        "type": "word_sense",
+        "replacement": "company"
+      }
+    ]
+  },
+  {
+    "reference": "You want society to accept you, but you can\u0027t even accept yourself.",
+    "ambig word": "sabiedrība",
+    "original translation": "society",
+    "origin": "opensubs",
+    "sense": "society_societies",
+    "source": "Tu gribi, lai sabiedrība tevi pieņem, bet pati nespēj sevi pieņemt.",
+    "errors": [
+      {
+        "contrastive": "You want firm to accept you, but you can\u0027t even accept yourself.",
+        "type": "word_sense",
+        "replacement": "firm"
+      },
+      {
+        "contrastive": "You want company to accept you, but you can\u0027t even accept yourself.",
+        "type": "word_sense",
+        "replacement": "company"
+      }
+    ]
+  },
+  {
+    "reference": "See ‘Information society and media’ in Chapter II, Section 2, of this Report.",
+    "ambig word": "sabiedrība",
+    "original translation": "society",
+    "origin": "eubooks",
+    "sense": "society_societies",
+    "source": "Sk. šā ziņojuma II nodaļas 2. iedaļas daļu “Informācijas sabiedrība un saziņas līdzekļi”.",
+    "errors": [
+      {
+        "contrastive": "See ‘Information firm and media’ in Chapter II, Section 2, of this Report.",
+        "type": "word_sense",
+        "replacement": "firm"
+      },
+      {
+        "contrastive": "See ‘Information company and media’ in Chapter II, Section 2, of this Report.",
+        "type": "word_sense",
+        "replacement": "company"
+      }
+    ]
+  },
+  {
+    "reference": "Integrating children living with a disability into mainstream education alongside their able-bodied peers is also vital in order to ensure that society accepts them and includes them more easily as adults.",
+    "ambig word": "sabiedrība",
+    "original translation": "society",
+    "origin": "europarl",
+    "sense": "society_societies",
+    "source": "Bērnu invalīdu integrācijai vispārējā izglītībā, līdzās darbspējīgajiem vienaudžiem, ir būtiska nozīme arī tādēļ, lai sabiedrība spētu viņus vieglāk pieņemt un neatstumt arī pieaugušo vecumā.",
+    "errors": [
+      {
+        "contrastive": "Integrating children living with a disability into mainstream education alongside their able-bodied peers is also vital in order to ensure that firm accepts them and includes them more easily as adults.",
+        "type": "word_sense",
+        "replacement": "firm"
+      },
+      {
+        "contrastive": "Integrating children living with a disability into mainstream education alongside their able-bodied peers is also vital in order to ensure that company accepts them and includes them more easily as adults.",
+        "type": "word_sense",
+        "replacement": "company"
+      }
+    ]
+  },
+  {
+    "reference": "But if money only can only be created out of loans, how can society ever be debt free?",
+    "ambig word": "sabiedrība",
+    "original translation": "society",
+    "origin": "opensubs",
+    "sense": "society_societies",
+    "source": "Bet ja nauda var tikt radīta tikai no aizdevumiem, kā gan sabiedrība jebkad var kļūt brīva no parādiem?",
+    "errors": [
+      {
+        "contrastive": "But if money only can only be created out of loans, how can firm ever be debt free?",
+        "type": "word_sense",
+        "replacement": "firm"
+      },
+      {
+        "contrastive": "But if money only can only be created out of loans, how can company ever be debt free?",
+        "type": "word_sense",
+        "replacement": "company"
+      }
+    ]
+  },
+  {
+    "reference": "PCD commitments were taken on in 12 policy areas: trade, environment, climate change, security, agriculture, fisheries, the social dimension of globalisation, employment and decent work, migration, research, information society, transport and energy.",
+    "ambig word": "sabiedrība",
+    "original translation": "society",
+    "origin": "eubooks",
+    "sense": "society_societies",
+    "source": "Eiropas Savienība ir apņēmusies panākt attīstības politikas saskaņo- tību divpadsmit jomās: ārējā tirdzniecība, vide, klimata pārmaiņas, drošība, lauksaimniecība, zivsaimniecība, globalizācijas sociālā dimensija, nodarbinātība un pienācīgs darbs, migrācijas plūsmas, pētniecība, informācijas sabiedrība, transports un enerģētika.",
+    "errors": [
+      {
+        "contrastive": "PCD commitments were taken on in 12 policy areas: trade, environment, climate change, security, agriculture, fisheries, the social dimension of globalisation, employment and decent work, migration, research, information firm, transport and energy.",
+        "type": "word_sense",
+        "replacement": "firm"
+      },
+      {
+        "contrastive": "PCD commitments were taken on in 12 policy areas: trade, environment, climate change, security, agriculture, fisheries, the social dimension of globalisation, employment and decent work, migration, research, information company, transport and energy.",
+        "type": "word_sense",
+        "replacement": "company"
+      }
+    ]
+  },
+  {
+    "reference": "These will be open to participation by a large number of stakeholders: European and African parliaments, local authorities, European and African civil society, African sub-regional organisations, research institutes, specialised international organisations and institutes, and the private sector.",
+    "ambig word": "sabiedrība",
+    "original translation": "society",
+    "origin": "europarl",
+    "sense": "society_societies",
+    "source": "Šajās grupās varēs piedalīties liels skaits ieinteresēto personu: Eiropas un Āfrikas parlamenti, vietējās iestādes, Eiropas un Āfrikas pilsoniskā sabiedrība, Āfrikas subreģionālās organizācijas, pētniecības institūti, specializētas starptautiskās organizācijas un iestādes un privātais sektors.",
+    "errors": [
+      {
+        "contrastive": "These will be open to participation by a large number of stakeholders: European and African parliaments, local authorities, European and African civil firm, African sub-regional organisations, research institutes, specialised international organisations and institutes, and the private sector.",
+        "type": "word_sense",
+        "replacement": "firm"
+      },
+      {
+        "contrastive": "These will be open to participation by a large number of stakeholders: European and African parliaments, local authorities, European and African civil company, African sub-regional organisations, research institutes, specialised international organisations and institutes, and the private sector.",
+        "type": "word_sense",
+        "replacement": "company"
+      }
+    ]
+  },
+  {
+    "reference": "We at the Hill Valley Preservation Society think it should be preserved the way it is as part of our history and heritage.",
+    "ambig word": "sabiedrība",
+    "original translation": "society",
+    "origin": "opensubs",
+    "sense": "society_societies",
+    "source": "Mēs, Hillvalijas Saglabāšanas sabiedrība, domājam, ka tas jāsaglabā, kāds tas ir... kā mūsu vēstures un mantojuma daļa.",
+    "errors": [
+      {
+        "contrastive": "We at the Hill Valley Preservation firm think it should be preserved the way it is as part of our history and heritage.",
+        "type": "word_sense",
+        "replacement": "firm"
+      },
+      {
+        "contrastive": "We at the Hill Valley Preservation company think it should be preserved the way it is as part of our history and heritage.",
+        "type": "word_sense",
+        "replacement": "company"
+      }
+    ]
+  },
+  {
+    "reference": "Instead, the Walt Disney company asserted its rights over Mickey Mouse, and at the end of the series, Mickey Mouse was killed off by a Jewish settler.",
+    "ambig word": "sabiedrība",
+    "original translation": "company",
+    "origin": "europarl",
+    "sense": "firm_company",
+    "source": "Gluži otrādi, Volta Disneja sabiedrība aizstāvēja tiesības uz Mikipeli, un sērijas beigās Mikipeli nogalināja kāds ebreju ieceļotājs.",
+    "errors": [
+      {
+        "contrastive": "Instead, the Walt Disney society asserted its rights over Mickey Mouse, and at the end of the series, Mickey Mouse was killed off by a Jewish settler.",
+        "type": "word_sense",
+        "replacement": "society"
+      },
+      {
+        "contrastive": "Instead, the Walt Disney societies asserted its rights over Mickey Mouse, and at the end of the series, Mickey Mouse was killed off by a Jewish settler.",
+        "type": "word_sense",
+        "replacement": "societies"
+      }
+    ]
+  },
+  {
+    "reference": "Food turned to ash in our mouths, and all the pleasurable company in the world could not slake our lust.",
+    "ambig word": "sabiedrība",
+    "original translation": "company",
+    "origin": "opensubs",
+    "sense": "firm_company",
+    "source": "Ēdiens mutē pārvēršas par pelniem, un patīkama sabiedrība neremdē kaisli.",
+    "errors": [
+      {
+        "contrastive": "Food turned to ash in our mouths, and all the pleasurable society in the world could not slake our lust.",
+        "type": "word_sense",
+        "replacement": "society"
+      },
+      {
+        "contrastive": "Food turned to ash in our mouths, and all the pleasurable societies in the world could not slake our lust.",
+        "type": "word_sense",
+        "replacement": "societies"
+      }
+    ]
+  },
+  {
+    "reference": "RTmixed-ownership company (4016)RTnationalisation (1211)RTprivatisation (1211)RTpublic economic law (0436)RTpublic economy (1621)RTpublic institution (0436)RTpublic service (0436)",
+    "ambig word": "sabiedrība",
+    "original translation": "company",
+    "origin": "eubooks",
+    "sense": "firm_company",
+    "source": "RTjaukta īpašuma sabiedrība (4016)RTnacionalizācija (1211)RTprivatizācija (1211)RTpubliskās ekonomiskās tiesības (0436)RTsabiedriska iestāde (0436)RTvalsts civildienests (0436)RTvalsts ekonomika (1621)",
+    "errors": [
+      {
+        "contrastive": "RTmixed-ownership society (4016)RTnationalisation (1211)RTprivatisation (1211)RTpublic economic law (0436)RTpublic economy (1621)RTpublic institution (0436)RTpublic service (0436)",
+        "type": "word_sense",
+        "replacement": "society"
+      },
+      {
+        "contrastive": "RTmixed-ownership societies (4016)RTnationalisation (1211)RTprivatisation (1211)RTpublic economic law (0436)RTpublic economy (1621)RTpublic institution (0436)RTpublic service (0436)",
+        "type": "word_sense",
+        "replacement": "societies"
+      }
+    ]
+  },
+  {
+    "reference": "The operator, the shipping company and the crew in particular are responsible for the security of goods at sea.",
+    "ambig word": "sabiedrība",
+    "original translation": "company",
+    "origin": "europarl",
+    "sense": "firm_company",
+    "source": "Par preču drošību jūrā jo īpaši ir atbildīgs uzņēmējs, kuģošanas sabiedrība un apkalpes komanda.",
+    "errors": [
+      {
+        "contrastive": "The operator, the shipping society and the crew in particular are responsible for the security of goods at sea.",
+        "type": "word_sense",
+        "replacement": "society"
+      },
+      {
+        "contrastive": "The operator, the shipping societies and the crew in particular are responsible for the security of goods at sea.",
+        "type": "word_sense",
+        "replacement": "societies"
+      }
+    ]
+  },
+  {
+    "reference": "I ain\u0027t so fond of his company that I\u0027d loiter about.",
+    "ambig word": "sabiedrība",
+    "original translation": "company",
+    "origin": "opensubs",
+    "sense": "firm_company",
+    "source": "Viņa sabiedrība nebija tik jauka, lai uzkavētos te ilgāk.",
+    "errors": [
+      {
+        "contrastive": "I ain\u0027t so fond of his society that I\u0027d loiter about.",
+        "type": "word_sense",
+        "replacement": "society"
+      },
+      {
+        "contrastive": "I ain\u0027t so fond of his societies that I\u0027d loiter about.",
+        "type": "word_sense",
+        "replacement": "societies"
+      }
+    ]
+  },
+  {
+    "reference": "Ms Velasco Navarro, the claimant in the main proceedings, was a member of the staff of Camisas Leica SL (‘Camisas Leica’) for the period from 28 May 1998 until 27 December 2001, when she was dismissed by that company.",
+    "ambig word": "sabiedrība",
+    "original translation": "company",
+    "origin": "eubooks",
+    "sense": "firm_company",
+    "source": "Velasko Navaro, prasītāja pamata prāvā, bija sabiedrības Camisas Leica SL (turpmāk tekstā — “Camisas Leica”) personāla locekle laikposmā no 1998. gada 28. maija līdz 2001. gada 27. decembrim, datumam, kurā šī sabiedrība viņu atlaida.",
+    "errors": [
+      {
+        "contrastive": "Ms Velasco Navarro, the claimant in the main proceedings, was a member of the staff of Camisas Leica SL (‘Camisas Leica’) for the period from 28 May 1998 until 27 December 2001, when she was dismissed by that society.",
+        "type": "word_sense",
+        "replacement": "society"
+      },
+      {
+        "contrastive": "Ms Velasco Navarro, the claimant in the main proceedings, was a member of the staff of Camisas Leica SL (‘Camisas Leica’) for the period from 28 May 1998 until 27 December 2001, when she was dismissed by that societies.",
+        "type": "word_sense",
+        "replacement": "societies"
+      }
+    ]
+  },
+  {
+    "reference": "The instrument is an ad hoc fund that deploys various methods such as loans, guarantees, equity shares or cofinancing, and will be governed by a special asset management company.",
+    "ambig word": "sabiedrība",
+    "original translation": "company",
+    "origin": "europarl",
+    "sense": "firm_company",
+    "source": "Šis instruments ir ad hoc fonds, kurš ietver dažādas metodes, piemēram, izdevumus, garantijas, kapitāla akcijas vai līdzfinansējumu, un kuru pārvaldīs īpaša aktīvu pārvaldības sabiedrība.",
+    "errors": [
+      {
+        "contrastive": "The instrument is an ad hoc fund that deploys various methods such as loans, guarantees, equity shares or cofinancing, and will be governed by a special asset management society.",
+        "type": "word_sense",
+        "replacement": "society"
+      },
+      {
+        "contrastive": "The instrument is an ad hoc fund that deploys various methods such as loans, guarantees, equity shares or cofinancing, and will be governed by a special asset management societies.",
+        "type": "word_sense",
+        "replacement": "societies"
+      }
+    ]
+  },
+  {
+    "reference": "Deputy Brennan, I thought you preferred the company of your magazine?",
+    "ambig word": "sabiedrība",
+    "original translation": "company",
+    "origin": "opensubs",
+    "sense": "firm_company",
+    "source": "Virsniek Brennan, man likās, ka jums patīk žurnālu sabiedrība",
+    "errors": [
+      {
+        "contrastive": "Deputy Brennan, I thought you preferred the society of your magazine?",
+        "type": "word_sense",
+        "replacement": "society"
+      },
+      {
+        "contrastive": "Deputy Brennan, I thought you preferred the societies of your magazine?",
+        "type": "word_sense",
+        "replacement": "societies"
+      }
+    ]
+  },
+  {
+    "reference": "Part Service Srl, company in liquidation, formerly Italservice Srl,",
+    "ambig word": "sabiedrība",
+    "original translation": "company",
+    "origin": "eubooks",
+    "sense": "firm_company",
+    "source": "Part Service Srl, likvidējama sabiedrība, agrāk — Italservice Srl.",
+    "errors": [
+      {
+        "contrastive": "Part Service Srl, society in liquidation, formerly Italservice Srl,",
+        "type": "word_sense",
+        "replacement": "society"
+      },
+      {
+        "contrastive": "Part Service Srl, societies in liquidation, formerly Italservice Srl,",
+        "type": "word_sense",
+        "replacement": "societies"
+      }
+    ]
+  },
+  {
+    "reference": "(IT) Mr President, ladies and gentlemen, Gas Natural, a Spanish holding company, has submitted a project for on-shore regasification plants which would affect the Trieste area, and which has been approved by the Italian Ministry of the Environment.",
+    "ambig word": "sabiedrība",
+    "original translation": "company",
+    "origin": "europarl",
+    "sense": "firm_company",
+    "source": "(IT) Priekšsēdētāja kungs, dāmas un kungi, Gas Natural, Spānijas kontrolakciju sabiedrība, ir iesniegusi projektu par sauszemes regazifikācijas rūpnīcām, kas ietekmētu Triestes apvidu un ko ir apstiprinājusi Itālijas Vides ministrija.",
+    "errors": [
+      {
+        "contrastive": "(IT) Mr President, ladies and gentlemen, Gas Natural, a Spanish holding society, has submitted a project for on-shore regasification plants which would affect the Trieste area, and which has been approved by the Italian Ministry of the Environment.",
+        "type": "word_sense",
+        "replacement": "society"
+      },
+      {
+        "contrastive": "(IT) Mr President, ladies and gentlemen, Gas Natural, a Spanish holding societies, has submitted a project for on-shore regasification plants which would affect the Trieste area, and which has been approved by the Italian Ministry of the Environment.",
+        "type": "word_sense",
+        "replacement": "societies"
+      }
+    ]
+  },
+  {
+    "reference": "RTmanagement (4021)RTpublic limited company (4016)",
+    "ambig word": "sabiedrība",
+    "original translation": "company",
+    "origin": "eubooks",
+    "sense": "firm_company",
+    "source": "RTakciju kapitāls RT darbinieku līdzdalība (4426)RTklusā sabiedrība (4016)RTpeļņa (4026)RTpeļņas sadale (4426)",
+    "errors": [
+      {
+        "contrastive": "RTmanagement (4021)RTpublic limited society (4016)",
+        "type": "word_sense",
+        "replacement": "society"
+      },
+      {
+        "contrastive": "RTmanagement (4021)RTpublic limited societies (4016)",
+        "type": "word_sense",
+        "replacement": "societies"
+      }
+    ]
+  },
+  {
+    "reference": "The TRAN Committee considered it was sufficient for a company to prove its financial capacity based on the annual accounts examined by an auditor or a properly accredited person, based on a bank guarantee or another financial instrument, for instance insurance.",
+    "ambig word": "sabiedrība",
+    "original translation": "company",
+    "origin": "europarl",
+    "sense": "firm_company",
+    "source": "TRAN komiteja uzskatīja, ka pietiek, ja sabiedrība pierāda savas finansiālās iespējas, pamatojoties uz auditora vai atbilstīgi pilnvarotas personas pārbaudītu finanšu gada pārskatu, bankas garantiju vai citu finanšu instrumentu, piemēram, apdrošināšanu.",
+    "errors": [
+      {
+        "contrastive": "The TRAN Committee considered it was sufficient for a society to prove its financial capacity based on the annual accounts examined by an auditor or a properly accredited person, based on a bank guarantee or another financial instrument, for instance insurance.",
+        "type": "word_sense",
+        "replacement": "society"
+      },
+      {
+        "contrastive": "The TRAN Committee considered it was sufficient for a societies to prove its financial capacity based on the annual accounts examined by an auditor or a properly accredited person, based on a bank guarantee or another financial instrument, for instance insurance.",
+        "type": "word_sense",
+        "replacement": "societies"
+      }
+    ]
+  },
+  {
+    "reference": "RTcapital movement (2421)RTfinancial market (2421)RTfinancial policy (2421)RTfinancing policy (2426)RTinsurance company (2431)",
+    "ambig word": "sabiedrība",
+    "original translation": "company",
+    "origin": "eubooks",
+    "sense": "firm_company",
+    "source": "RTeirokredīts (2411)RTkrājaizdevu sabiedrība RT tirgojams vērtspapīrs (2411)",
+    "errors": [
+      {
+        "contrastive": "RTcapital movement (2421)RTfinancial market (2421)RTfinancial policy (2421)RTfinancing policy (2426)RTinsurance society (2431)",
+        "type": "word_sense",
+        "replacement": "society"
+      },
+      {
+        "contrastive": "RTcapital movement (2421)RTfinancial market (2421)RTfinancial policy (2421)RTfinancing policy (2426)RTinsurance societies (2431)",
+        "type": "word_sense",
+        "replacement": "societies"
+      }
+    ]
+  },
+  {
+    "reference": "- Madam President, my two colleagues and I will be very happy to buy lunch for you, and for your two colleagues on either side, though I am not sure whether you would enjoy our company any more than you enjoy our speeches.",
+    "ambig word": "sabiedrība",
+    "original translation": "company",
+    "origin": "europarl",
+    "sense": "firm_company",
+    "source": "- Priekšsēdētājas kundze, abi mani kolēģi un es pats būtu priecīgi izmaksāt pusdienas jums un abiem jūsu kolēģiem jums abās pusēs, lai gan neesmu pārliecināts, vai jums mūsu sabiedrība patiktu daudz vairāk nekā mūsu runas.",
+    "errors": [
+      {
+        "contrastive": "- Madam President, my two colleagues and I will be very happy to buy lunch for you, and for your two colleagues on either side, though I am not sure whether you would enjoy our society any more than you enjoy our speeches.",
+        "type": "word_sense",
+        "replacement": "society"
+      },
+      {
+        "contrastive": "- Madam President, my two colleagues and I will be very happy to buy lunch for you, and for your two colleagues on either side, though I am not sure whether you would enjoy our societies any more than you enjoy our speeches.",
+        "type": "word_sense",
+        "replacement": "societies"
+      }
+    ]
+  },
+  {
+    "reference": "4 manufactured according to the same formulation by the same company or by an associated undertaking or under licence;",
+    "ambig word": "sabiedrība",
+    "original translation": "company",
+    "origin": "eubooks",
+    "sense": "firm_company",
+    "source": "— abu produktu kopīga izcelsme tādā ziņā, ka tos ražojusi, izmantojot to pašu formulu, tā pati sabiedrība vai uzņēmumi, kas ir saistīti vai kas darbojas, pamatojoties uz licenci; ar",
+    "errors": [
+      {
+        "contrastive": "4 manufactured according to the same formulation by the same society or by an associated undertaking or under licence;",
+        "type": "word_sense",
+        "replacement": "society"
+      },
+      {
+        "contrastive": "4 manufactured according to the same formulation by the same societies or by an associated undertaking or under licence;",
+        "type": "word_sense",
+        "replacement": "societies"
+      }
+    ]
+  },
+  {
+    "reference": "I would like to add that the company that owns the European City Guide directory is the most commonly mentioned in these petitions.",
+    "ambig word": "sabiedrība",
+    "original translation": "company",
+    "origin": "europarl",
+    "sense": "firm_company",
+    "source": "Es vēlos piebilst, ka sabiedrība, kurai pieder European City Guide uzziņu katalogs, ir minēta visbiežāk šajos lūgumrakstos.",
+    "errors": [
+      {
+        "contrastive": "I would like to add that the society that owns the European City Guide directory is the most commonly mentioned in these petitions.",
+        "type": "word_sense",
+        "replacement": "society"
+      },
+      {
+        "contrastive": "I would like to add that the societies that owns the European City Guide directory is the most commonly mentioned in these petitions.",
+        "type": "word_sense",
+        "replacement": "societies"
+      }
+    ]
+  },
+  {
+    "reference": "This year, a Peruvian aquaculture firm offered its first large-scale productions of arapaima (Arapaima gigas), a large freshwater fish.",
+    "ambig word": "sabiedrība",
+    "original translation": "firm",
+    "origin": "eubooks",
+    "sense": "firm_company",
+    "source": "Šogad kāda Peru akvakultūras sabiedrība piedāvāja pirmos arapaimu (Arapaima gigas), ļoti lielas saldūdens zivs, plaša mēroga izstrādājumus.",
+    "errors": [
+      {
+        "contrastive": "This year, a Peruvian aquaculture society offered its first large-scale productions of arapaima (Arapaima gigas), a large freshwater fish.",
+        "type": "word_sense",
+        "replacement": "society"
+      },
+      {
+        "contrastive": "This year, a Peruvian aquaculture societies offered its first large-scale productions of arapaima (Arapaima gigas), a large freshwater fish.",
+        "type": "word_sense",
+        "replacement": "societies"
+      }
+    ]
+  },
+  {
+    "reference": "This means that a transport company can organise its operation efficiently throughout the European market and then we say: no, stop, bureaucracy.",
+    "ambig word": "sabiedrība",
+    "original translation": "company",
+    "origin": "europarl",
+    "sense": "firm_company",
+    "source": "Tas nozīmē, ka pārvadājumu sabiedrība var efektīvi organizēt darbību visā Eiropas tirgū, un tad mēs sakām - nē, stāt, birokrātija.",
+    "errors": [
+      {
+        "contrastive": "This means that a transport society can organise its operation efficiently throughout the European market and then we say: no, stop, bureaucracy.",
+        "type": "word_sense",
+        "replacement": "society"
+      },
+      {
+        "contrastive": "This means that a transport societies can organise its operation efficiently throughout the European market and then we say: no, stop, bureaucracy.",
+        "type": "word_sense",
+        "replacement": "societies"
+      }
+    ]
+  },
+  {
+    "reference": "By John Grieve (1), of e Rural Development Company, Scotland",
+    "ambig word": "sabiedrība",
+    "original translation": "company",
+    "origin": "eubooks",
+    "sense": "firm_company",
+    "source": "Džons Grīvs (1), Lauku attīstības sabiedrība, Skotija",
+    "errors": [
+      {
+        "contrastive": "By John Grieve (1), of e Rural Development society, Scotland",
+        "type": "word_sense",
+        "replacement": "society"
+      },
+      {
+        "contrastive": "By John Grieve (1), of e Rural Development societies, Scotland",
+        "type": "word_sense",
+        "replacement": "societies"
+      }
+    ]
+  },
+  {
+    "reference": "It is worth noting that this company has also put considerable pressure on the Members of this Parliament in an attempt to put a stop to or undermine the reports that we are presenting today.",
+    "ambig word": "sabiedrība",
+    "original translation": "company",
+    "origin": "europarl",
+    "sense": "firm_company",
+    "source": "Ir vērts atzīmēt, ka šī sabiedrība ir izdarījusi arī ievērojamu spiedienu uz šī Parlamenta deputātiem, cenšoties pārtraukt vai izjaukt ziņojumus, kurus mēs šodien sniedzam.",
+    "errors": [
+      {
+        "contrastive": "It is worth noting that this society has also put considerable pressure on the Members of this Parliament in an attempt to put a stop to or undermine the reports that we are presenting today.",
+        "type": "word_sense",
+        "replacement": "society"
+      },
+      {
+        "contrastive": "It is worth noting that this societies has also put considerable pressure on the Members of this Parliament in an attempt to put a stop to or undermine the reports that we are presenting today.",
+        "type": "word_sense",
+        "replacement": "societies"
+      }
+    ]
+  }
+]

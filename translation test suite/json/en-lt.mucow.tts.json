@@ -1,0 +1,2469 @@
+[
+  {
+    "global sentence number": 1393228,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Viktorai, a\u0161 myliu Kaip mes atskirai Mano \u0161irdis plaka tik d\u0117l tav\u0119s",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Viktorai, a\u0161 myliu Kaip mes atskirai Mano esm\u0117 plaka tik d\u0117l tav\u0119s"
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Viktorai, a\u0161 myliu Kaip mes atskirai Mano pagrindas plaka tik d\u0117l tav\u0119s"
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "When we're apart My heart beats only for you",
+    "sentence number": 93227,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1283035,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Tik su tavim mano \u0161irdis plaka grei\u010diau ir l\u0117\u010diau tuo pat metu.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Tik su tavim mano esm\u0117 plaka grei\u010diau ir l\u0117\u010diau tuo pat metu."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Tik su tavim mano pagrindas plaka grei\u010diau ir l\u0117\u010diau tuo pat metu."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "You are the only boy who makes my heart beat faster and slower at the same time.",
+    "sentence number": 83034,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1531000,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Ir prisiekiu, kad vos jam i\u0161girdus auk\u0161takulnius, sustodavo jo \u0161irdis.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Ir prisiekiu, kad vos jam i\u0161girdus auk\u0161takulnius, sustodavo jo esm\u0117."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Ir prisiekiu, kad vos jam i\u0161girdus auk\u0161takulnius, sustodavo jo pagrindas."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "Every time he heard someone in heels walking down the hall, his heart stopped.",
+    "sentence number": 30999,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1447252,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Bet mano \u0161irdis ilgisi namo prie e\u017eero ir ten augan\u010di\u0173 med\u017ei\u0173.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Bet mano esm\u0117 ilgisi namo prie e\u017eero ir ten augan\u010di\u0173 med\u017ei\u0173."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Bet mano pagrindas ilgisi namo prie e\u017eero ir ten augan\u010di\u0173 med\u017ei\u0173."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "But my heart still misses the lake house and its trees.",
+    "sentence number": 47251,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1371123,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Lygintuvas degina skyl\u0119 tavo kr\u016btin\u0117je, tol kol u\u017everda \u0161irdis.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Lygintuvas degina skyl\u0119 tavo kr\u016btin\u0117je, tol kol u\u017everda esm\u0117."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Lygintuvas degina skyl\u0119 tavo kr\u016btin\u0117je, tol kol u\u017everda pagrindas."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "An iron burning a hole in your chest until your heart boils.",
+    "sentence number": 71122,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1235881,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Anks\u010diau mano \u0161irdis prisipildydavo meil\u0117s tau, o dabar jau\u010diu tik tu\u0161tum\u0105.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Anks\u010diau mano esm\u0117 prisipildydavo meil\u0117s tau, o dabar jau\u010diu tik tu\u0161tum\u0105."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Anks\u010diau mano pagrindas prisipildydavo meil\u0117s tau, o dabar jau\u010diu tik tu\u0161tum\u0105."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "\"Once I thought my heart was overflowing... with love for you.\" \"But now all I feel is emptiness.\"",
+    "sentence number": 35880,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1189742,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Ir tu darai tai, k\u0105 tau sako \u0161irdis?",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Ir tu darai tai, k\u0105 tau sako esm\u0117?"
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Ir tu darai tai, k\u0105 tau sako pagrindas?"
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "Exactly. And you do whatever your heart says?",
+    "sentence number": 89741,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1537090,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "\"Lenktyn\u0117se svarbu ne \u0161uns dydis, o komandos \u0161irdis\".",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "\"Lenktyn\u0117se svarbu ne \u0161uns dydis, o komandos esm\u0117\"."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "\"Lenktyn\u0117se svarbu ne \u0161uns dydis, o komandos pagrindas\"."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "\"It's not the size of the dog in the race, but the heart of the team that counts.\"",
+    "sentence number": 37089,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1311159,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Ir, regis, kol mano \u0161irdis priklaus\u0117 Sandrai, visas kitas mano k\u016bnas priklaus\u0117 JAV vyriausybei.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Ir, regis, kol mano esm\u0117 priklaus\u0117 Sandrai, visas kitas mano k\u016bnas priklaus\u0117 JAV vyriausybei."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Ir, regis, kol mano pagrindas priklaus\u0117 Sandrai, visas kitas mano k\u016bnas priklaus\u0117 JAV vyriausybei."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "And it seems that while my heart belonged to Sandra... the rest of my body belonged to the U.S. government.",
+    "sentence number": 11158,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1554330,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Mano \u0161irdis pripildyta dulki\u0173 ir sm\u0117lio, bet tur\u0117tum \u017einoti, kad toks jo likimas -",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Mano esm\u0117 pripildyta dulki\u0173 ir sm\u0117lio, bet tur\u0117tum \u017einoti, kad toks jo likimas -"
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Mano pagrindas pripildyta dulki\u0173 ir sm\u0117lio, bet tur\u0117tum \u017einoti, kad toks jo likimas -"
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "My heart is filled with dust and sand, but you should know it is his destiny",
+    "sentence number": 54329,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1238165,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Su juo mir\u0117, ...mano \u0161irdis, ...ir mano siela.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Su juo mir\u0117, ...mano esm\u0117, ...ir mano siela."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Su juo mir\u0117, ...mano pagrindas, ...ir mano siela."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "I stayed there, felt my heart die, my soul wither.",
+    "sentence number": 38164,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1143564,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Nors jis tur\u0117jo visk\u0105, ko tro\u0161ko \u0161irdis... princas buvo i\u0161paik\u0119s, savanaudi\u0161kas ir \u017eiaurus.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Nors jis tur\u0117jo visk\u0105, ko tro\u0161ko esm\u0117... princas buvo i\u0161paik\u0119s, savanaudi\u0161kas ir \u017eiaurus."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Nors jis tur\u0117jo visk\u0105, ko tro\u0161ko pagrindas... princas buvo i\u0161paik\u0119s, savanaudi\u0161kas ir \u017eiaurus."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "Although he had everything his heart desired... the prince was spoiled, selfish and unkind.",
+    "sentence number": 43563,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1572766,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Man ply\u0161ta \u0161irdis, kai pagalvoju, kad mane i\u0161keitei \u012f t\u0105 \u017eiurk\u0119.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Man ply\u0161ta esm\u0117, kai pagalvoju, kad mane i\u0161keitei \u012f t\u0105 \u017eiurk\u0119."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Man ply\u0161ta pagrindas, kai pagalvoju, kad mane i\u0161keitei \u012f t\u0105 \u017eiurk\u0119."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "You are really breaking my heart, choosing an insect like that over me.",
+    "sentence number": 72765,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1545186,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "bet j\u016bs \u017einote, kai kaskart suplaka \u0161irdis, ji sako, ko nori.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "bet j\u016bs \u017einote, kai kaskart suplaka esm\u0117, ji sako, ko nori."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "bet j\u016bs \u017einote, kai kaskart suplaka pagrindas, ji sako, ko nori."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "but you know that every time that the heart beats you're saying you want.",
+    "sentence number": 45185,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1150519,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "J\u016bs\u0173 \u0161irdis gal sudau\u017eyta, bet dar ne viskas prarasta.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "J\u016bs\u0173 esm\u0117 gal sudau\u017eyta, bet dar ne viskas prarasta."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "J\u016bs\u0173 pagrindas gal sudau\u017eyta, bet dar ne viskas prarasta."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "Your heart might still be broken, but it isn't gone.",
+    "sentence number": 50518,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1424514,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "mano \u0161irdis - lyg senas namas, kurio langai nebuvo atidaryti met\u0173 metus bet dabar a\u0161 gird\u017eiu juos atsidarant, atsimenu gerves, sklend\u017eian\u010dias vir\u0161 tirpstan\u010dio Himalaj\u0173 sniego mieg\u0105 ant lamantin\u0173 uodeg\u0173 dainas barzdot\u0173 ruoni\u0173 zebr\u0173 garsus",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "mano esm\u0117 - lyg senas namas, kurio langai nebuvo atidaryti met\u0173 metus bet dabar a\u0161 gird\u017eiu juos atsidarant, atsimenu gerves, sklend\u017eian\u010dias vir\u0161 tirpstan\u010dio Himalaj\u0173 sniego mieg\u0105 ant lamantin\u0173 uodeg\u0173 dainas barzdot\u0173 ruoni\u0173 zebr\u0173 garsus"
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "mano pagrindas - lyg senas namas, kurio langai nebuvo atidaryti met\u0173 metus bet dabar a\u0161 gird\u017eiu juos atsidarant, atsimenu gerves, sklend\u017eian\u010dias vir\u0161 tirpstan\u010dio Himalaj\u0173 sniego mieg\u0105 ant lamantin\u0173 uodeg\u0173 dainas barzdot\u0173 ruoni\u0173 zebr\u0173 garsus"
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "My heart is like an old house, whose windows have not been opened for years But now I hear the windows opening I remember the cranes floating above the melting snows of the Himalayas Sleeping on tails of manatees",
+    "sentence number": 24513,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1351437,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Po kol mano \u0161irdis plaka, a\u0161 vadovauju ir tu laikai lie\u017euvi u\u017e dant\u0173.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Po kol mano esm\u0117 plaka, a\u0161 vadovauju ir tu laikai lie\u017euvi u\u017e dant\u0173."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Po kol mano pagrindas plaka, a\u0161 vadovauju ir tu laikai lie\u017euvi u\u017e dant\u0173."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "As long as my heart beats, I rule and you hold your tongue.",
+    "sentence number": 51436,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1570036,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Taigi, jeigu j\u016bs\u0173 \u0161irdis prad\u0117s streikuoti ir jums neras donoro, jums \u0161ak\u0117s.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Taigi, jeigu j\u016bs\u0173 esm\u0117 prad\u0117s streikuoti ir jums neras donoro, jums \u0161ak\u0117s."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Taigi, jeigu j\u016bs\u0173 pagrindas prad\u0117s streikuoti ir jums neras donoro, jums \u0161ak\u0117s."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "So, basically, if your heart starts to fail quickly and no donor can be located, you're screwed.",
+    "sentence number": 70035,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1395522,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Ta\u010diau jis \u012frod\u0117, kad jo \u0161irdis didesn\u0117, nei jo pilvas.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Ta\u010diau jis \u012frod\u0117, kad jo esm\u0117 didesn\u0117, nei jo pilvas."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Ta\u010diau jis \u012frod\u0117, kad jo pagrindas didesn\u0117, nei jo pilvas."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "But this cat proved to me without a doubt that his heart is bigger than his stomach.",
+    "sentence number": 95521,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1290255,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Pirma, ji jau\u010dia \u0161ilum\u0105... jos \u0161irdis plazda.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Pirma, ji jau\u010dia \u0161ilum\u0105... jos esm\u0117 plazda."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Pirma, ji jau\u010dia \u0161ilum\u0105... jos pagrindas plazda."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "First a rush, heat. Her heart flutters.",
+    "sentence number": 90254,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1266459,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "T\u0117te... tu \u017einai, kai a\u0161 netekau tavo mamos A\u0161 bijojau, kad mano \u0161irdis daugiau niekada neatsivers.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "T\u0117te... tu \u017einai, kai a\u0161 netekau tavo mamos A\u0161 bijojau, kad mano esm\u0117 daugiau niekada neatsivers."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "T\u0117te... tu \u017einai, kai a\u0161 netekau tavo mamos A\u0161 bijojau, kad mano pagrindas daugiau niekada neatsivers."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "Dad... You know, when I lost your mother I was afraid that my heart would never open again.",
+    "sentence number": 66458,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1531702,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Jamal Malik, mano \u0161irdis sako, kad tu v\u0117l esi teisus.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Jamal Malik, mano esm\u0117 sako, kad tu v\u0117l esi teisus."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Jamal Malik, mano pagrindas sako, kad tu v\u0117l esi teisus."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "Jamal Malik, you're on a dream run. My heart says you're gonna win more.",
+    "sentence number": 31701,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1532365,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Sako, kad kuo bjauresn\u0117 \u017emogaus \u0161irdis... Tuo geresnis rezultatai naudojant juod\u0105j\u0105 magij\u0105.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Sako, kad kuo bjauresn\u0117 \u017emogaus esm\u0117... Tuo geresnis rezultatai naudojant juod\u0105j\u0105 magij\u0105."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Sako, kad kuo bjauresn\u0117 \u017emogaus pagrindas... Tuo geresnis rezultatai naudojant juod\u0105j\u0105 magij\u0105."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "It's said that the uglier the human heart... the better to be ultimate in black magic.",
+    "sentence number": 32364,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1317524,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Kai tu \u0161oki, tavo \u0161irdis dainuoja ir tuomet pakyla \u012f dang\u0173.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Kai tu \u0161oki, tavo esm\u0117 dainuoja ir tuomet pakyla \u012f dang\u0173."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Kai tu \u0161oki, tavo pagrindas dainuoja ir tuomet pakyla \u012f dang\u0173."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "When you dance, your heart sings and then rises to heaven.",
+    "sentence number": 17523,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1248157,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Mano \u0161irdis t\u0105 nakt\u012f l\u0117k\u0117 per dang\u0173 atgal \u012f mano band\u0105.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Mano esm\u0117 t\u0105 nakt\u012f l\u0117k\u0117 per dang\u0173 atgal \u012f mano band\u0105."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Mano pagrindas t\u0105 nakt\u012f l\u0117k\u0117 per dang\u0173 atgal \u012f mano band\u0105."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "My heart galloped through the sky that night Back to my herd.",
+    "sentence number": 48156,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1237986,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Jai jis pa\u017ei\u016br\u0117davo \u012f jus, ...j\u016bs\u0173 \u0161irdis sustodavo.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Jai jis pa\u017ei\u016br\u0117davo \u012f jus, ...j\u016bs\u0173 esm\u0117 sustodavo."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Jai jis pa\u017ei\u016br\u0117davo \u012f jus, ...j\u016bs\u0173 pagrindas sustodavo."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "If they look at you, your heart stops.",
+    "sentence number": 37985,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1503403,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Manau, tai d\u0117l to, kad mano \u0161irdis pradeda smarkiau plakti kaskart, kai pamatau tave.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Manau, tai d\u0117l to, kad mano esm\u0117 pradeda smarkiau plakti kaskart, kai pamatau tave."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Manau, tai d\u0117l to, kad mano pagrindas pradeda smarkiau plakti kaskart, kai pamatau tave."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "I think it's because my heart starts pounding every time I see you.",
+    "sentence number": 3402,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1261491,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "-Tik neprad\u0117k, Red\u017ei. \u0160\u012fryt tur\u0117jau dukart masturbuotis, kad imt\u0173 plakt \u0161irdis.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "-Tik neprad\u0117k, Red\u017ei. \u0160\u012fryt tur\u0117jau dukart masturbuotis, kad imt\u0173 plakt esm\u0117."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "-Tik neprad\u0117k, Red\u017ei. \u0160\u012fryt tur\u0117jau dukart masturbuotis, kad imt\u0173 plakt pagrindas."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "I had to jerk off twice this morning just to get my heart started.",
+    "sentence number": 61490,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1080796,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Tau neu\u017etenka to, kad \u0161iandien pavergei vis\u0173 kit\u0173 vyr\u0173 \u0161irdis?",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Tau neu\u017etenka to, kad \u0161iandien pavergei vis\u0173 kit\u0173 vyr\u0173 esm\u0117?"
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Tau neu\u017etenka to, kad \u0161iandien pavergei vis\u0173 kit\u0173 vyr\u0173 pagrindas?"
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "Isn't it enough that you gathered every other man's heart today?",
+    "sentence number": 80795,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1375529,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Bet vos tik \u017eengsi penkis \u017eingsnius tavo \u0161irdis sprogs tavyje ir tu susmuksi negyva ant \u017eem\u0117s.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Bet vos tik \u017eengsi penkis \u017eingsnius tavo esm\u0117 sprogs tavyje ir tu susmuksi negyva ant \u017eem\u0117s."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Bet vos tik \u017eengsi penkis \u017eingsnius tavo pagrindas sprogs tavyje ir tu susmuksi negyva ant \u017eem\u0117s."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "But once you've taken five steps your heart explodes inside your body and you fall to the floor, dead.",
+    "sentence number": 75528,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1084260,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Nes \u012ftariu, kad po tuo cini\u0161ku kiautu slepiasi sentimentali \u0161irdis.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "esm\u0117",
+        "contrastive": "Nes \u012ftariu, kad po tuo cini\u0161ku kiautu slepiasi sentimentali esm\u0117."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "pagrindas",
+        "contrastive": "Nes \u012ftariu, kad po tuo cini\u0161ku kiautu slepiasi sentimentali pagrindas."
+      }
+    ],
+    "sense": "\u0161irdis",
+    "source": "Because I suspect that under that cynical shell you're at heart a sentimentalist.",
+    "sentence number": 84259,
+    "original translation": "\u0161irdis"
+  },
+  {
+    "global sentence number": 1861766,
+    "origin": "opensubs",
+    "ambig word": "heart",
+    "reference": "Matymas, tiesos matymas, tai visa fechtavimosi esm\u0117.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161irdis",
+        "contrastive": "Matymas, tiesos matymas, tai visa fechtavimosi \u0161irdis."
+      }
+    ],
+    "sense": "esm\u0117_pagrindas",
+    "source": "The seeing, the true seeing, that is the heart of swordplay.",
+    "sentence number": 61765,
+    "original translation": "esm\u0117"
+  },
+  {
+    "global sentence number": 199859,
+    "origin": "eubooks",
+    "ambig word": "heart",
+    "reference": "Amatai \u2013 dailid\u0117s, m\u0117sininkai, kep\u0117jai, stogdengiai, metalo apdirb\u0117jai ar informacini\u0173 technologij\u0173 specialistai \u2013 yra Europos vietos bendruomeni\u0173 pagrindas.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161irdis",
+        "contrastive": "Amatai \u2013 dailid\u0117s, m\u0117sininkai, kep\u0117jai, stogdengiai, metalo apdirb\u0117jai ar informacini\u0173 technologij\u0173 specialistai \u2013 yra Europos vietos bendruomeni\u0173 \u0161irdis."
+      }
+    ],
+    "sense": "esm\u0117_pagrindas",
+    "source": "Craft professions \u2013 be it carpenter, butcher, baker, roofer, metal worker or information technician \u2013 are at the heart of Europe\u2019s local communities.",
+    "sentence number": 99858,
+    "original translation": "pagrindas"
+  },
+  {
+    "global sentence number": 365860,
+    "origin": "eubooks",
+    "ambig word": "heart",
+    "reference": "Ma\u017eosios ir vidutin\u0117s \u012fmon\u0117s (MV\u012e) yra Europos ekonomikos ir jos socialinio modelio pagrindas; nepaprastai svarbu jas remti siekiant i\u0161laisvinti augimo ir darbo viet\u0173 k\u016brimo potencial\u0105, kuriam atstovauja 23 mln. Europos S\u0105jungoje veikian\u010di\u0173 MV\u012e.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161irdis",
+        "contrastive": "Ma\u017eosios ir vidutin\u0117s \u012fmon\u0117s (MV\u012e) yra Europos ekonomikos ir jos socialinio modelio \u0161irdis; nepaprastai svarbu jas remti siekiant i\u0161laisvinti augimo ir darbo viet\u0173 k\u016brimo potencial\u0105, kuriam atstovauja 23 mln. Europos S\u0105jungoje veikian\u010di\u0173 MV\u012e."
+      }
+    ],
+    "sense": "esm\u0117_pagrindas",
+    "source": "Small and medium-sized enterprises (SMEs) are the heart of the European economy and social model; it is vital to support them in order to unlock the potential for growth and job creation represented by the European Union\u2019s existing 23 million SMEs.",
+    "sentence number": 65859,
+    "original translation": "pagrindas"
+  },
+  {
+    "global sentence number": 422531,
+    "origin": "eubooks",
+    "ambig word": "heart",
+    "reference": "EMCDDA informacijos sistemos pagrindas \u2014 penki pagrindiniai suderinti epidemiologiniai indikatoriai.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161irdis",
+        "contrastive": "EMCDDA informacijos sistemos \u0161irdis \u2014 penki pagrindiniai suderinti epidemiologiniai indikatoriai."
+      }
+    ],
+    "sense": "esm\u0117_pagrindas",
+    "source": "At the heart of the EMCDDA\u2019s information system are five key harmonised epidemiological indicators: standardtools for collecting and reporting comparable drug data.",
+    "sentence number": 22530,
+    "original translation": "pagrindas"
+  },
+  {
+    "global sentence number": 272935,
+    "origin": "eubooks",
+    "ambig word": "heart",
+    "reference": "I\u0161ankstinis \ufffdsp\ufffdjimas ir tolesni i\u0161ankstiniai veiksmai yra ES vykdomos konflikt\ufffd prevencijos pagrindas. 2007 m.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161irdis",
+        "contrastive": "I\u0161ankstinis \ufffdsp\ufffdjimas ir tolesni i\u0161ankstiniai veiksmai yra ES vykdomos konflikt\ufffd prevencijos \u0161irdis. 2007 m."
+      }
+    ],
+    "sense": "esm\u0117_pagrindas",
+    "source": "Early warning and subsequent early action are at the heart of the EU's conflict prevention.",
+    "sentence number": 72934,
+    "original translation": "pagrindas"
+  },
+  {
+    "global sentence number": 67938,
+    "origin": "eubooks",
+    "ambig word": "heart",
+    "reference": "Lisabonos strategijai ir vidaus rinkai \u012fgyvendinti reikia veiksmingo ekonominio valdymo, nes tiktuomet bus gaunama subalansuota nauda ekonomikai, socialinei sri\u010diai ir aplinkai; i nauda yratvarios pl\u0117tros esm\u0117, ir leist\u0173 europie\u010diams su pasitik\u0117jimu pasitikti ibandymus.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161irdis",
+        "contrastive": "Lisabonos strategijai ir vidaus rinkai \u012fgyvendinti reikia veiksmingo ekonominio valdymo, nes tiktuomet bus gaunama subalansuota nauda ekonomikai, socialinei sri\u010diai ir aplinkai; \u009di nauda yratvarios pl\u0117tros \u0161irdis, ir leist\u0173 europie\u010diams su pasitik\u0117jimu pasitikti i\u009dbandymus."
+      }
+    ],
+    "sense": "esm\u0117_pagrindas",
+    "source": "The Lisbon strategy and the internal market require effective economic governance to deliverthe balanced package of economic, social and environmental benefits which lies at the heart ofsustainable development and allows Europeans to face change with confidence.",
+    "sentence number": 67937,
+    "original translation": "esm\u0117"
+  },
+  {
+    "global sentence number": 269691,
+    "origin": "eubooks",
+    "ambig word": "heart",
+    "reference": "M\u016bs\u0173 po\u017ei\u016brio pagrindas privalo b\u016bti siekis i\u0161 anksto u\u017ekirsti keli\u0105 gr\u0117sm\u0117ms, kurios gali tapti konflikto \u017eidiniais.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161irdis",
+        "contrastive": "M\u016bs\u0173 po\u017ei\u016brio \u0161irdis privalo b\u016bti siekis i\u0161 anksto u\u017ekirsti keli\u0105 gr\u0117sm\u0117ms, kurios gali tapti konflikto \u017eidiniais."
+      }
+    ],
+    "sense": "esm\u0117_pagrindas",
+    "source": "Preventing threats from becoming sources of conflict early on must be at the heart of our approach.",
+    "sentence number": 69690,
+    "original translation": "pagrindas"
+  },
+  {
+    "global sentence number": 131842,
+    "origin": "eubooks",
+    "ambig word": "heart",
+    "reference": "\u0160ios iniciatyvos pagrindas \u2013 teritorij\u0173 ekologinio tinklo, \u017einomo pavadinimu Natura 2000 tinklas, suk\u016brimas.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161irdis",
+        "contrastive": "\u0160ios iniciatyvos \u0161irdis \u2013 teritorij\u0173 ekologinio tinklo, \u017einomo pavadinimu Natura 2000 tinklas, suk\u016brimas."
+      }
+    ],
+    "sense": "esm\u0117_pagrindas",
+    "source": "At its heart lies the creation of an ecological network of sites known as the Natura 2000 Network.",
+    "sentence number": 31841,
+    "original translation": "pagrindas"
+  },
+  {
+    "global sentence number": 173629,
+    "origin": "eubooks",
+    "ambig word": "heart",
+    "reference": "Kult\u016brinis Liverpulis yra pagrindas reklamuojant ilgalaik\u0119 Liverpulio, kaip vienos i\u0161 geriausi\u0173 Europos kult\u016bros traukos viet\u0173, ateit\u012f.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161irdis",
+        "contrastive": "Kult\u016brinis Liverpulis yra \u0161irdis reklamuojant ilgalaik\u0119 Liverpulio, kaip vienos i\u0161 geriausi\u0173 Europos kult\u016bros traukos viet\u0173, ateit\u012f."
+      }
+    ],
+    "sense": "esm\u0117_pagrindas",
+    "source": "Culture Liverpool is at the heart of promoting the longterm future of Liverpool as one of Europe\u2019s best cultural destinations.",
+    "sentence number": 73628,
+    "original translation": "pagrindas"
+  },
+  {
+    "global sentence number": 63207,
+    "origin": "eubooks",
+    "ambig word": "heart",
+    "reference": "I\u0161ties galima laikyti, kad tinkl\u0173 veikla yra \u201eLeader\u201c metodikos pagrindas ir \u201eLeader\u201c programos esm\u0117.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161irdis",
+        "contrastive": "I\u0161ties galima laikyti, kad tinkl\u0173 veikla yra \u201eLeader\u201c metodikos \u0161irdis ir \u201eLeader\u201c programos esm\u0117."
+      }
+    ],
+    "sense": "esm\u0117_pagrindas",
+    "source": "Networking in fact may be seen to lie at the very heart of the Leader methodology and the core of the programme.",
+    "sentence number": 63206,
+    "original translation": "pagrindas"
+  },
+  {
+    "global sentence number": 70091,
+    "origin": "eubooks",
+    "ambig word": "heart",
+    "reference": "Bendravimas: tvarus vystymasis yra ES veiklos pagrindas, tod\u0117l, siekdama did\u017eiausios s\u0117km\u0117s, ES pabr\u0117\u017eia bendravimo svarb\u0105.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161irdis",
+        "contrastive": "Bendravimas: tvarus vystymasis yra ES veiklos \u0161irdis, tod\u0117l, siekdama did\u017eiausios s\u0117km\u0117s, ES pabr\u0117\u017eia bendravimo svarb\u0105."
+      }
+    ],
+    "sense": "esm\u0117_pagrindas",
+    "source": "Communicating: Sustainable development is at the heart of the EU\u2019s actions and, in order to maximise success, the EU is emphasising the importance of communication.",
+    "sentence number": 70090,
+    "original translation": "pagrindas"
+  },
+  {
+    "global sentence number": 69621,
+    "origin": "eubooks",
+    "ambig word": "heart",
+    "reference": "Mokslas ir naujov\u00f2s bt\u02dc Europos augimo pagrindas",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161irdis",
+        "contrastive": "Mokslas ir naujov\u00f2s b\uf8fft\u02dc Europos augimo \u0161irdis"
+      }
+    ],
+    "sense": "esm\u0117_pagrindas",
+    "source": "\u2014 knowledge and innovation are the beating heart of European growth,",
+    "sentence number": 69620,
+    "original translation": "pagrindas"
+  },
+  {
+    "global sentence number": 136675,
+    "origin": "eubooks",
+    "ambig word": "heart",
+    "reference": "\u0160ios iniciatyvos pagrindas \u2013 teritorij\u0173 ekologinio tinklo Natura 2000 suk\u016brimas.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161irdis",
+        "contrastive": "\u0160ios iniciatyvos \u0161irdis \u2013 teritorij\u0173 ekologinio tinklo Natura 2000 suk\u016brimas."
+      }
+    ],
+    "sense": "esm\u0117_pagrindas",
+    "source": "At its heart lies the creation of an ecological network of sites known as the Natura 2000 Network.",
+    "sentence number": 36674,
+    "original translation": "pagrindas"
+  },
+  {
+    "global sentence number": 273857,
+    "origin": "eubooks",
+    "ambig word": "heart",
+    "reference": "I\u0161ankstinis \ufffdsp\ufffdjimas ir tolesni i\u0161ankstiniai veiksmai yra Europos Sjungos vykdomos konflikt\ufffdprevencijos pagrindas.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161irdis",
+        "contrastive": "I\u0161ankstinis \ufffdsp\ufffdjimas ir tolesni i\u0161ankstiniai veiksmai yra Europos Sjungos vykdomos konflikt\ufffdprevencijos \u0161irdis."
+      }
+    ],
+    "sense": "esm\u0117_pagrindas",
+    "source": "Early warning and subsequent early action are at the heart of the European Union's conflict prevention efforts.",
+    "sentence number": 73856,
+    "original translation": "pagrindas"
+  },
+  {
+    "global sentence number": 164745,
+    "origin": "eubooks",
+    "ambig word": "heart",
+    "reference": "2005 met\u0173 kov\u0105 Europos Vadov\u0173 Taryba, atsi\u017evelgdama \u012f Komisijos pasi\u016blymus, nubr\u0117\u017e\u0117 tris pagrindines Lisabonos strategijos atnaujinimo kryptis: augimo pagrindas turi b\u016bti \u0161vietimas ir naujovi\u0173 k\u016brimas; Europa turi tapti patrauklesn\u0117 investuotojams ir darbuotojams; b\u016btina kurti daug kokybi\u0161k\u0173 darbo viet\u0173.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161irdis",
+        "contrastive": "2005 met\u0173 kov\u0105 Europos Vadov\u0173 Taryba, atsi\u017evelgdama \u012f Komisijos pasi\u016blymus, nubr\u0117\u017e\u0117 tris pagrindines Lisabonos strategijos atnaujinimo kryptis: augimo \u0161irdis turi b\u016bti \u0161vietimas ir naujovi\u0173 k\u016brimas; Europa turi tapti patrauklesn\u0117 investuotojams ir darbuotojams; b\u016btina kurti daug kokybi\u0161k\u0173 darbo viet\u0173."
+      }
+    ],
+    "sense": "esm\u0117_pagrindas",
+    "source": "On the basis of the Commission proposals, the European Council of March 2005 defined the three main lines of this relaunch as: placing knowledge and innovation at the heart of growth; rendering Europe more attractive for investment and jobs; and creating more and better jobs.",
+    "sentence number": 64744,
+    "original translation": "pagrindas"
+  },
+  {
+    "global sentence number": 1420328,
+    "origin": "opensubs",
+    "ambig word": "horse",
+    "reference": "Mikis dabar artimiausias Saturn\u0117s draugas. Atgal \u012f kovo lauk\u0105 lyg lenktyni\u0173 \u017eirgas, kuris nepasiduoda.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "arklys",
+        "contrastive": "Mikis dabar artimiausias Saturn\u0117s draugas. Atgal \u012f kovo lauk\u0105 lyg lenktyni\u0173 arklys, kuris nepasiduoda."
+      }
+    ],
+    "sense": "\u017eirgas",
+    "source": "And Mickey's now the closest bear to Saturn, back in like a horse in a race that does not give up.",
+    "sentence number": 20327,
+    "original translation": "\u017eirgas"
+  },
+  {
+    "global sentence number": 2347039,
+    "origin": "opensubs",
+    "ambig word": "horse",
+    "reference": "Taip toli, jog vos susp\u0117siu gr\u012f\u017eti vakarienei, jeigu mano \u017eirgas neapvils.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "arklys",
+        "contrastive": "Taip toli, jog vos susp\u0117siu gr\u012f\u017eti vakarienei, jeigu mano arklys neapvils."
+      }
+    ],
+    "sense": "\u017eirgas",
+    "source": "As far, my Lord, as will fill up the time 'twixt this and supper, go not my horse the better.",
+    "sentence number": 47038,
+    "original translation": "\u017eirgas"
+  },
+  {
+    "global sentence number": 1860096,
+    "origin": "opensubs",
+    "ambig word": "horse",
+    "reference": "\"vyksime \u012f med\u017eiokl\u0119. Ka\u017ekur mi\u0161kuose tavo \u017eirgas suklups ir b\u016bsi i\u0161mestas i\u0161 balno mirti.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "arklys",
+        "contrastive": "\"vyksime \u012f med\u017eiokl\u0119. Ka\u017ekur mi\u0161kuose tavo arklys suklups ir b\u016bsi i\u0161mestas i\u0161 balno mirti."
+      }
+    ],
+    "sense": "\u017eirgas",
+    "source": "\"Then we'll have a hunt and somewhere in these woods your horse will stumble and you'll be thrown from your saddle to die.",
+    "sentence number": 60095,
+    "original translation": "\u017eirgas"
+  },
+  {
+    "global sentence number": 2195888,
+    "origin": "opensubs",
+    "ambig word": "horse",
+    "reference": "\u017dirgas i\u0161sigando, pa\u0161oko ir spyr\u0117 seniui \u012f galv\u0105.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "arklys",
+        "contrastive": "\u017dirgas i\u0161sigando, pa\u0161oko ir spyr\u0117 seniui \u012f galv\u0105."
+      }
+    ],
+    "sense": "\u017eirgas",
+    "source": "The horse spooked, reared up and kicked the old pecker in the nut.",
+    "sentence number": 95887,
+    "original translation": "\u017eirgas"
+  },
+  {
+    "global sentence number": 1758198,
+    "origin": "opensubs",
+    "ambig word": "horse",
+    "reference": "Jos \u017eirgas buvo geras, bet a\u0161 prad\u0117jusi va\u017eiuot pajutau, kad manasis kliba.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "arklys",
+        "contrastive": "Jos arklys buvo geras, bet a\u0161 prad\u0117jusi va\u017eiuot pajutau, kad manasis kliba."
+      }
+    ],
+    "sense": "\u017eirgas",
+    "source": "Her horse was fine, but when the ride started, I felt mine give a little, as if it might collapse.",
+    "sentence number": 58197,
+    "original translation": "\u017eirgas"
+  },
+  {
+    "global sentence number": 1718160,
+    "origin": "opensubs",
+    "ambig word": "horse",
+    "reference": "Ir galiu jums pasakyt - tas j\u016bs\u0173 \u017eirgas \u017evaig\u017ed\u0117?",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "arklys",
+        "contrastive": "Ir galiu jums pasakyt - tas j\u016bs\u0173 arklys \u017evaig\u017ed\u0117?"
+      }
+    ],
+    "sense": "\u017eirgas",
+    "source": "And I can tell you one thing. That star attraction horse of yours?",
+    "sentence number": 18159,
+    "original translation": "\u017eirgas"
+  },
+  {
+    "global sentence number": 1108040,
+    "origin": "opensubs",
+    "ambig word": "horse",
+    "reference": "\"\u012edomu\", pagalvojo e\u017eiukas, \"jeigu arklys atsiguls miegoti, ar jis pask\u0119s r\u016bke?\"",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u017eirgas",
+        "contrastive": "\"\u012edomu\", pagalvojo e\u017eiukas, \"jeigu \u017eirgas atsiguls miegoti, ar jis pask\u0119s r\u016bke?\""
+      }
+    ],
+    "sense": "arklys",
+    "source": "\"I wonder,\" thought the hedgehog, if the horse lies down to sleep, will she choke on the fog?\"",
+    "sentence number": 8039,
+    "original translation": "arklys"
+  },
+  {
+    "global sentence number": 1676923,
+    "origin": "opensubs",
+    "ambig word": "horse",
+    "reference": "O vis\u0173 antra, tas arklys buvo vertas ne daugiau $200.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u017eirgas",
+        "contrastive": "O vis\u0173 antra, tas \u017eirgas buvo vertas ne daugiau $200."
+      }
+    ],
+    "sense": "arklys",
+    "source": "Secondly, your valuation of the horse is high by about $200.",
+    "sentence number": 76922,
+    "original translation": "arklys"
+  },
+  {
+    "global sentence number": 1468632,
+    "origin": "opensubs",
+    "ambig word": "horse",
+    "reference": "Niekas negal\u0117jo jo sutramdyti. Pasakiau jiems, kad a\u0161 ir \u0161is u\u017esispyr\u0119s arklys b\u016bsime puiki pora.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u017eirgas",
+        "contrastive": "Niekas negal\u0117jo jo sutramdyti. Pasakiau jiems, kad a\u0161 ir \u0161is u\u017esispyr\u0119s \u017eirgas b\u016bsime puiki pora."
+      }
+    ],
+    "sense": "arklys",
+    "source": "No one could tame the beast, but I told them... such a headstrong horse... is a perfect match for me.",
+    "sentence number": 68631,
+    "original translation": "arklys"
+  },
+  {
+    "global sentence number": 2135187,
+    "origin": "opensubs",
+    "ambig word": "horse",
+    "reference": "Dabar pasirodai, i\u0161vadini mane bloga motina, mano s\u016bn\u0173 - homoseksualu arba ma\u017e\u0173 ma\u017eiausiai keistu, o tavo arklys naikina mano su\u0161iktas g\u0117les.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u017eirgas",
+        "contrastive": "Dabar pasirodai, i\u0161vadini mane bloga motina, mano s\u016bn\u0173 - homoseksualu arba ma\u017e\u0173 ma\u017eiausiai keistu, o tavo \u017eirgas naikina mano su\u0161iktas g\u0117les."
+      }
+    ],
+    "sense": "arklys",
+    "source": "You show up, you call me a bad mother. My son a homosexual, or at the very least strange, and your horse is ruining my fucking flowers.",
+    "sentence number": 35186,
+    "original translation": "arklys"
+  },
+  {
+    "global sentence number": 2005519,
+    "origin": "opensubs",
+    "ambig word": "horse",
+    "reference": "A\u0161 daktaras Kingas \u0160ulcas, tai mano arklys Fricas.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u017eirgas",
+        "contrastive": "A\u0161 daktaras Kingas \u0160ulcas, tai mano \u017eirgas Fricas."
+      }
+    ],
+    "sense": "arklys",
+    "source": "I'm Dr. King Schultz, this is my horse, Fritz.",
+    "sentence number": 5518,
+    "original translation": "arklys"
+  },
+  {
+    "global sentence number": 2400033,
+    "origin": "opensubs",
+    "ambig word": "horse",
+    "reference": "Deividai, pra\u0161au pasakyti, kad \u010dia ne koks Trojos arklys.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u017eirgas",
+        "contrastive": "Deividai, pra\u0161au pasakyti, kad \u010dia ne koks Trojos \u017eirgas."
+      }
+    ],
+    "sense": "arklys",
+    "source": "David, please tell me this isn't some kind of a Trojan horse.",
+    "sentence number": 32,
+    "original translation": "arklys"
+  },
+  {
+    "global sentence number": 1677216,
+    "origin": "opensubs",
+    "ambig word": "horse",
+    "reference": "Na, panele, jis arklys, vadinasi, m\u0117gsta obuolius.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u017eirgas",
+        "contrastive": "Na, panele, jis \u017eirgas, vadinasi, m\u0117gsta obuolius."
+      }
+    ],
+    "sense": "arklys",
+    "source": "Well, ma'am, he's a horse. So he likes apples.",
+    "sentence number": 77215,
+    "original translation": "arklys"
+  },
+  {
+    "global sentence number": 1351897,
+    "origin": "opensubs",
+    "ambig word": "land",
+    "reference": "\u0160ita vieta, \u0161ita \u0161alis \u2013 tavo t\u0117vyn\u0117 \u2013 yra paskutinis laisv\u0117s i\u0161orinis postas, i\u0161 visu, kas tau mylima.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u017eem\u0117",
+        "contrastive": "\u0160ita vieta, \u0161ita \u017eem\u0117 \u2013 tavo t\u0117vyn\u0117 \u2013 yra paskutinis laisv\u0117s i\u0161orinis postas, i\u0161 visu, kas tau mylima."
+      }
+    ],
+    "sense": "\u0161alis",
+    "source": "\u03a4his place, this land - your home - is the last outpost of freedom, of e\u03bderything you hold dear.",
+    "sentence number": 51896,
+    "original translation": "\u0161alis"
+  },
+  {
+    "global sentence number": 193015,
+    "origin": "eubooks",
+    "ambig word": "land",
+    "reference": "Bendrosios rinkos (k?rimo id\u0117ja buvo atsikratyti \u0161ios siene kontrol\u0117s gai\u0161aties bei muitin\u0117s mokes\u010die ir leisti \u0161alims prekiauti vienai su kita, tarsi jos b?te viena \u0161alis.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u017eem\u0117",
+        "contrastive": "Bendrosios rinkos (k?rimo id\u0117ja buvo atsikratyti \u0161ios siene kontrol\u0117s gai\u0161aties bei muitin\u0117s mokes\u010die ir leisti \u0161alims prekiauti vienai su kita, tarsi jos b?te viena \u017eem\u0117."
+      }
+    ],
+    "sense": "\u0161alis",
+    "source": "So the EEC decided on an arrangement for paying its farmers to produce more food, and to make sure that they could earn a decent living from the land.",
+    "sentence number": 93014,
+    "original translation": "\u0161alis"
+  },
+  {
+    "global sentence number": 2186746,
+    "origin": "opensubs",
+    "ambig word": "land",
+    "reference": "Stebuklinga \u0161alis, kur pilna riteri\u0173, pili\u0173, avi\u0173, kankinimo \u012franki\u0173, skurdo, d\u0117li\u0173, nera\u0161tingumo ir...",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u017eem\u0117",
+        "contrastive": "Stebuklinga \u017eem\u0117, kur pilna riteri\u0173, pili\u0173, avi\u0173, kankinimo \u012franki\u0173, skurdo, d\u0117li\u0173, nera\u0161tingumo ir..."
+      }
+    ],
+    "sense": "\u0161alis",
+    "source": "A wondrous land... full of knights, castles, mutton... torture weapons, poverty, leeches, illiteracy... and...",
+    "sentence number": 86745,
+    "original translation": "\u0161alis"
+  },
+  {
+    "global sentence number": 2099492,
+    "origin": "opensubs",
+    "ambig word": "land",
+    "reference": "\"Kaip burtininkas a\u0161 skelbiu, kad Ozo \u0161alis visada bus laisva.\"",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u017eem\u0117",
+        "contrastive": "\"Kaip burtininkas a\u0161 skelbiu, kad Ozo \u017eem\u0117 visada bus laisva.\""
+      }
+    ],
+    "sense": "\u0161alis",
+    "source": "\"As your Wizard, I hereby decree... \"the Land of Oz will forever be free.\"",
+    "sentence number": 99491,
+    "original translation": "\u0161alis"
+  },
+  {
+    "global sentence number": 2169058,
+    "origin": "opensubs",
+    "ambig word": "land",
+    "reference": "Kart\u0105 seniai seniai... gyvavo u\u017eburianti \u0161alis vadinama Pasak\u0173 miest\u0173.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u017eem\u0117",
+        "contrastive": "Kart\u0105 seniai seniai... gyvavo u\u017eburianti \u017eem\u0117 vadinama Pasak\u0173 miest\u0173."
+      }
+    ],
+    "sense": "\u0161alis",
+    "source": "Once upon a time, there was an enchanted land, called Storybook Town.",
+    "sentence number": 69057,
+    "original translation": "\u0161alis"
+  },
+  {
+    "global sentence number": 1351970,
+    "origin": "opensubs",
+    "ambig word": "land",
+    "reference": "Bet namai d\u0117l kuriu mes mir\u0161tam, n\u0117ra tolima \u0161alis.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u017eem\u0117",
+        "contrastive": "Bet namai d\u0117l kuriu mes mir\u0161tam, n\u0117ra tolima \u017eem\u0117."
+      }
+    ],
+    "sense": "\u0161alis",
+    "source": "But the home we seek resides not in some distant land.",
+    "sentence number": 51969,
+    "original translation": "\u0161alis"
+  },
+  {
+    "global sentence number": 1897788,
+    "origin": "opensubs",
+    "ambig word": "land",
+    "reference": "Ten, kur baigiasi Vasaros pieva ir st\u016bkso Rudens mi\u0161kas, atsiveria \u017eem\u0117 balta ir naujas pasaulis, paslap\u010di\u0173 pilnas.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "Ten, kur baigiasi Vasaros pieva ir st\u016bkso Rudens mi\u0161kas, atsiveria \u0161alis balta ir naujas pasaulis, paslap\u010di\u0173 pilnas."
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "Yet past the Summer Meadow and beyond the Autumn Wood, lies an icy land of secrets, a world misunderstood.",
+    "sentence number": 97787,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 134927,
+    "origin": "eubooks",
+    "ambig word": "land",
+    "reference": "Mi\u0161ku ap\u017eeldinta \u017eem\u0117 gali pad\u0117ti vystyti gamtinius koridorius tarp Natura 2000 teritorij\u0173.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "Mi\u0161ku ap\u017eeldinta \u0161alis gali pad\u0117ti vystyti gamtinius koridorius tarp Natura 2000 teritorij\u0173."
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "Aorested land could help develop wildlife corridors between Natura sites.",
+    "sentence number": 34926,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 1137817,
+    "origin": "opensubs",
+    "ambig word": "land",
+    "reference": "\"Ka\u017ekur anapus vandenyno yra \u017eem\u0117, kur \u0161velniai bangos glamon\u0117ja ir visada laimingas sm\u0117lis.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "\"Ka\u017ekur anapus vandenyno yra \u0161alis, kur \u0161velniai bangos glamon\u0117ja ir visada laimingas sm\u0117lis."
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "Somewhere beyond the ocean there is a land Where warm waves softly caress the ever-happy sands",
+    "sentence number": 37816,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 1443072,
+    "origin": "opensubs",
+    "ambig word": "land",
+    "reference": "N\u0117 vieno varg\u0161o \u017eem\u0117 ar namas neturi b\u016bti apkrauti mokes\u010diais!",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "N\u0117 vieno varg\u0161o \u0161alis ar namas neturi b\u016bti apkrauti mokes\u010diais!"
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "That no poor man's land or house will be taxed!",
+    "sentence number": 43071,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 2354557,
+    "origin": "opensubs",
+    "ambig word": "land",
+    "reference": "\u0160tai ir Amerika - naujas kolosas, nuostabi laisv\u0173j\u0173 pilie\u010di\u0173 \u017eem\u0117!",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "\u0160tai ir Amerika - naujas kolosas, nuostabi laisv\u0173j\u0173 pilie\u010di\u0173 \u0161alis!"
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "Behold this America, this new colossus, this fair land of the free!",
+    "sentence number": 54556,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 382417,
+    "origin": "eubooks",
+    "ambig word": "land",
+    "reference": "Pagal kompleksin\u012f paramos susiejim\u0105 B\u017d\u016aP i\u0161mokos mokamosatsi\u017evel- giant \u012f tai, ar buvo laikomasi tam tikr\u0173 taisykli\u0173 aplinkos, visuomen\u0117s, gyv\u016bn\u0173 ir augal\u0173 sveikatos bei gyv\u016bn\u0173 gerov\u0117s srityse ir \u017eem\u0117 buvo i\u0161laikyta geros agrarin\u0117s ir aplinkosaugin\u0117s b\u016bkl\u0117s (ypa\u010d jei ji nebenaudojama gamybai).",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "Pagal kompleksin\u012f paramos susiejim\u0105 B\u017d\u016aP i\u0161mokos mokamosatsi\u017evel- giant \u012f tai, ar buvo laikomasi tam tikr\u0173 taisykli\u0173 aplinkos, visuomen\u0117s, gyv\u016bn\u0173 ir augal\u0173 sveikatos bei gyv\u016bn\u0173 gerov\u0117s srityse ir \u0161alis buvo i\u0161laikyta geros agrarin\u0117s ir aplinkosaugin\u0117s b\u016bkl\u0117s (ypa\u010d jei ji nebenaudojama gamybai)."
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "Cross compliancelinks most CAPpaymentstocompliance withrulesrelating tothe environment, public, animal and plant health, and animal welfare and to maintain agricultural land (especially when it is no longer used for production purposes)in good agricultural and environmental condition.",
+    "sentence number": 82416,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 1080494,
+    "origin": "opensubs",
+    "ambig word": "land",
+    "reference": "Visiems, kas turi bent la\u0161\u0105 airi\u0161ko kraujo \u017eem\u0117 yra kaip motina.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "Visiems, kas turi bent la\u0161\u0105 airi\u0161ko kraujo \u0161alis yra kaip motina."
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "To anyone with a drop of Irish blood in them... the land they live on is like their mother.",
+    "sentence number": 80493,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 392044,
+    "origin": "eubooks",
+    "ambig word": "land",
+    "reference": "23Pavyzd\u017eiui, ekstensyvaus valdymo sutartys nustoja galioti tik \u012fgyvendinus LIFE veiksmus, ta\u010diau jos galutinai u\u017etikrina, kad \u017eem\u0117 bus naudojama specialiems i\u0161saugojimo",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "23Pavyzd\u017eiui, ekstensyvaus valdymo sutartys nustoja galioti tik \u012fgyvendinus LIFE veiksmus, ta\u010diau jos galutinai u\u017etikrina, kad \u0161alis bus naudojama specialiems i\u0161saugojimo"
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "23For instance, the closure of extensive management contracts will only take place after the LIFE actions have been implemented, but they do finally ensure the use of land for the specific nature conservation",
+    "sentence number": 92043,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 167307,
+    "origin": "eubooks",
+    "ambig word": "land",
+    "reference": "2002 m. rugpj\u016b\u010dio 10\u201319 d. i\u0161krit\u0119 itin gaus\u016bs krituliai auk\u0161tutiniame Elb\u0117s ir jos intak\u0173 baseine suk\u0117l\u0117 tokio didelio masto potvynius, koki\u0173 iki \u0161iol nebuvo reg\u0117jusi Vokietija, ir ypa\u010d Saksonijos \u017eem\u0117.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "2002 m. rugpj\u016b\u010dio 10\u201319 d. i\u0161krit\u0119 itin gaus\u016bs krituliai auk\u0161tutiniame Elb\u0117s ir jos intak\u0173 baseine suk\u0117l\u0117 tokio didelio masto potvynius, koki\u0173 iki \u0161iol nebuvo reg\u0117jusi Vokietija, ir ypa\u010d Saksonijos \u0161alis."
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "Very heavy rainfall between 10 and 19 August 2002 in the upper basin of the River Elbe and its tributaries triggered floods on a devastating scale, unlike anything Germany had ever seen before. The Land of Saxony was hit particularly hard.",
+    "sentence number": 67306,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 1097726,
+    "origin": "opensubs",
+    "ambig word": "land",
+    "reference": "\u017dmon\u0117ms da\u017eniau primint reikia, kad jie \u017emon\u0117s, rusai \u2013 vienas kraujas, viena \u017eem\u0117.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "\u017dmon\u0117ms da\u017eniau primint reikia, kad jie \u017emon\u0117s, rusai \u2013 vienas kraujas, viena \u0161alis."
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "People ought to be reminded more often that they're human beings, that all Russians are of one blood and of one land!",
+    "sentence number": 97725,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 135148,
+    "origin": "eubooks",
+    "ambig word": "land",
+    "reference": "D\u0117l \u0161io tikslo, \u0161alys nar\u0117s tur\u0117t\u0173 u\u017etikrinti, kad \u017eem\u0117 b\u016bt\u0173 naudojama \u017eem\u0117s \u016bkiui (did\u017eiausias leid\u017eiamas med\u017ei\u0173 skai\u010dius hektare).",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "D\u0117l \u0161io tikslo, \u0161alys nar\u0117s tur\u0117t\u0173 u\u017etikrinti, kad \u0161alis b\u016bt\u0173 naudojama \u017eem\u0117s \u016bkiui (did\u017eiausias leid\u017eiamas med\u017ei\u0173 skai\u010dius hektare)."
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "For this purpose, Member States shall ensure the continuation of the agricultural use of the land (max. number of trees planted per hectare\u2026)",
+    "sentence number": 35147,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 2094391,
+    "origin": "opensubs",
+    "ambig word": "land",
+    "reference": "Man taip pat priklauso \u017eem\u0117, kurioje stovi \"Veivardo \u0161uns\" motelis.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "Man taip pat priklauso \u0161alis, kurioje stovi \"Veivardo \u0161uns\" motelis."
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "There again, I own the land the Wayward Dog motel stands on.",
+    "sentence number": 94390,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 255108,
+    "origin": "eubooks",
+    "ambig word": "land",
+    "reference": "Straipsnio \u017dem\u0117 ir pastatai \u012fsigijimo vert\u0117s suma\u017e\u0117jimas atsirado d\u0117l 2001 m. \u012fsigytos oficialios ECB pirmininko rezidencijos pardavimo 2007 m. sausio m\u0117n.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "Straipsnio \u017dem\u0117 ir pastatai \u012fsigijimo vert\u0117s suma\u017e\u0117jimas atsirado d\u0117l 2001 m. \u012fsigytos oficialios ECB pirmininko rezidencijos pardavimo 2007 m. sausio m\u0117n."
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "The decrease in \u201cLand and buildings\u201d at cost is due mainly to the sale in January 2007 of the official residence for Presidents of the ECB purchased in 2001.",
+    "sentence number": 55107,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 1080489,
+    "origin": "opensubs",
+    "ambig word": "land",
+    "reference": "\u017dem\u0117 yra vienintelis dalykas, d\u0117l kurio verta dirbti verta kovoti, verta mirti.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "\u017dem\u0117 yra vienintelis dalykas, d\u0117l kurio verta dirbti verta kovoti, verta mirti."
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "Land is the only thing in the world worth working for... worth fighting for, worth dying for.",
+    "sentence number": 80488,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 169591,
+    "origin": "eubooks",
+    "ambig word": "land",
+    "reference": "Soziale Stadt) koncepcijos pagrind\u0105. \u0160ios koncepcijos pradininke laikoma \u0160iaur\u0117s Reino-Vestfalijos \u017eem\u0117, kurioje \u012fsik\u016br\u0119s Dortmundas. 1993 m. prad\u0117ta vykdyti regionin\u0117 programa \u201eStadtteile mit besonderem Erneuerungsbedarf\u201c (vok.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "Soziale Stadt) koncepcijos pagrind\u0105. \u0160ios koncepcijos pradininke laikoma \u0160iaur\u0117s Reino-Vestfalijos \u0161alis, kurioje \u012fsik\u016br\u0119s Dortmundas. 1993 m. prad\u0117ta vykdyti regionin\u0117 programa \u201eStadtteile mit besonderem Erneuerungsbedarf\u201c (vok."
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "It is central to the concept of the \u2018Soziale Stadt\u2019 (Social Town) of which North Rhineland-Westphalia \u2013 the Land in which Dortmund lies \u2013 was a pioneer.",
+    "sentence number": 69590,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 1523812,
+    "origin": "opensubs",
+    "ambig word": "land",
+    "reference": "Ties\u0105 sakant, dauguma gen\u010di\u0173 verst\u0173si \u017eemdirbyste, kol \u017eem\u0117 b\u016bt\u0173 visi\u0161kai i\u0161sekinta ir tuomet, jie tiesiog... persikelt\u0173 toliau.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "Ties\u0105 sakant, dauguma gen\u010di\u0173 verst\u0173si \u017eemdirbyste, kol \u0161alis b\u016bt\u0173 visi\u0161kai i\u0161sekinta ir tuomet, jie tiesiog... persikelt\u0173 toliau."
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "Actually, a majority of tribes would farm land till it was stripped of its utility, then they'd just... move on.",
+    "sentence number": 23811,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 130308,
+    "origin": "eubooks",
+    "ambig word": "land",
+    "reference": "Dabar europie\u010diai suvartoja dukart daugiau gamtini\u0173 i\u0161tekli\u0173, nei gali duoti j\u0173 \u017eem\u0117 ir vanduo.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "Dabar europie\u010diai suvartoja dukart daugiau gamtini\u0173 i\u0161tekli\u0173, nei gali duoti j\u0173 \u0161alis ir vanduo."
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "Europeans are currently consuming twice as much as its land and sea can deliver in terms of natural resources.",
+    "sentence number": 30307,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 1596226,
+    "origin": "opensubs",
+    "ambig word": "land",
+    "reference": "Tad turime ateiti ir pasakyti: , Klausykite, tai m\u016bs\u0173 \u017eem\u0117\".",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "Tad turime ateiti ir pasakyti: , Klausykite, tai m\u016bs\u0173 \u0161alis\"."
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "So we have to come there and say, \"Listen, this is our land.",
+    "sentence number": 96225,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 154441,
+    "origin": "eubooks",
+    "ambig word": "land",
+    "reference": "T\u016bkstan\u010dius met\u0173 \u017eem\u0117 buvo u\u017e\u0161alusi po ledu, dabar kasmet kyla po kelis milimetrus.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "T\u016bkstan\u010dius met\u0173 \u0161alis buvo u\u017e\u0161alusi po ledu, dabar kasmet kyla po kelis milimetrus."
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "After being locked in by ice for thousands of years, land areas are now growing by several millimetres every year.",
+    "sentence number": 54440,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 1235365,
+    "origin": "opensubs",
+    "ambig word": "land",
+    "reference": "A\u0161 nor\u0117jau, kad ji suprast\u0173, k\u0105 rei\u0161kia taiki \u017eem\u0117... sukr\u0117sta \u017eem\u0117s dreb\u0117jimo ar karo. A\u0161 nor\u0117jau, kad ji suprast\u0173, kod\u0117l Dievas mums padeda",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "A\u0161 nor\u0117jau, kad ji suprast\u0173, k\u0105 rei\u0161kia taiki \u0161alis... sukr\u0117sta \u017eem\u0117s dreb\u0117jimo ar karo. A\u0161 nor\u0117jau, kad ji suprast\u0173, kod\u0117l Dievas mums padeda"
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "I wanted her to understand how a land so peaceful... could be shattered by earthquakes and war.",
+    "sentence number": 35364,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 1615662,
+    "origin": "opensubs",
+    "ambig word": "land",
+    "reference": "Netrukus po to, po neilgo laiko tarpo, \u017eem\u0117 ir j\u016bra sukurs didel\u0119 riaumojan\u010di\u0105 audr\u0105...",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "Netrukus po to, po neilgo laiko tarpo, \u0161alis ir j\u016bra sukurs didel\u0119 riaumojan\u010di\u0105 audr\u0105..."
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "Shortly afterwards, after not a long time. Will a Bulder income rising storm, over land and sea.",
+    "sentence number": 15661,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 134932,
+    "origin": "eubooks",
+    "ambig word": "land",
+    "reference": "D\u0117l \u0161io tikslo, \u012fvairov\u0117s poreikius, nes \u017eeldinimas gali ir pabloginti (nuskurdinti) bio-\u0161alys nar\u0117s tur\u0117t\u0173 u\u017etikrinti, kad \u017eem\u0117 b\u016bt\u0173 naudojama \u017eem\u0117s \u016bkiui login\u0119 \u012fvairov\u0119.(did\u017eiausias leid\u017eiamas med\u017ei\u0173 skai\u010dius hektare...).",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "D\u0117l \u0161io tikslo, \u012fvairov\u0117s poreikius, nes \u017eeldinimas gali ir pabloginti (nuskurdinti) bio-\u0161alys nar\u0117s tur\u0117t\u0173 u\u017etikrinti, kad \u0161alis b\u016bt\u0173 naudojama \u017eem\u0117s \u016bkiui login\u0119 \u012fvairov\u0119.(did\u017eiausias leid\u017eiamas med\u017ei\u0173 skai\u010dius hektare...)."
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "For this purpose, Member States shall ensure the continuation of the agricultural use of the land (max. number of trees planted per hectare\u2026).",
+    "sentence number": 34931,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 442732,
+    "origin": "eubooks",
+    "ambig word": "land",
+    "reference": "Biologi\u0161kai produktyvi \u017eem\u0117 apima ariam\u0105 \u017eem\u0119, ganyklas, mi\u0161kus ir \u017euvininkyst\u0119 (b).",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "Biologi\u0161kai produktyvi \u0161alis apima ariam\u0105 \u017eem\u0119, ganyklas, mi\u0161kus ir \u017euvininkyst\u0119 (b)."
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "Biologicaly productive land includes cropland, pasture, forests and fisheries (b).",
+    "sentence number": 42731,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 302676,
+    "origin": "eubooks",
+    "ambig word": "land",
+    "reference": "I\u0161 sprendimo d\u0117l pra\u0161ymo priimti prejudicin\u012f sprendim\u0105 matyti, kad \u012fvykus kvietimo teikti pasi\u016blymus konkursui 2003 m. ruden\u012f \u017demutin\u0117s Saksonijos federalin\u0117 \u017eem\u0117 sudar\u0117 su atsakove sutart\u012f d\u0117l G\u00f6ttingen-Rosdorf \u012fkalinimo \u012fstaigos statybos darb\u0173.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "\u0161alis",
+        "contrastive": "I\u0161 sprendimo d\u0117l pra\u0161ymo priimti prejudicin\u012f sprendim\u0105 matyti, kad \u012fvykus kvietimo teikti pasi\u016blymus konkursui 2003 m. ruden\u012f \u017demutin\u0117s Saksonijos federalin\u0117 \u0161alis sudar\u0117 su atsakove sutart\u012f d\u0117l G\u00f6ttingen-Rosdorf \u012fkalinimo \u012fstaigos statybos darb\u0173."
+      }
+    ],
+    "sense": "\u017eem\u0117",
+    "source": "It is apparent from the order for reference that in the autumn of 2003 Land Niedersachsen, following a public invitation to tender, awarded the defendant a contract for the structural work in the building of G\u00f6ttingen-Rosdorf prison.",
+    "sentence number": 2675,
+    "original translation": "\u017eem\u0117"
+  },
+  {
+    "global sentence number": 2279422,
+    "origin": "opensubs",
+    "ambig word": "communication",
+    "reference": "Ta\u010diau jis rei\u0161kia labai daug. Kalb\u0117ti \u010dia, \u0161iandien.... kaip senoji, ambicingoji a\u0161, kuri buvo tokia susi\u017eav\u0117jusi komunikacija.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "Ta\u010diau jis rei\u0161kia labai daug. Kalb\u0117ti \u010dia, \u0161iandien.... kaip senoji, ambicingoji a\u0161, kuri buvo tokia susi\u017eav\u0117jusi prane\u0161imas."
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "But it means so much... to be talking here, today.... like my old ambitious self who was so fascinated by communication.",
+    "sentence number": 79421,
+    "original translation": "komunikacija"
+  },
+  {
+    "global sentence number": 369725,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Pranc\u016bzija, pasitelkusi vietose i\u0161rinktus region\u0173 (RK) ir pilietin\u0117s visuomen\u0117s (EESRK) atstovus, savo pirmininkavimo laikotarpiu d\u0117s visas pastangas, kad komunikacija Europos regionuose vykt\u0173 decentralizuotai.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "Pranc\u016bzija, pasitelkusi vietose i\u0161rinktus region\u0173 (RK) ir pilietin\u0117s visuomen\u0117s (EESRK) atstovus, savo pirmininkavimo laikotarpiu d\u0117s visas pastangas, kad prane\u0161imas Europos regionuose vykt\u0173 decentralizuotai."
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "Drawing on the help of elected representatives, representatives of the regions (CoR) and of civil society (EESC), the French Presidency would do its utmost to ensure that communication was decentralised to Europe\u2019s regions.",
+    "sentence number": 69724,
+    "original translation": "komunikacija"
+  },
+  {
+    "global sentence number": 1522448,
+    "origin": "opensubs",
+    "ambig word": "communication",
+    "reference": "Tai gali b\u016bti bendravimas arba b\u016bdas k\u0105 nors i\u0161siai\u0161kinti.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "Tai gali b\u016bti prane\u0161imas arba b\u016bdas k\u0105 nors i\u0161siai\u0161kinti."
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "It can be a communication, it can be a way to work something out.",
+    "sentence number": 22447,
+    "original translation": "bendravimas"
+  },
+  {
+    "global sentence number": 378351,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "T 15 - \u0160vietimas ir kult\u016bra T 16 - Komunikacija T 18 - Laisv\u0117, saugumas ir teisingumas",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "T 15 - \u0160vietimas ir kult\u016bra T 16 - prane\u0161imas T 18 - Laisv\u0117, saugumas ir teisingumas"
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "T 15 - Education & culture T 16 - Communication T 18 - Freedom, security & justice ECONOMIC AND FINANCIAL AFFAIRS",
+    "sentence number": 78350,
+    "original translation": "komunikacija"
+  },
+  {
+    "global sentence number": 379032,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "\u2022 Audito metodika ir pagalba\u2022 Kokyb\u0117s kontrol\u0117\u2022 Komunikacija ir ataskaitos\u2022 Audito prie\u017ei\u016bra bei pagalba finansiniam ir (arba) atitikties auditui\u2022 Finansini\u0173 ataskait\u0173 ir pareig\u016bn\u0173 parei\u0161kim\u0173 patikimumas",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "\u2022 Audito metodika ir pagalba\u2022 Kokyb\u0117s kontrol\u0117\u2022 prane\u0161imas ir ataskaitos\u2022 Audito prie\u017ei\u016bra bei pagalba finansiniam ir (arba) atitikties auditui\u2022 Finansini\u0173 ataskait\u0173 ir pareig\u016bn\u0173 parei\u0161kim\u0173 patikimumas"
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "\u2022 Audit methodology and support \u2022 Quality control \u2022 Communication and reports \u2022 Audit supervision and support to financial compliance audit \u2022 Reliability of the accounts and of management representations",
+    "sentence number": 79031,
+    "original translation": "komunikacija"
+  },
+  {
+    "global sentence number": 223064,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Strukt\u016bruota komunikacija ir dialogas tarp Europos, nacionalini\u0173 ir vietos vald\u017eios institucij\u0173 leid\u017eia prognozuoti ir \u012fvertinti vienokiu ar kitokiu lygiu \u012fgyvendinam\u0173 priemoni\u0173 poveik\u012f.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "Strukt\u016bruota prane\u0161imas ir dialogas tarp Europos, nacionalini\u0173 ir vietos vald\u017eios institucij\u0173 leid\u017eia prognozuoti ir \u012fvertinti vienokiu ar kitokiu lygiu \u012fgyvendinam\u0173 priemoni\u0173 poveik\u012f."
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "Structured communication and dialogue between European, national and local governance levels makes it possible to anticipate and assess the impact of measures taken at one level on another level.",
+    "sentence number": 23063,
+    "original translation": "komunikacija"
+  },
+  {
+    "global sentence number": 183939,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Tam b\u016btina labai grie\u017eta organizacija ir geras iniciatoriaus ir kampanijos partneri\u0173 bei tarpinink\u0173 bendravimas.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "Tam b\u016btina labai grie\u017eta organizacija ir geras iniciatoriaus ir kampanijos partneri\u0173 bei tarpinink\u0173 prane\u0161imas."
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "This requires very strict organisation and good communication between the initiator and the campaign partners and mediators.",
+    "sentence number": 83938,
+    "original translation": "bendravimas"
+  },
+  {
+    "global sentence number": 380697,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Su komunikacija ir parama susijusios i\u0161laidos \u2013 Energetikos ir transporto generalinis direktoratas",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "Su prane\u0161imas ir parama susijusios i\u0161laidos \u2013 Energetikos ir transporto generalinis direktoratas"
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "Communication and support costs Energy and Transport DGRunning costs of the Executive Agency",
+    "sentence number": 80696,
+    "original translation": "komunikacija"
+  },
+  {
+    "global sentence number": 251263,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Komunikacija yra neatskiriama ECB pinig\u0173politikos ir kit\u0173 jo u\u017eduo\u010di\u0173 vykdymo dalis.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "prane\u0161imas yra neatskiriama ECB pinig\u0173politikos ir kit\u0173 jo u\u017eduo\u010di\u0173 vykdymo dalis."
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "Communication is an integral part of the ECB\u2019smonetary policy and the performance of itsother tasks.",
+    "sentence number": 51262,
+    "original translation": "komunikacija"
+  },
+  {
+    "global sentence number": 222541,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Da\u017enai \u0161ie miestai pirmieji pradeda kurti priemones, susijusias su miest\u0173 atgaivinimu, mi\u0161ria nuosavybe ir nuoma, integruotomis institucijomis ir tarnybomis, komunikacija ir dalyvavimu.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "Da\u017enai \u0161ie miestai pirmieji pradeda kurti priemones, susijusias su miest\u0173 atgaivinimu, mi\u0161ria nuosavybe ir nuoma, integruotomis institucijomis ir tarnybomis, prane\u0161imas ir dalyvavimu."
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "Such cities are often pioneers in the development of measures relating to urban regeneration, mixed ownership and tenancy, inclusive institutions and services, and communication and participation, which can contribute to a better living environment for an increasingly diverse population.",
+    "sentence number": 22540,
+    "original translation": "komunikacija"
+  },
+  {
+    "global sentence number": 211095,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Bendravimas gimt\u0105ja kalba rei\u0161kia, kad \u017emogus turi i\u0161manyti \u017eodyn\u0105, funkcin\u0119 gramatik\u0105 ir kalbos funkcijas.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "prane\u0161imas gimt\u0105ja kalba rei\u0161kia, kad \u017emogus turi i\u0161manyti \u017eodyn\u0105, funkcin\u0119 gramatik\u0105 ir kalbos funkcijas."
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "Communication in the mother tongue requires an individual to have knowledge of vocabulary, functional grammar and the functions of language.",
+    "sentence number": 11094,
+    "original translation": "bendravimas"
+  },
+  {
+    "global sentence number": 31725,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "\u0160vietimas ir kult\u016bra (T.15) Komunikacija (T.16) Laisv\u0117s, saugumo ir teisingumo erdv\u0117 (T.18)",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "\u0160vietimas ir kult\u016bra (T.15) prane\u0161imas (T.16) Laisv\u0117s, saugumo ir teisingumo erdv\u0117 (T.18)"
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "Education and culture (T.15) Communication (T.16) Area of freedom, security and justice (T.18)",
+    "sentence number": 31724,
+    "original translation": "komunikacija"
+  },
+  {
+    "global sentence number": 440722,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Taip pat akivaizdu, kad vairuotoj\u0173 ir j\u0173 darbdavi\u0173 bei vadov\u0173 arba, savaranki\u0161kai dirban\u010di\u0173 vairuotoj\u0173 atveju, juos samdan\u010di\u0173 \u012fmoni\u0173 bendravimas DSS klausimais yra nepakankamas.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "Taip pat akivaizdu, kad vairuotoj\u0173 ir j\u0173 darbdavi\u0173 bei vadov\u0173 arba, savaranki\u0161kai dirban\u010di\u0173 vairuotoj\u0173 atveju, juos samdan\u010di\u0173 \u012fmoni\u0173 prane\u0161imas DSS klausimais yra nepakankamas."
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "And there appears to be a lack of communication on OSH between drivers and their employers and managers or, in the case of owner-drivers, the companies that contract them.",
+    "sentence number": 40721,
+    "original translation": "bendravimas"
+  },
+  {
+    "global sentence number": 207594,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Bendravimas internetu ir reklama turi b\u016bti kalbiniu po\u017ei\u016briu \u012fvairinama, o prane\u0161imai \u2013 kruop\u0161\u010diai pritaikyti tikslinei auditorijai.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "prane\u0161imas internetu ir reklama turi b\u016bti kalbiniu po\u017ei\u016briu \u012fvairinama, o prane\u0161imai \u2013 kruop\u0161\u010diai pritaikyti tikslinei auditorijai."
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "Internet communication and advertising need to be linguistically diversified and messages have to be carefully adapted to target audiences.",
+    "sentence number": 7593,
+    "original translation": "bendravimas"
+  },
+  {
+    "global sentence number": 207529,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Geresnis darbuotoj\u0173 bendravimas padidina darbo na\u0161um\u0105, kokyb\u0119 ir saug\u0105, o tai ypa\u010d svarbu gamyboje.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "Geresnis darbuotoj\u0173 prane\u0161imas padidina darbo na\u0161um\u0105, kokyb\u0119 ir saug\u0105, o tai ypa\u010d svarbu gamyboje."
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "Better communication among workers increases efficiency, quality and safety, which are key parameters in a production area.",
+    "sentence number": 7528,
+    "original translation": "bendravimas"
+  },
+  {
+    "global sentence number": 77541,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Padaryta tam tikra pa\u017eanga ir vykdant septynias prioritetines u\u017eduotis tokiose daugia\u0161al\u0117s politikos srityse: \u0161vietimas ir mokymas; moksliniai tyrimai ir technologij\u0173 pl\u0117tra; ekonomin\u0117s ir finansavimo priemon\u0117s; komunikacija, suinteresuot\u0173j\u0173 \u0161ali\u0173 telkimas ir s\u0117kming\u0173 projekt\u0173 skai\u010diaus didinimas; \u012fgyvendinimas ir pa\u017eangos steb\u0117sena.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "Padaryta tam tikra pa\u017eanga ir vykdant septynias prioritetines u\u017eduotis tokiose daugia\u0161al\u0117s politikos srityse: \u0161vietimas ir mokymas; moksliniai tyrimai ir technologij\u0173 pl\u0117tra; ekonomin\u0117s ir finansavimo priemon\u0117s; prane\u0161imas, suinteresuot\u0173j\u0173 \u0161ali\u0173 telkimas ir s\u0117kming\u0173 projekt\u0173 skai\u010diaus didinimas; \u012fgyvendinimas ir pa\u017eangos steb\u0117sena."
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "As in the case of the seven priority challenges, some progress has been recorded in the following intersectoral policies: education and training; research and development; economic and financial instruments; communication, mobilising actors and multiplying success; and producing and monitoring results.",
+    "sentence number": 77540,
+    "original translation": "komunikacija"
+  },
+  {
+    "global sentence number": 440661,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "B\u016btina komunikacija tarp technin\u0117s prie\u017ei\u016bros ir gamybos darbuotoj\u0173, taip pat tarp \u012fvairi\u0173 rangov\u0173.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "B\u016btina prane\u0161imas tarp technin\u0117s prie\u017ei\u016bros ir gamybos darbuotoj\u0173, taip pat tarp \u012fvairi\u0173 rangov\u0173."
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "Communication between maintenance and production sta, as well as between the different contractors involved, is crucial.",
+    "sentence number": 40660,
+    "original translation": "komunikacija"
+  },
+  {
+    "global sentence number": 393258,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "I PRIEDAS I\u0160SAMI VYKDOM\u0172J\u0172 \u012eSTAIG\u0172 VALDOM\u0172 PROGRAM\u0172 IR BIUD\u017dET\u0172 AP\u017dVALGAII PRIEDAS VYKDOM\u0172J\u0172 \u012eSTAIG\u0172 IR REGULIAVIMO AGENT\u016aR\u0172 SKIRTUMAIIII PRIEDAS SU SUPAPRASTINIMU, KOMUNIKACIJA, MATOMUMU IR REZULTAT\u0172 SKLAIDA SUSIJUSIOS VYKDYTOS PRIEMON\u0116S",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "I PRIEDAS I\u0160SAMI VYKDOM\u0172J\u0172 \u012eSTAIG\u0172 VALDOM\u0172 PROGRAM\u0172 IR BIUD\u017dET\u0172 AP\u017dVALGAII PRIEDAS VYKDOM\u0172J\u0172 \u012eSTAIG\u0172 IR REGULIAVIMO AGENT\u016aR\u0172 SKIRTUMAIIII PRIEDAS SU SUPAPRASTINIMU, prane\u0161imas, MATOMUMU IR REZULTAT\u0172 SKLAIDA SUSIJUSIOS VYKDYTOS PRIEMON\u0116S"
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "ANNEX I DETAILED OVERVIEW OF PROGRAMMES AND BUDGETS MANAGED BY EXECUTIVE AGENCIESANNEX II DIFFERENCES BETWEEN EXECUTIVE AND REGULATORY AGENCIESANNEX III MEASURES TAKEN IN RESPECT OF SIMPLIFICATION, COMMUNICATION, VISIBILITY AND DISSEMINATION OF RESULTS",
+    "sentence number": 93257,
+    "original translation": "komunikacija"
+  },
+  {
+    "global sentence number": 201868,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Bendravimas \u012fmon\u0117je suteikia galimyb\u0119 sulaukti darbuotoj\u0173 atsiliepim\u0173 ir \u012fvertinti, ar veiksmai yra s\u0117kmingi.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "prane\u0161imas \u012fmon\u0117je suteikia galimyb\u0119 sulaukti darbuotoj\u0173 atsiliepim\u0173 ir \u012fvertinti, ar veiksmai yra s\u0117kmingi."
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "Internal communication offers the opportunity for feedback from employeesand can help evaluate the successof different actions.",
+    "sentence number": 1867,
+    "original translation": "bendravimas"
+  },
+  {
+    "global sentence number": 269969,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Sprend\u017eiant problemas tolimesniuose ir ma\u017eiau pa\u017e\u012fstamuose regionuose b\u016btinas geresnis supratimas ir geresnis bendravimas.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "Sprend\u017eiant problemas tolimesniuose ir ma\u017eiau pa\u017e\u012fstamuose regionuose b\u016btinas geresnis supratimas ir geresnis prane\u0161imas."
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "Dealing with problems that are more distant and more foreign requires better understanding and communication.",
+    "sentence number": 69968,
+    "original translation": "bendravimas"
+  },
+  {
+    "global sentence number": 211110,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Bendravimas u\u017esienio kalbomis reikalauja ir toki\u0173 \u012fg\u016bd\u017ei\u0173, kaip antai tarpininkavimas ir tarpkult\u016brinis supratimas.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "prane\u0161imas u\u017esienio kalbomis reikalauja ir toki\u0173 \u012fg\u016bd\u017ei\u0173, kaip antai tarpininkavimas ir tarpkult\u016brinis supratimas."
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "Communication in foreign languages also calls for skills such as mediation and intercultural understanding.",
+    "sentence number": 11109,
+    "original translation": "bendravimas"
+  },
+  {
+    "global sentence number": 170310,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Informavimas ir komunikacija visada buvo vienos pagrindini\u0173 Komisijos priemoni\u0173 naudojant strukt\u016brini\u0173 fond\u0173 l\u0117\u0161as valstyb\u0117se nar\u0117se.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "Informavimas ir prane\u0161imas visada buvo vienos pagrindini\u0173 Komisijos priemoni\u0173 naudojant strukt\u016brini\u0173 fond\u0173 l\u0117\u0161as valstyb\u0117se nar\u0117se."
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "Information and communication have always been among the key instruments used by the Commission in implementing the Structural Funds in the Member States.",
+    "sentence number": 70309,
+    "original translation": "komunikacija"
+  },
+  {
+    "global sentence number": 254583,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Komunikacija ECB siekiama didinti visuomen\u0117s supratim\u0105 apie ECB sprendimus.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "prane\u0161imas ECB siekiama didinti visuomen\u0117s supratim\u0105 apie ECB sprendimus."
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "Communication at the ECB aims to enhance the public\u2019s understanding of the ECB\u2019s decisions.",
+    "sentence number": 54582,
+    "original translation": "komunikacija"
+  },
+  {
+    "global sentence number": 158579,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Komunikacija ir informacijos pateikimas turi b\u016bti kruop\u0161\u010diai planuojami, jie b\u016btini visais strukt\u016brin\u0119 param\u0105 gaunan\u010dios programos etapais.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "prane\u0161imas ir informacijos pateikimas turi b\u016bti kruop\u0161\u010diai planuojami, jie b\u016btini visais strukt\u016brin\u0119 param\u0105 gaunan\u010dios programos etapais."
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "Communication activities must be prepared carefully and accompany all phases of the life of a programme receiving structural funding.",
+    "sentence number": 58578,
+    "original translation": "komunikacija"
+  },
+  {
+    "global sentence number": 114264,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Per pokalb\u012f labai svarbu \u017eodinis ir ne\u017eodinis bendravimas su kandidatu.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "prane\u0161imas",
+        "contrastive": "Per pokalb\u012f labai svarbu \u017eodinis ir ne\u017eodinis prane\u0161imas su kandidatu."
+      }
+    ],
+    "sense": "komunikacija_bendravimas",
+    "source": "Verbal and nonverbal communication are very important during the job interview.",
+    "sentence number": 14263,
+    "original translation": "bendravimas"
+  },
+  {
+    "global sentence number": 345776,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Ta\u010diau toks prane\u0161imas neprivalomas valstybini\u0173 v\u0117liav\u0173 at\u017evilgiu. < \u2026 > 6sexies straipsnis",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "komunikacija",
+        "contrastive": "Ta\u010diau toks komunikacija neprivalomas valstybini\u0173 v\u0117liav\u0173 at\u017evilgiu. < \u2026 > 6sexies straipsnis"
+      },
+      {
+        "type": "word_sense",
+        "replacement": "bendravimas",
+        "contrastive": "Ta\u010diau toks bendravimas neprivalomas valstybini\u0173 v\u0117liav\u0173 at\u017evilgiu. < \u2026 > 6sexies straipsnis"
+      }
+    ],
+    "sense": "prane\u0161imas",
+    "source": "Nevertheless such communication is not obligatory in respect of flags of States. \u2026",
+    "sentence number": 45775,
+    "original translation": "prane\u0161imas"
+  },
+  {
+    "global sentence number": 340622,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "\u2014 nei\u0161samiai apra\u0161o 1999 m. gegu\u017e\u0117s 26 d. pra\u0161ym\u0105 pateikti informacij\u0105, nes nepripa\u017e\u012fsta, jog bir\u017eelio 15 d. ataskaita ir 1999 m. bir\u017eelio 23 d. prane\u0161imas buvo pateikti savanori\u0161kai,",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "komunikacija",
+        "contrastive": "\u2014 nei\u0161samiai apra\u0161o 1999 m. gegu\u017e\u0117s 26 d. pra\u0161ym\u0105 pateikti informacij\u0105, nes nepripa\u017e\u012fsta, jog bir\u017eelio 15 d. ataskaita ir 1999 m. bir\u017eelio 23 d. komunikacija buvo pateikti savanori\u0161kai,"
+      },
+      {
+        "type": "word_sense",
+        "replacement": "bendravimas",
+        "contrastive": "\u2014 nei\u0161samiai apra\u0161o 1999 m. gegu\u017e\u0117s 26 d. pra\u0161ym\u0105 pateikti informacij\u0105, nes nepripa\u017e\u012fsta, jog bir\u017eelio 15 d. ataskaita ir 1999 m. bir\u017eelio 23 d. bendravimas buvo pateikti savanori\u0161kai,"
+      }
+    ],
+    "sense": "prane\u0161imas",
+    "source": "\u2014 provides an incomplete description of a request for information of 26 May 1999, in such a way that it disregards the fact that the report of 15 June and the communication of 23 June 1999 were provided voluntarily;",
+    "sentence number": 40621,
+    "original translation": "prane\u0161imas"
+  },
+  {
+    "global sentence number": 344168,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "IV \u2014 Komisijos prane\u0161imas apie bendros ekonomin\u0117s svarbos paslaugas Europoje",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "komunikacija",
+        "contrastive": "IV \u2014 Komisijos komunikacija apie bendros ekonomin\u0117s svarbos paslaugas Europoje"
+      },
+      {
+        "type": "word_sense",
+        "replacement": "bendravimas",
+        "contrastive": "IV \u2014 Komisijos bendravimas apie bendros ekonomin\u0117s svarbos paslaugas Europoje"
+      }
+    ],
+    "sense": "prane\u0161imas",
+    "source": "IV \u2014 Communication from the Commission on services of general interest in Europe",
+    "sentence number": 44167,
+    "original translation": "prane\u0161imas"
+  },
+  {
+    "global sentence number": 319908,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "73 \u2014 2001 m. liepos 26 d. Komisijos prane\u0161imas d\u0117l valstyb\u0117s pagalbos, susijusios su per didel\u0117mis i\u0161laidomis, analiz\u0117s metodologijos.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "komunikacija",
+        "contrastive": "73 \u2014 2001 m. liepos 26 d. Komisijos komunikacija d\u0117l valstyb\u0117s pagalbos, susijusios su per didel\u0117mis i\u0161laidomis, analiz\u0117s metodologijos."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "bendravimas",
+        "contrastive": "73 \u2014 2001 m. liepos 26 d. Komisijos bendravimas d\u0117l valstyb\u0117s pagalbos, susijusios su per didel\u0117mis i\u0161laidomis, analiz\u0117s metodologijos."
+      }
+    ],
+    "sense": "prane\u0161imas",
+    "source": "73 \u2014 Commission communication relating to the methodology for analysing State aid linked to stranded costs, adopted on 26 July 2001.",
+    "sentence number": 19907,
+    "original translation": "prane\u0161imas"
+  },
+  {
+    "global sentence number": 256234,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "\u0160is ra\u0161ytinis prane\u0161imas siun\u010diamas pirmininkui likus pakankamai laiko iki pos\u0117d\u017eio.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "komunikacija",
+        "contrastive": "\u0160is ra\u0161ytinis komunikacija siun\u010diamas pirmininkui likus pakankamai laiko iki pos\u0117d\u017eio."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "bendravimas",
+        "contrastive": "\u0160is ra\u0161ytinis bendravimas siun\u010diamas pirmininkui likus pakankamai laiko iki pos\u0117d\u017eio."
+      }
+    ],
+    "sense": "prane\u0161imas",
+    "source": "This written communication shall be sent to the President in due time before the meeting.",
+    "sentence number": 56233,
+    "original translation": "prane\u0161imas"
+  },
+  {
+    "global sentence number": 340645,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "1999 m. bir\u017eelio 23 d. prane\u0161imas, kuris papildo 1999 m. bir\u017eelio 15 d. ataskait\u0105, taip pat buvo pateiktas BASF iniciatyva.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "komunikacija",
+        "contrastive": "1999 m. bir\u017eelio 23 d. komunikacija, kuris papildo 1999 m. bir\u017eelio 15 d. ataskait\u0105, taip pat buvo pateiktas BASF iniciatyva."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "bendravimas",
+        "contrastive": "1999 m. bir\u017eelio 23 d. bendravimas, kuris papildo 1999 m. bir\u017eelio 15 d. ataskait\u0105, taip pat buvo pateiktas BASF iniciatyva."
+      }
+    ],
+    "sense": "prane\u0161imas",
+    "source": "The communication of 23 June 1999, which constituted a supplement to the report of 15 June 1999, was also provided at BASF\u2019s initiative.",
+    "sentence number": 40644,
+    "original translation": "prane\u0161imas"
+  },
+  {
+    "global sentence number": 327574,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Toks i\u0161ankstinis prane\u0161imas pakenkt\u0173 \u0161iuo reglamentu nustatyt\u0173 l\u0117\u0161\u0173 ir ekonomini\u0173 i\u0161tekli\u0173 \u012f\u0161aldymo priemoni\u0173 veiksmingumui.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "komunikacija",
+        "contrastive": "Toks i\u0161ankstinis komunikacija pakenkt\u0173 \u0161iuo reglamentu nustatyt\u0173 l\u0117\u0161\u0173 ir ekonomini\u0173 i\u0161tekli\u0173 \u012f\u0161aldymo priemoni\u0173 veiksmingumui."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "bendravimas",
+        "contrastive": "Toks i\u0161ankstinis bendravimas pakenkt\u0173 \u0161iuo reglamentu nustatyt\u0173 l\u0117\u0161\u0173 ir ekonomini\u0173 i\u0161tekli\u0173 \u012f\u0161aldymo priemoni\u0173 veiksmingumui."
+      }
+    ],
+    "sense": "prane\u0161imas",
+    "source": "Such prior communication would be liable to jeopardise the effectiveness of the freezing of funds and resources imposed by that regulation.",
+    "sentence number": 27573,
+    "original translation": "prane\u0161imas"
+  },
+  {
+    "global sentence number": 340740,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Tod\u0117l, nepaisant klausimo, ar \u0161is prane\u0161imas buvo atsakymas \u012f 1999 m. bir\u017eelio 22 d. pra\u0161ym\u0105 pateikti informacij\u0105, \u012f j\u012f nebuvo galima atsi\u017evelgti taikant 1996 m. Prane\u0161im\u0105 d\u0117l bendradarbiavimo.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "komunikacija",
+        "contrastive": "Tod\u0117l, nepaisant klausimo, ar \u0161is komunikacija buvo atsakymas \u012f 1999 m. bir\u017eelio 22 d. pra\u0161ym\u0105 pateikti informacij\u0105, \u012f j\u012f nebuvo galima atsi\u017evelgti taikant 1996 m. Prane\u0161im\u0105 d\u0117l bendradarbiavimo."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "bendravimas",
+        "contrastive": "Tod\u0117l, nepaisant klausimo, ar \u0161is bendravimas buvo atsakymas \u012f 1999 m. bir\u017eelio 22 d. pra\u0161ym\u0105 pateikti informacij\u0105, \u012f j\u012f nebuvo galima atsi\u017evelgti taikant 1996 m. Prane\u0161im\u0105 d\u0117l bendradarbiavimo."
+      }
+    ],
+    "sense": "prane\u0161imas",
+    "source": "Consequently, whether or not that communication was a response to a request for information dated 22 June 1999, it could not be taken into consideration under the 1996 Leniency Notice.",
+    "sentence number": 40739,
+    "original translation": "prane\u0161imas"
+  },
+  {
+    "global sentence number": 319971,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Toks prane\u0161imas pateiktas 2000 m. rugpj\u016b\u010dio 30 d. lai\u0161ku, kuriame Nyderlandai konkre\u010diai atkreip\u0117 Komisijos d\u0117mes\u012f \u012f \u0161io projekto teksto 9 straipsn\u012f.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "komunikacija",
+        "contrastive": "Toks komunikacija pateiktas 2000 m. rugpj\u016b\u010dio 30 d. lai\u0161ku, kuriame Nyderlandai konkre\u010diai atkreip\u0117 Komisijos d\u0117mes\u012f \u012f \u0161io projekto teksto 9 straipsn\u012f."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "bendravimas",
+        "contrastive": "Toks bendravimas pateiktas 2000 m. rugpj\u016b\u010dio 30 d. lai\u0161ku, kuriame Nyderlandai konkre\u010diai atkreip\u0117 Komisijos d\u0117mes\u012f \u012f \u0161io projekto teksto 9 straipsn\u012f."
+      }
+    ],
+    "sense": "prane\u0161imas",
+    "source": "That communication is said to have taken the form of the letter of 30 August 2000, in which the Netherlands specifically drew the Commission\u2019s attention to the text of Article 9 of that draft.",
+    "sentence number": 19970,
+    "original translation": "prane\u0161imas"
+  },
+  {
+    "global sentence number": 340623,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "\u2014 klaidingai nusprend\u0117, kad jos 1999 m. liepos 16 d. prane\u0161imas yra atsakymas \u012f 1999 m. bir\u017eelio 22 d. pra\u0161ym\u0105 pateikti informacij\u0105.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "komunikacija",
+        "contrastive": "\u2014 klaidingai nusprend\u0117, kad jos 1999 m. liepos 16 d. komunikacija yra atsakymas \u012f 1999 m. bir\u017eelio 22 d. pra\u0161ym\u0105 pateikti informacij\u0105."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "bendravimas",
+        "contrastive": "\u2014 klaidingai nusprend\u0117, kad jos 1999 m. liepos 16 d. bendravimas yra atsakymas \u012f 1999 m. bir\u017eelio 22 d. pra\u0161ym\u0105 pateikti informacij\u0105."
+      }
+    ],
+    "sense": "prane\u0161imas",
+    "source": "\u2014 wrongly considered that BASF\u2019s communication of 16 July 1999 was a response to a request for information of 22 June 1999.",
+    "sentence number": 40622,
+    "original translation": "prane\u0161imas"
+  },
+  {
+    "global sentence number": 336975,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "\u0160iuo at\u017evilgiu ie\u0161kov\u0117 gin\u010dija Komisijos argument\u0105, kad ex post patikslinimai kenkia saugumui, kuris b\u016btinas \u012fmon\u0117ms, investuojan\u010dioms siekiant suma\u017einti emisijas (2004 m. liepos 7 d. Komisijos prane\u0161imas, p. 8).",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "komunikacija",
+        "contrastive": "\u0160iuo at\u017evilgiu ie\u0161kov\u0117 gin\u010dija Komisijos argument\u0105, kad ex post patikslinimai kenkia saugumui, kuris b\u016btinas \u012fmon\u0117ms, investuojan\u010dioms siekiant suma\u017einti emisijas (2004 m. liepos 7 d. Komisijos komunikacija, p. 8)."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "bendravimas",
+        "contrastive": "\u0160iuo at\u017evilgiu ie\u0161kov\u0117 gin\u010dija Komisijos argument\u0105, kad ex post patikslinimai kenkia saugumui, kuris b\u016btinas \u012fmon\u0117ms, investuojan\u010dioms siekiant suma\u017einti emisijas (2004 m. liepos 7 d. Komisijos bendravimas, p. 8)."
+      }
+    ],
+    "sense": "prane\u0161imas",
+    "source": "The applicant contests the Commission\u2019s argument that the expost adjustments are detrimental to the certainty that businesses need in order to make investments that lead to reductions of emissions (Commission Communication of 7 July 2004, pp. 7 and 8).",
+    "sentence number": 36974,
+    "original translation": "prane\u0161imas"
+  },
+  {
+    "global sentence number": 326899,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "169), 6 straipsnio i\u0161ai\u0161kinimas \u2014 S\u0105vokos \u201e\u012ftraukimas \u012f apskait\u0105\u201c ir \u201eprane\u0161imas apie muito sum\u0105 skolininkui\u201c \u2014 I\u0161ankstinis muito sumos \u012ftraukimas \u012f apskait\u0105 \u2014 Skolos i\u0161ie\u0161kojimas.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "komunikacija",
+        "contrastive": "169), 6 straipsnio i\u0161ai\u0161kinimas \u2014 S\u0105vokos \u201e\u012ftraukimas \u012f apskait\u0105\u201c ir \u201ekomunikacija apie muito sum\u0105 skolininkui\u201c \u2014 I\u0161ankstinis muito sumos \u012ftraukimas \u012f apskait\u0105 \u2014 Skolos i\u0161ie\u0161kojimas."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "bendravimas",
+        "contrastive": "169), 6 straipsnio i\u0161ai\u0161kinimas \u2014 S\u0105vokos \u201e\u012ftraukimas \u012f apskait\u0105\u201c ir \u201ebendravimas apie muito sum\u0105 skolininkui\u201c \u2014 I\u0161ankstinis muito sumos \u012ftraukimas \u012f apskait\u0105 \u2014 Skolos i\u0161ie\u0161kojimas."
+      }
+    ],
+    "sense": "prane\u0161imas",
+    "source": "1)) \u2014 Concepts of \u2018entry in the accounts\u2019 and \u2018communication\u2019 of the amount of duty to the debtor \u2014 Prior entry in the accounts of the amount of the customs debt \u2014 Recovery of the debt.",
+    "sentence number": 26898,
+    "original translation": "prane\u0161imas"
+  },
+  {
+    "global sentence number": 345167,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "IV \u2014 Komisijos prane\u0161imas apie bendros ekonomin\u0117s svarbos paslaugas Europoje ..",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "komunikacija",
+        "contrastive": "IV \u2014 Komisijos komunikacija apie bendros ekonomin\u0117s svarbos paslaugas Europoje .."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "bendravimas",
+        "contrastive": "IV \u2014 Komisijos bendravimas apie bendros ekonomin\u0117s svarbos paslaugas Europoje .."
+      }
+    ],
+    "sense": "prane\u0161imas",
+    "source": "IV \u2014 Communication from the Commission on services of general interest in Europe ................................................................",
+    "sentence number": 45166,
+    "original translation": "prane\u0161imas"
+  },
+  {
+    "global sentence number": 328817,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Kaip skund\u017eiamo sprendimo Yusuf ir Al Barakaat 308 punkte nurod\u0117 Pirmosios instancijos teismas, toks i\u0161ankstinis prane\u0161imas pakenkt\u0173 \u0161iuo reglamentu nustatyt\u0173 l\u0117\u0161\u0173 ir ekonomini\u0173 i\u0161tekli\u0173 \u012f\u0161aldymo priemoni\u0173 veiksmingumui.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "komunikacija",
+        "contrastive": "Kaip skund\u017eiamo sprendimo Yusuf ir Al Barakaat 308 punkte nurod\u0117 Pirmosios instancijos teismas, toks i\u0161ankstinis komunikacija pakenkt\u0173 \u0161iuo reglamentu nustatyt\u0173 l\u0117\u0161\u0173 ir ekonomini\u0173 i\u0161tekli\u0173 \u012f\u0161aldymo priemoni\u0173 veiksmingumui."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "bendravimas",
+        "contrastive": "Kaip skund\u017eiamo sprendimo Yusuf ir Al Barakaat 308 punkte nurod\u0117 Pirmosios instancijos teismas, toks i\u0161ankstinis bendravimas pakenkt\u0173 \u0161iuo reglamentu nustatyt\u0173 l\u0117\u0161\u0173 ir ekonomini\u0173 i\u0161tekli\u0173 \u012f\u0161aldymo priemoni\u0173 veiksmingumui."
+      }
+    ],
+    "sense": "prane\u0161imas",
+    "source": "As the Court of First Instance stated in paragraph 308 of Yusuf and Al Barakaat, such prior communication would be liable to jeopardise the effectiveness of the freezing of funds and resources imposed by that regulation.",
+    "sentence number": 28816,
+    "original translation": "prane\u0161imas"
+  },
+  {
+    "global sentence number": 244332,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Prane\u0161imas apie Tarybos pozicij\u0105 Termin\u0173 prat\u0119simas Tarybos pozicijos perdavimas atsakingam komitetui ir nagrin\u0117jimo atsakingame komitete proced\u016bra",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "komunikacija",
+        "contrastive": "komunikacija apie Tarybos pozicij\u0105 Termin\u0173 prat\u0119simas Tarybos pozicijos perdavimas atsakingam komitetui ir nagrin\u0117jimo atsakingame komitete proced\u016bra"
+      },
+      {
+        "type": "word_sense",
+        "replacement": "bendravimas",
+        "contrastive": "bendravimas apie Tarybos pozicij\u0105 Termin\u0173 prat\u0119simas Tarybos pozicijos perdavimas atsakingam komitetui ir nagrin\u0117jimo atsakingame komitete proced\u016bra"
+      }
+    ],
+    "sense": "prane\u0161imas",
+    "source": "Communication of the Council's position Extension of time limits Referral to and procedure in the committee responsible",
+    "sentence number": 44331,
+    "original translation": "prane\u0161imas"
+  },
+  {
+    "global sentence number": 337158,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Pirmosios instancijos teismas priduria, kad 2004 m. liepos 7 d. Komisijos prane\u0161imas, kuris pakartoja ir papildo gin\u010dijamo sprendimo, priimto t\u0105 pa\u010di\u0105 dien\u0105, motyvus, ir b\u016btent prie\u017eastis, d\u0117l kuri\u0173 Komisija gin\u010dijamus ex post patikslinimus laiko",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "komunikacija",
+        "contrastive": "Pirmosios instancijos teismas priduria, kad 2004 m. liepos 7 d. Komisijos komunikacija, kuris pakartoja ir papildo gin\u010dijamo sprendimo, priimto t\u0105 pa\u010di\u0105 dien\u0105, motyvus, ir b\u016btent prie\u017eastis, d\u0117l kuri\u0173 Komisija gin\u010dijamus ex post patikslinimus laiko"
+      },
+      {
+        "type": "word_sense",
+        "replacement": "bendravimas",
+        "contrastive": "Pirmosios instancijos teismas priduria, kad 2004 m. liepos 7 d. Komisijos bendravimas, kuris pakartoja ir papildo gin\u010dijamo sprendimo, priimto t\u0105 pa\u010di\u0105 dien\u0105, motyvus, ir b\u016btent prie\u017eastis, d\u0117l kuri\u0173 Komisija gin\u010dijamus ex post patikslinimus laiko"
+      }
+    ],
+    "sense": "prane\u0161imas",
+    "source": "The Commission Communication of 7 July 2004, which repeats and supplements the grounds of the contested decision adopted on the same day, in particular the reasons why the Commission considers the expost adjustments at issue to be",
+    "sentence number": 37157,
+    "original translation": "prane\u0161imas"
+  },
+  {
+    "global sentence number": 340647,
+    "origin": "eubooks",
+    "ambig word": "communication",
+    "reference": "Be to, 1999 m. liepos 16 d. prane\u0161imas taip pat papild\u0117 per 1999 m. gegu\u017e\u0117s 17 d. susitikim\u0105 papra\u0161ytus \u012frodymus ir turi b\u016bti laikomas savanori\u0161ku.",
+    "errors": [
+      {
+        "type": "word_sense",
+        "replacement": "komunikacija",
+        "contrastive": "Be to, 1999 m. liepos 16 d. komunikacija taip pat papild\u0117 per 1999 m. gegu\u017e\u0117s 17 d. susitikim\u0105 papra\u0161ytus \u012frodymus ir turi b\u016bti laikomas savanori\u0161ku."
+      },
+      {
+        "type": "word_sense",
+        "replacement": "bendravimas",
+        "contrastive": "Be to, 1999 m. liepos 16 d. bendravimas taip pat papild\u0117 per 1999 m. gegu\u017e\u0117s 17 d. susitikim\u0105 papra\u0161ytus \u012frodymus ir turi b\u016bti laikomas savanori\u0161ku."
+      }
+    ],
+    "sense": "prane\u0161imas",
+    "source": "In addition, the communication of 16 July 1999 also supplements the evidence requested at the meeting of 17 May 1999 and must therefore be regarded as voluntary.",
+    "sentence number": 40646,
+    "original translation": "prane\u0161imas"
+  }
+]
