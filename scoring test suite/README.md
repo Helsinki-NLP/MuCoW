@@ -1,6 +1,6 @@
 # MuCoW scoring test suite
 
-The MUCOW scoring test suite comprises 11 language pairs having as target language English, automatically harvested from different parallel corpora (books, eubooks, europarl, multiun, newscomm, opensubs, tatoeba, ted).
+The MuCoW scoring test suite comprises 11 language pairs having as target language English, automatically harvested from different parallel corpora (books, eubooks, europarl, multiun, newscomm, opensubs, tatoeba, ted).
 
 We built this variant to all to-English translation directions that were part of the Conference of Machine Translation (WMT) news translation task over the last years, namely Czech-> English (CS-EN), German->English (DE-EN), Spanish->English (ES-EN), Estonian->English (ET-EN), Finnish->English (FI-EN), French->English (FR-EN), Lithuanian-> English (LT-EN), Latvian-> English (LV-EN), Romanian->English (RO-EN), Russian->English (RU-EN) and Turkish->English (TR-EN).
 
