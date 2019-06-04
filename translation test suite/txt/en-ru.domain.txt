@@ -107,6 +107,8 @@ host	хозяин	out	3	7
 host	хост	out	0	6
 iris	диафрагма	out	0	6
 iris	ирис	out	0	5
+jack	валет	out	2	8
+jack	домкрат	out	0	10
 jumper	джампер	out	0	7
 jumper	свитер	out	1	9
 law	полицейский полиция	out	0	10
@@ -117,6 +119,8 @@ logo	лого	out	1	5
 logo	логотип эмблема	in	10	0
 man	солдат	out	0	8
 man	человек мужчина юноша господин личность взрослый люди мужчины муж	in	10	0
+mole	крот	out	1	9
+mole	родинка родинки	out	1	9
 mouth	рот пасть	in	10	0
 mouth	устье	out	0	10
 neighborhood	окрестность	out	0	9

@@ -71,6 +71,8 @@
 порода	rock	out	2	8
 проводник	conductor	out	0	10
 проводник	guide	out	0	10
+программа	app application	out	0	10
+программа	program programme	in	8	2
 произведение	piece	in	10	0
 произведение	product	out	0	4
 рецепт	prescription	out	2	6
