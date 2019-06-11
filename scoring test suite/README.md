@@ -29,3 +29,16 @@ An example:
 
 (By default, the script assumes lower scores are better, however you change the setting with the `--maximize` option which means the higher the better)
 
+
+The results in Table 5 of the reference paper are in accuracy and score directory respectively.
+
+
+------
+
+
+If you use this work, please cite:
+
+*Alessandro Raganato, Yves Scherrer and Jörg Tiedemann. 2019.
+The MuCoW test suite at WMT 2019: Automatically harvested multilingual contrastive word sense disambiguation test sets for machine translation. 
+In Proceedings of the Fourth Conference on Machine Translation (WMT): Shared Task Papers. Florence, Italy (to appear).*
+
