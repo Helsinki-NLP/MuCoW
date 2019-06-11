@@ -4,8 +4,6 @@
 
 from __future__ import division, print_function, unicode_literals
 import sys
-reload(sys);
-sys.setdefaultencoding("utf8")
 import json
 import argparse
 from collections import defaultdict, OrderedDict
