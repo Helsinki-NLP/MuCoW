@@ -6,4 +6,4 @@ We submit this variant to the participants of the Conference of Machine Translat
 
 For more detailed statistics please refer to Section 4 of the reference paper.
 
-We release a script, `evaluate.py`, to compute precision, recall and fscore as explained in Section 5 of the reference paper. The evaluation script defines three paths that have to be set per language pair, for the metadata files, the raw (detokenized) system outputs, and the lemmatized system outputs. The evaluation scripts writes its results in TSV format to standard output.
+We release a script, `evaluate.py`, to compute precision, recall and fscore as explained in Section 5 of the reference paper. The evaluation script defines three paths that have to be set per language pair, for the metadata files, the raw (detokenized) system outputs, and the lemmatized system outputs. We add some example translation output in the `examples` directory to illustrate the script. The evaluation scripts writes its results in TSV format to standard output.
