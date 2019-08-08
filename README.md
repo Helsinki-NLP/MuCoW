@@ -21,4 +21,4 @@ If you use this work, please cite:
 [The MuCoW test suite at WMT 2019: Automatically harvested multilingual contrastive word sense disambiguation test sets for machine translation.](http://www.statmt.org/wmt19/pdf/WMT0054.pdf) 
 In Proceedings of the Fourth Conference on Machine Translation (WMT): Shared Task Papers. Florence, Italy.*
 
-[bib](http://www.statmt.org/wmt19/bib/WMT0054.bib)
+[bib file](http://www.statmt.org/wmt19/bib/WMT0054.bib)
