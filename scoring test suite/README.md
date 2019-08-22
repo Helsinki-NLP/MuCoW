@@ -40,5 +40,5 @@ If you use this work, please cite:
 
 *Alessandro Raganato, Yves Scherrer and Jörg Tiedemann. 2019.
 The MuCoW test suite at WMT 2019: Automatically harvested multilingual contrastive word sense disambiguation test sets for machine translation. 
-In Proceedings of the Fourth Conference on Machine Translation (WMT): Shared Task Papers. Florence, Italy (to appear).*
+In Proceedings of the Fourth Conference on Machine Translation (WMT): Shared Task Papers. Florence, Italy.*
 
