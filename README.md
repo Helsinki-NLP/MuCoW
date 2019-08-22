@@ -18,7 +18,7 @@ The second variant *"translation test suite"* covers 9 language pairs with a tot
 If you use this work, please cite:
 
 *Alessandro Raganato, Yves Scherrer and Jörg Tiedemann. 2019.
-[The MuCoW test suite at WMT 2019: Automatically harvested multilingual contrastive word sense disambiguation test sets for machine translation.](http://www.statmt.org/wmt19/pdf/WMT0054.pdf) 
+[The MuCoW test suite at WMT 2019: Automatically harvested multilingual contrastive word sense disambiguation test sets for machine translation.](https://www.aclweb.org/anthology/W19-5354) 
 In Proceedings of the Fourth Conference on Machine Translation (WMT): Shared Task Papers. Florence, Italy.*
 
-[bib file](http://www.statmt.org/wmt19/bib/WMT0054.bib)
+[bib file](https://www.aclweb.org/anthology/papers/W/W19/W19-5354.bib)
