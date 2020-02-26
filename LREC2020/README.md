@@ -10,7 +10,7 @@ Links will be added here.
 
 The test data is available in the folder `testdata`. The evaluation procedure is detailed below.
 
-### Translating the test set
+### 1. Translate the test set
 
 The folder `testdata` contains a *.test.txt.gz file for each language pair and direction, with the following structure (from the de-en translation direction):
 
@@ -39,7 +39,7 @@ I also believe that huge efforts have been made to achieve sensible materials re
 Keep both the segmented source file and the segmented output file, both will be needed for evaluation.
 
 
-### Lemmatizing the translated test set
+### 2. Lemmatize the translated test set
 
 Apply your postprocessing pipeline on the translation output. Then, parse the processed output to CoNLL-U format. (We use the Turku neural parser pipeline for this, but any other tool will do fine. MuCoW only requires lemmatization, all the other fields may remain empty.) The file `example-de-en/out_parsed.txt` shows an example:
 
@@ -63,7 +63,7 @@ Apply your postprocessing pipeline on the translation output. Then, parse the pr
 ...
 ```
 
-### Running the evaluation script
+### 3. Run the evaluation script
 
 The evaluation script `evaluate.py` takes six files as parameters:
 - `--ref-testsuite`: the test file as defined by the test suite (in our example `testdata/de-en.test.txt.gz`)
