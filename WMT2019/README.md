@@ -21,7 +21,8 @@ If you use this work, please cite:
 [The MuCoW test suite at WMT 2019: Automatically harvested multilingual contrastive word sense disambiguation test sets for machine translation.](https://www.aclweb.org/anthology/W19-5354) 
 In Proceedings of the Fourth Conference on Machine Translation (WMT): Shared Task Papers. Florence, Italy.*
 
-```@inproceedings{raganato-etal-2019-mucow,
+```
+@inproceedings{raganato-etal-2019-mucow,
     title = "The {M}u{C}o{W} Test Suite at {WMT} 2019: Automatically Harvested Multilingual Contrastive Word Sense Disambiguation Test Sets for Machine Translation",
     author = {Raganato, Alessandro  and Scherrer, Yves  and Tiedemann, J{\"o}rg},
     booktitle = "Proceedings of the Fourth Conference on Machine Translation (Volume 2: Shared Task Papers, Day 1)",
