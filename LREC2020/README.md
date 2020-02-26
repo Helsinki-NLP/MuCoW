@@ -14,21 +14,24 @@ The test data is available in the folder `testdata`. The evaluation procedure is
 
 The folder `testdata` contains a *.test.txt.gz file for each language pair and direction, with the following structure (from the de-en translation direction):
 
-```abfall  0       europarl        Allein dabei fällt eine riesige Menge an Abfall an .    This in itself generates a large amount of waste .      Abfall
+```
+abfall  0       europarl        Allein dabei fällt eine riesige Menge an Abfall an .    This in itself generates a large amount of waste .      Abfall
 abfall  0       europarl        Auch wurden meiner Auffassung nach gewaltige Anstrengungen unternommen , um eine vernünftige Materialverwertung und eine Reduzierung umweltschädlicher Abfälle zu erreichen sowie die technologische Innovation zu fördern .    I also think that a great effort has been made to arrive at intelligent recycling of materials , a reduction of polluting waste and the promotion of technological innovation . Abfälle
 ...
 ```
 
 For translation, only the fourth column (*Allein...*) is relevant. Extract this column from the file and apply your preprocessing pipeline on it. Tokenization is already done, but you may want to apply truecasing and subword splitting. An example of this file is found in `example-de-en/src_segmented.txt`:
 
-```allein dabei fällt eine riesige Menge an Abfall an .
+```
+allein dabei fällt eine riesige Menge an Abfall an .
 auch wurden meiner Auffassung nach gewaltige Anstrengungen unternommen , um eine vernünftige Material@@ ver@@ wertung und eine Reduzierung umwelt@@ schädlicher Abfälle zu erreichen sowie die technologische Innovation zu fördern .
 ...
 ```
 
 Translate this file with your translation system. An example output (without any postprocessing such as subword merging or detokenization) is found in `example-de-en/out_segmented.txt`:
 
-```just that , a huge amount of waste is falling .
+```
+just that , a huge amount of waste is falling .
 I also believe that huge efforts have been made to achieve sensible materials recycling and a reduction in environmentally harmful waste and to promote technological innovation .
 ...
 ```
@@ -40,7 +43,8 @@ Keep both the segmented source file and the segmented output file, both will be 
 
 Apply your postprocessing pipeline on the translation output. Then, parse the processed output to CoNLL-U format. (We use the Turku neural parser pipeline for this, but any other tool will do fine. MuCoW only requires lemmatization, all the other fields may remain empty.) The file `example-de-en/out_parsed.txt` shows an example:
 
-```# newdoc
+```
+# newdoc
 # newpar
 # sent_id = 1
 # text = Just that, a huge amount of waste is falling.
@@ -55,6 +59,7 @@ Apply your postprocessing pipeline on the translation output. Then, parse the pr
 9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
 10	falling	fall	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	SpacesAfter=\n
+
 ...
 ```
 
@@ -71,7 +76,8 @@ The evaluation script `evaluate.py` takes six files as parameters:
 The first three files remain identical for all systems, whereas the last three files vary according to different systems and segmentation strategies.
 
 Running the command:
-```python3 evaluate.py \
+```
+python3 evaluate.py \
 	--ref-testsuite testdata/de-en.test.txt.gz \
 	--sense-file testdata/senses.de-en.txt \
 	--dist-file testdata/distances.de-en.txt \
