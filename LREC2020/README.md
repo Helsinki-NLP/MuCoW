@@ -1,10 +1,12 @@
 # MuCoW - An evaluation benchmark for testing the Word Sense Disambiguation capabilities of Machine Translation systems
 
+## Download data and scripts
+
+https://zenodo.org/record/3688382
+
 ## Training data
 
 We make available training data for 5 language pairs (i.e. 10 translation directions) in *Small* and *Big* conditions.
-
-Links will be added here.
 
 ## Evaluation data and scripts
 
@@ -96,7 +98,7 @@ gives the following result table:
 |  corp:commoncrawl        | 792     | 946.9   | 582     | 130     | 1504    | 0.3108  | 0.5764  | 0.8590  | 0.6899    | 0.6892  | 0.7648  |
 |  corp:europarl   | 3074    | 3266.1  | 745     | 521     | 4340    | 0.1448  | 0.8049  | 0.8551  | 0.8292  | 0.8552    | 0.8551  |
 |  corp:globalvoices       | 1091    | 1124.7  | 128     | 77      | 1296    | 0.0774  | 0.8950  | 0.9341  | 0.9141    | 0.9226  | 0.9283  |
-|  corp:jw | 4024    | 4288.8  | 1058    | 356     | 5438    | 0.1561  | 0.7918  | 0.9187  | 0.8506  | 0.8439  0.8797 |
+|  corp:jw | 4024    | 4288.8  | 1058    | 356     | 5438    | 0.1561  | 0.7918  | 0.9187  | 0.8506  | 0.8439 | 0.8797 |
  | corp:multiun    | 13      | 17.8    | 17      | 13      | 43      | 0.4070  | 0.4333  | 0.5000  | 0.4643  | 0.5930    | 0.5425  |
 |  corp:tatoeba    | 830     | 852.0   | 84      | 27      | 941     | 0.0678  | 0.9081  | 0.9685  | 0.9373  | 0.9322    | 0.9500  |
 |  corp:ted        | 1660    | 1722.5  | 261     | 101     | 2022    | 0.1033  | 0.8641  | 0.9426  | 0.9017  | 0.8967    | 0.9191  |
