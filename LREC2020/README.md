@@ -10,7 +10,7 @@ We make available training data for 5 language pairs (i.e. 10 translation direct
 
 ## Evaluation data and scripts
 
-The test data is available in the folder `testdata`. The evaluation procedure is detailed below.
+The test data and evaluation script can also be found on Zenodo. The evaluation procedure is detailed below.
 
 ### 1. Translate the test set
 
