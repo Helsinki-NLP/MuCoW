@@ -15,7 +15,7 @@ The relevant data for this version can be found in the **WMT2019** folder.
 An extended version of MuCoW including training data is presented at LREC 2020:
 
 *Alessandro Raganato, Yves Scherrer and Jörg Tiedemann. 2020.
-An Evaluation Benchmark for Testing the Word Sense Disambiguation Capabilities of Machine Translation Systems.
+[An Evaluation Benchmark for Testing the Word Sense Disambiguation Capabilities of Machine Translation Systems.](https://www.aclweb.org/anthology/2020.lrec-1.452/)
 In Proceedings of the 12th Language Resources and Evaluation Conference. Marseille, France.*
 
 The relevant data for this version can be found in the **LREC2020** folder.
