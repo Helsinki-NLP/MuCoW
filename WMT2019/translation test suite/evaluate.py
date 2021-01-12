@@ -81,32 +81,47 @@ def processLanguagePair(lgpair, keyfile_prefix, rawtranslations_glob, lemtransla
 		counts["prec_out"] = 0 if counts["pos_out"] == 0 else counts["pos_out"] / (counts["pos_out"] + counts["neg_out"])
 		counts["prec_all"] = 0 if (counts["pos_in"] + counts["pos_out"]) == 0 else (counts["pos_in"] + counts["pos_out"]) / (counts["pos_in"] + counts["neg_in"] + counts["pos_out"] + counts["neg_out"])
 		
-		# Recall = pos / (pos+unk)
-		counts["rec_in"] = 0 if counts["pos_in"] == 0 else counts["pos_in"] / (counts["pos_in"] + counts["unk_in"])
-		counts["rec_out"] = 0 if counts["pos_out"] == 0 else counts["pos_out"] / (counts["pos_out"] + counts["unk_out"])
-		counts["rec_all"] = 0 if (counts["pos_in"] + counts["pos_out"]) == 0 else (counts["pos_in"] + counts["pos_out"]) / (counts["pos_in"] + counts["unk_in"] + counts["pos_out"] + counts["unk_out"])
+		# RecallA = pos / (pos+unk)
+		# This is the definition of recall that was used to compute the results tables
+		# in the papers, but *does not* correspond to the definition given in the papers.
+		counts["recA_in"] = 0 if counts["pos_in"] == 0 else counts["pos_in"] / (counts["pos_in"] + counts["unk_in"])
+		counts["recA_out"] = 0 if counts["pos_out"] == 0 else counts["pos_out"] / (counts["pos_out"] + counts["unk_out"])
+		counts["recA_all"] = 0 if (counts["pos_in"] + counts["pos_out"]) == 0 else (counts["pos_in"] + counts["pos_out"]) / (counts["pos_in"] + counts["unk_in"] + counts["pos_out"] + counts["unk_out"])
+
+		# RecallB = pos / (pos+unk+neg)
+		# This formula corresponds to the definition given in the papers,
+		# but is *not* the one that was used to compute the results tables.
+		counts["recB_in"] = 0 if counts["pos_in"] == 0 else counts["pos_in"] / (counts["pos_in"] + counts["unk_in"] + counts["neg_in"])
+		counts["recB_out"] = 0 if counts["pos_out"] == 0 else counts["pos_out"] / (counts["pos_out"] + counts["unk_out"] + counts["neg_out"])
+		counts["recB_all"] = 0 if (counts["pos_in"] + counts["pos_out"]) == 0 else (counts["pos_in"] + counts["pos_out"]) / (counts["pos_in"] + counts["unk_in"] + counts["neg_in"] + counts["pos_out"] + counts["unk_out"] + counts["neg_out"])
 		
-		counts["f1_in"] = 0 if (counts["prec_in"] + counts["rec_in"]) == 0 else 2 * counts["prec_in"] * counts["rec_in"] / (counts["prec_in"] + counts["rec_in"])
-		counts["f1_out"] = 0 if (counts["prec_out"] + counts["rec_out"]) == 0 else 2 * counts["prec_out"] * counts["rec_out"] / (counts["prec_out"] + counts["rec_out"])
-		counts["f1_all"] = 0 if (counts["prec_all"] + counts["rec_all"]) == 0 else 2 * counts["prec_all"] * counts["rec_all"] / (counts["prec_all"] + counts["rec_all"])
+		# F1A is based on RecallA
+		counts["f1A_in"] = 0 if (counts["prec_in"] + counts["recA_in"]) == 0 else 2 * counts["prec_in"] * counts["recA_in"] / (counts["prec_in"] + counts["recA_in"])
+		counts["f1A_out"] = 0 if (counts["prec_out"] + counts["recA_out"]) == 0 else 2 * counts["prec_out"] * counts["recA_out"] / (counts["prec_out"] + counts["recA_out"])
+		counts["f1A_all"] = 0 if (counts["prec_all"] + counts["recA_all"]) == 0 else 2 * counts["prec_all"] * counts["recA_all"] / (counts["prec_all"] + counts["recA_all"])
+		
+		# F1B is based on RecallB
+		counts["f1B_in"] = 0 if (counts["prec_in"] + counts["recB_in"]) == 0 else 2 * counts["prec_in"] * counts["recB_in"] / (counts["prec_in"] + counts["recB_in"])
+		counts["f1B_out"] = 0 if (counts["prec_out"] + counts["recB_out"]) == 0 else 2 * counts["prec_out"] * counts["recB_out"] / (counts["prec_out"] + counts["recB_out"])
+		counts["f1B_all"] = 0 if (counts["prec_all"] + counts["recB_all"]) == 0 else 2 * counts["prec_all"] * counts["recB_all"] / (counts["prec_all"] + counts["recB_all"])
 		
 		submissionName = toksubmission.split("/")[-1]
 		results[submissionName] = counts
 	
 	print(lgpair.upper())
 	print()
-	print("Submission\t\tInPos\tInNeg\tInUnk\tInCoverage\tInPrecision\tInRecall\tInFscore\t\tOutPos\tOutNeg\tOutUnk\tOutCoverage\tOutPrecision\tOutRecall\tOutFscore\t\tAllPos\tAllNeg\tAllUnk\tAllCoverage\tAllPrecision\tAllRecall\tAllFscore")
-	for submission, result in sorted(results.items(), key=lambda x: x[1]["f1_all"], reverse=True):
+	print("Submission\t\tInPos\tInNeg\tInUnk\tInCoverage\tInPrecision\tInRecallA\tInRecallB\tInFscoreA\tInFscoreB\t\tOutPos\tOutNeg\tOutUnk\tOutCoverage\tOutPrecision\tOutRecallA\tOutRecallB\tOutFscoreA\tOutFscoreB\t\tAllPos\tAllNeg\tAllUnk\tAllCoverage\tAllPrecision\tAllRecallA\tAllRecallB\tAllFscoreA\tAllFscoreB")
+	for submission, result in sorted(results.items(), key=lambda x: x[1]["f1A_all"], reverse=True):
 		s = submission
-		s += "\t\t{}\t{}\t{}\t{:.2f}%\t{:.2f}%\t{:.2f}%\t{:.2f}%".format(result["pos_in"], result["neg_in"], result["unk_in"], 100*result["cov_in"], 100*result["prec_in"], 100*result["rec_in"], 100*result["f1_in"])
-		s += "\t\t{}\t{}\t{}\t{:.2f}%\t{:.2f}%\t{:.2f}%\t{:.2f}%".format(result["pos_out"], result["neg_out"], result["unk_out"], 100*result["cov_out"], 100*result["prec_out"], 100*result["rec_out"], 100*result["f1_out"])
-		s += "\t\t{}\t{}\t{}\t{:.2f}%\t{:.2f}%\t{:.2f}%\t{:.2f}%".format(result["pos_in"] + result["pos_out"], result["neg_in"] + result["neg_out"], result["unk_in"] + result["unk_out"], 100*result["cov_all"], 100*result["prec_all"], 100*result["rec_all"], 100*result["f1_all"])
+		s += "\t\t{}\t{}\t{}\t{:.2f}%\t{:.2f}%\t{:.2f}%\t{:.2f}%\t{:.2f}%\t{:.2f}%".format(result["pos_in"], result["neg_in"], result["unk_in"], 100*result["cov_in"], 100*result["prec_in"], 100*result["recA_in"], 100*result["recB_in"], 100*result["f1A_in"], 100*result["f1B_in"])
+		s += "\t\t{}\t{}\t{}\t{:.2f}%\t{:.2f}%\t{:.2f}%\t{:.2f}%\t{:.2f}%\t{:.2f}%".format(result["pos_out"], result["neg_out"], result["unk_out"], 100*result["cov_out"], 100*result["prec_out"], 100*result["recA_out"], 100*result["recB_out"], 100*result["f1A_out"], 100*result["f1B_out"])
+		s += "\t\t{}\t{}\t{}\t{:.2f}%\t{:.2f}%\t{:.2f}%\t{:.2f}%\t{:.2f}%\t{:.2f}%".format(result["pos_in"] + result["pos_out"], result["neg_in"] + result["neg_out"], result["unk_in"] + result["unk_out"], 100*result["cov_all"], 100*result["prec_all"], 100*result["recA_all"], 100*result["recB_all"], 100*result["f1A_all"], 100*result["f1B_all"])
 		print(s)
 	print()
 	
 
 if __name__ == "__main__":
-	for lgpair in ("de-en", "fi-en", "lt-en", "ru-en", "en-de", "en-fi", "en-lt", "en-ru"):
+	for lgpair in ("en-cs", "de-en", "fi-en", "lt-en", "ru-en", "en-de", "en-fi", "en-lt", "en-ru"):
 		# path of the *.key.txt and *.domain.txt files
 		keyfileprefix = "txt/{}".format(lgpair)
 		# path of the detokenized translation output (one file per system)
@@ -114,4 +129,3 @@ if __name__ == "__main__":
 		# path of the lemmatized translation output (one file per system, same number of files and same ordering as detokenized files)
 		lemtranslations = "examples/{}-lem/*.parsed.toklemma".format(lgpair)
 		processLanguagePair(lgpair, keyfileprefix, rawtranslations, lemtranslations)
-		

@@ -10,6 +10,11 @@ In Proceedings of the Fourth Conference on Machine Translation (WMT): Shared Tas
 
 The relevant data for this version can be found in the **WMT2019** folder.
 
+The same data was used again to evaluate the WMT 2020 systems:
+
+*Yves Scherrer, Alessandro Raganato, Jörg Tiedemann. 2020
+[The MUCOW word sense disambiguation test suite at WMT 2020.](https://www.aclweb.org/anthology/2020.wmt-1.40/) In Proceedings of the Fifth Conference on Machine Translation (WMT). Online.*
+
 ## LREC 2020 Version
 
 An extended version of MuCoW including training data is presented at LREC 2020:
@@ -19,3 +24,7 @@ An extended version of MuCoW including training data is presented at LREC 2020:
 In Proceedings of the 12th Language Resources and Evaluation Conference. Marseille, France.*
 
 The relevant data for this version can be found in the **LREC2020** folder.
+
+## A note on evaluation:
+
+For both WMT and LREC versions, there is a mismatch between the definitions of recall given in the papers and those used to compute the results. The evaluation scripts have been updated to provide both variants: recallA corresponds to the one effectively used in the results tables, recallB corresponds to the definition in the papers.
