@@ -2,7 +2,7 @@
 
 ## Download data and scripts
 
-https://zenodo.org/record/3688382
+https://zenodo.org/record/4434669#.X_3SZVlKg5k
 
 ## Training data
 
